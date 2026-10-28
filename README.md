@@ -206,10 +206,58 @@ textures **by GUID**, and GUI scripts reference names/pairs that can be matched 
   At load-base == file base the relocation is a no-op — its main future use is to statically
   distinguish code from data-pointer words for literal-pool xref scans.
 
-## 8. Where this project is heading
+## 8. The web port (`web/`)
+
+`web/` is the working three.js port. Serve statically and open — no build step, no Node:
+
+```
+cd "Hooked On_Creatures of the Deep/web"
+python3 -m http.server 8000
+# → http://localhost:8000
+```
+
+- `index.html` — loading screen, HUD (state banner / charge bar / score), importmap pinning `three@0.160.0` (unpkg CDN)
+- `style.css` — HUD/loading styling
+- `js/main.js` — `Assets` loader (asset registry + WAV pool), `World` (sky dome shader, animated water ShaderMaterial using three real caustic JPEG tiles from the pak, boat+rod, bobber, splash decal, fish leap sprite), `Game` — full cast-loop state machine:
+  **IDLE → hold CHARGE → release CAST (ballistic arc + line) → FLOAT (random bite) → STRIKE (timed window) → CATCH / miss → reset**
+- `assets/index.json` — generated registry: 1,466 images (288 pak PNGs + 301 raw PNGs + 474 JPEGs + 403 NE3DNTEX→PNG) and 75 WAVs, keyed by pak blob id
+- `assets/img/…`, `assets/sfx/…` — the converted/copied files
+
+Smoke-tested with headless Chromium (playwright): boot → load screen → start → charge → cast → strike → CATCH is verified green; screenshots in `pak_out/webshot_*.png`.
+
+**Known approximations (documented, on purpose):**
+- SFX selection is duration-heuristic (see `SFX_KEYS`): the recovered sound name table (`pak_out/name_tables.json`, 76 names like `rod_caststart_1.wav`, `menu_select.wav`) can't yet be linked to blob ids — name-hash linkage is an open item.
+- Sky/boat/fish are procedural stand-ins; the caustic water, terrain strips and splash decal are genuine game art.
+- The fullscreen NE3DXSCN scene graph is not used yet — that's the next depth phase.
+
+## 9. NE3DNTEX texture format (cracked)
+
+Recovered from the blob set + verified visually on 403/413 files:
+
+```
+header (32 bytes):
+  +0  magic "NE3DNTEX"
+  +8  version u32 (3)
+  +12 width u16, +14 height u16
+  +16 0x840 / 0x801
+  +20 2
+  +24 0x30
+  +28 palette byte-size u32  (0x200 = 512 → 256 RGB565 entries; some use 0x100 → 128)
+payload:
+  palette: palbytes of RGB565 u16 LE
+  pixels:  w*h bytes, each an index into the palette
+  tail:    8 extra bytes
+```
+
+Converted with the loop in this README's history / `web/` bootstrap; PNGs in
+`pak_out/ntex_png/` and used directly by the web port. The 10 failures are a
+variant sub-layout (64×64, pal 256 B but data offset mismatch) — unexplored.
+
+## 10. Where this project is heading
 
 1. ~~SIS carve~~ 2. ~~E32 parse~~ 3. ~~pack decode~~ 4. ~~classification~~ 5. ~~name tables~~ 6. ~~hash function~~
-7. **⇒ next: scaffold the three.js port**
+7. ~~three.js cast-loop scaffold (working, headless-verified)~~
+8. **⇒ next: port depth**
    - game/system load: reimplement `CFileSystem` (pak framing + hash index) in JS at runtime,
      so the port reads `data0000.pak` directly,
    - or pre-export asset digests via the GUID linkage found in the scene chunks,

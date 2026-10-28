@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<title>Hooked On: Creatures of the Deep — three.js port</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:,">
+</head>
+<body>
+<div id="app">
+  <canvas id="gl"></canvas>
+
+  <!-- loading overlay -->
+  <div id="loadscreen">
+    <div class="logo">
+      <div class="title">HOOKED ON</div>
+      <div class="subtitle">Creatures of the Deep</div>
+      <div class="tag">three.js rebuild of the N-Gage original</div>
+    </div>
+    <div id="loadbar"><div id="loadfill"></div></div>
+    <div id="loadtext">loading assets…</div>
+    <div id="startbtn" class="hidden">CLICK TO START</div>
+  </div>
+
+  <!-- HUD -->
+  <div id="hud" class="hidden">
+    <div id="statebox"></div>
+    <div id="powerwrap" class="hidden">
+      <div id="powerbar"><div id="powerfill"></div></div>
+      <div id="powertext">CAST POWER</div>
+    </div>
+    <div id="scorebox">0 fish</div>
+    <div id="help">Hold to charge cast · Release to cast · Click when “STRIKE!”<br>Esc = reset</div>
+  </div>
+</div>
+
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://unpkg.com/three@0.160.0/build/three.module.js"
+  }
+}
+</script>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

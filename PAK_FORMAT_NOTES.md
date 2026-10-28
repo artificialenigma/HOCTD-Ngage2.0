@@ -41,6 +41,32 @@ resident in the game exe `game_payloads/0063_1230672.bin` (uid3=0x2000AFBC):
 | ~1041 incl. | quests/guests | dialog chunks literally named `01 quest…`, `02 guest…` |
 | 62 | guidstr | `[GUID16][name]` scenery pieces: `Paper-wood_alaska`, `Paper-board_costarica` … |
 
+## ENGINE NAME-HASH (RECOVERED, emulation-verified Oct 2026)
+`LookupIndexByName` vaddr **0x126dc** (inlined twin `0x126a0`, which also terminates on `'A'`), seed
+literal **0x12345678** at vaddr 0x12b30 (file 0xABCC):
+
+    h = 0x12345678; i = 1
+    for c in name_bytes:            # ldrb, ASCII, until \0 (or 'A' in the twin)
+        h += (i * c) << ((i & 3) * 8)   # lane = ((h<<30)>>27) == (i&3)*8
+        i += 1
+
+Python impl: `pak_hash.py`. Verified instruction-by-instruction with Unicorn (loop trace = formula).
+Callers of 0x126dc: 0x12764, 0x12ad0 (ReadFile fallback), 0x12c0c, 0x12c78, 0x12cc4.
+
+**Pak index entry layout (corrected!):** index starts at file off **24**, count = plain u32 @ off 16.
+Entry (whole file is XOR 0xAA, so these are post-de-XOR values):
+`[+0 off][+4 uncomprSize][+8 comprSize | f2<<24][+12 hash32]` (all fields stored ^0xAAAAAAAA in file).
+CFileSystem init @ 0x12608: read count `4B @file 0x10`, then `count*16 @file 0x14`. LoadEntry uses
+`entry+4`; ReadFile-to-blob path uses `entry+8` (r1=8+idx*16); LookupIndexByName compares `entry+0`
+== H(name).
+
+**Still open:** H(name) matches no hash32 of the 5,680 entries for ANY of the names from the
+recovered tables (10 string-encodings, 0 hits), nor table record keys (dups prove keys aren't a pure
+name hash). So the loader-visible filenames differ from the (≤31-char truncated) table labels, or
+entries are keyed by GUID-hex-tagged paths (see `.ldat` names like
+`2cfc395e9d614ffab74562469f77de36.ldat` found via ReadFile ext-checks @0x129f8; pool @0x12b48).
+Salt brute-force (all 25,887 printable 2–20-char strings in the exe, prefix/suffix) found nothing.
+
 ## RESOURCE NAME TABLES (all recovered; parse: header12B, then N×48B records `[GUID16][31-char name]`, sorted by first u32 key)
 - blob 5130: 493 pictures (.png/.bmp paths like `panel\gps.png`, `rods\rod2_hand_sunset.png`)
 - blob 5282: 76 sounds (`diary_newspaper.wav`, `rod_caststart_1.wav` …; note `land_seagulls_1.wav` twice)
