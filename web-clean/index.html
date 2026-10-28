@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<title>Deepwater — a clean-room fishing game (HO:CotD inspired)</title>
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:,">
+</head>
+<body>
+<div id="app">
+  <canvas id="gl"></canvas>
+
+  <!-- =====  MENU  ===== -->
+  <div id="menu" class="screen">
+    <div class="logo">
+      <div class="title">DEEPWATER</div>
+      <div class="subtitle">creatures of the deep</div>
+      <div class="tag">an original clean-room fishing game — inspired by the 2008 N-Gage classic</div>
+    </div>
+    <div class="menubox">
+      <div class="mi" data-go="fish">▸ GO FISHING</div>
+      <div class="mi" data-go="log">▸ LOGBOOK &amp; BESTIARY</div>
+      <div class="mi" data-go="how">▸ HOW TO PLAY</div>
+    </div>
+    <div class="foot">all art &amp; audio synthesized at runtime — no game assets reused</div>
+  </div>
+
+  <!-- =====  HOW TO PLAY  ===== -->
+  <div id="how" class="screen hidden">
+    <h2>How to play</h2>
+    <div class="howtext">
+      <p><b>Cast</b> — press and hold to swing the rod back (power meter climbs), release to send the lure flying.</p>
+      <p><b>Wait</b> — watch the bobber. When a fish nudges it you'll get a <b>STRIKE</b> window — click fast.</p>
+      <p><b>Fight</b> — the duel. Hold the mouse to <b>reel</b> (the blue <i>distance</i> bar drains — get the fish to the boat). The fish fights back: reeling raises <b>strain</b> (green→red bar). If strain maxes, the line SNAPS. Breathe (release) to let strain fall — but the fish gains water. Play chicken with the gauge.</p>
+      <p>Every catched creature gives <b>XP</b>. Level up to unlock richer waters. Rare species, junk items and maybe… something legendary.</p>
+      <p class="mi" data-go="menu" style="margin-top:14px">▸ BACK</p>
+    </div>
+  </div>
+
+  <!-- =====  LOGBOOK / BESTIARY  ===== -->
+  <div id="log" class="screen hidden">
+    <h2>Logbook</h2>
+    <div id="logstats"></div>
+    <div id="bestiary"></div>
+    <p class="mi" data-go="menu" style="margin-top:14px">▸ BACK</p>
+  </div>
+
+  <!-- =====  GAME HUD  ===== -->
+  <div id="hud" class="hidden">
+    <div id="statebox"></div>
+    <div id="meterwrap" class="hidden">
+      <div id="meter"><div id="meterfill"></div><div id="sweet"></div></div>
+      <div id="metertext">POWER</div>
+    </div>
+
+    <!-- fight gauge -->
+    <div id="fightwrap" class="hidden">
+      <div class="flabel">DISTANCE TO BOAT</div>
+      <div id="distbar"><div id="distfill"></div></div>
+      <div class="flabel">LINE STRAIN</div>
+      <div id="strainbar"><div id="strainfill"></div></div>
+      <div id="fighttip">HOLD to reel · RELEASE to rest · don't redline the strain!</div>
+    </div>
+
+    <div id="xpbox">LVL 1 · 0 XP</div>
+    <div id="spotbox">COSTA VERDE BAY · {{tod}}</div>
+
+    <!-- catch card -->
+    <div id="catchcard" class="hidden">
+      <div class="cchead" id="ccname">Species</div>
+      <div class="ccsub"><span id="ccweight"></span> · <span id="ccrarity"></span></div>
+      <div class="ccquote" id="ccquote"></div>
+      <div class="ccxp" id="ccxp">+0 XP</div>
+      <div class="cchint" id="cchint">click to continue</div>
+    </div>
+
+    <div id="toast"></div>
+    <div id="help">Esc = menu</div>
+  </div>
+</div>
+
+<script type="importmap">
+{ "imports": { "three": "https://unpkg.com/three@0.160.0/build/three.module.js" } }
+</script>
+<script type="module" src="js/game.js"></script>
+</body>
+</html>
