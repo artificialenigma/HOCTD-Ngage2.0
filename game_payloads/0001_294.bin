@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NgiInstallerGameInfo>
+    <GameExeFileName>COTD.exe</GameExeFileName>
+    <InvitationPossibleFlag>1</InvitationPossibleFlag>
+    <RankingPossibleFlag>1</RankingPossibleFlag>
+    <GameType>SINGLE</GameType>
+</NgiInstallerGameInfo>

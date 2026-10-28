@@ -1,0 +1,43 @@
+<nafSettings>
+    <nafSetting name="Version" value="2.50.009"allowOverride="true" />
+    <nafSetting name="UpdateURL" value="/ngi/servlets/update" allowOverride="true"  />
+    <nafSetting name="UpdateConfigPath" value="\system\apps\AOA\" allowOverride="false" />
+    <nafSetting name="UpdateConfigName" value="AOAUpdateConfig.xml" allowOverride="false" />
+    <nafSetting name="WebServicesProtocol" value="http://" allowOverride="true" />
+    <nafSetting name="WebContentPath" value="/ngi/axis/services/NGICommunity" allowOverride="true"  />
+    <nafSetting name="WebRatingServicePath" value="/ngi/axis/services/ratings" allowOverride="true"  />
+    <nafSetting name="UserProfilePath" value="/ngi/axis/services/userprofile" allowOverride="true"  />
+    <nafSetting name="HeartBeatPath" value="/ngi/axis/services/NGICommunity" allowOverride="true"  />
+    <nafSetting name="HeartBeatFrequency" value="600000000" allowOverride="true" />
+    <nafSetting name="GameServerFQDN" value="snap.dev.naftest.nokia.sf.yav4.com" allowOverride="true" />
+    <nafSetting name="JabberServicesName" value="retrieval" allowOverride="true" />
+    <nafSetting name="JabberReportingName" value="reporter" allowOverride="true" />
+    <nafSetting name="GameNotifierServiceName" value="gamenotifier@sc-stage" allowOverride="true" />
+    <nafSetting name="DownloadChunkSize" value="2000" allowOverride="true" />
+    <nafSetting name="UploadURL" value="/ngi/servlets/upload" allowOverride="true"  />
+    <nafSetting name="DownloadURL" value="/ngi/servlets/download" allowOverride="true"  />
+    <nafSetting name="RankingsURL" value="/ngi/servlets/rankings" allowOverride="true"  />
+    <nafSetting name="MOTD" value="true" allowOverride="true" />
+    <nafSetting name="PendingAlertNotify" value="True" allowOverride="true" />
+    <nafSetting name="SystemSFX" value="true"	 allowOverride="true" />
+    <nafSetting name="GroupChatGCID" value="631" allowOverride="true" />
+    <nafSetting name="GroupChatFQDN" value="snap.dev.naftest.nokia.sf.yav4.com" allowOverride="true" />
+    <nafSetting name="GuidedLogin" value="true" allowOverride="true" />
+    <nafSetting name="GCLoginSmallInterval" value="5" allowOverride="true" />
+    <nafSetting name="GCLoginLargeInterval" value="600"  allowOverride="true" />
+    <nafSetting name="GCMaxLoginCount" value="5" allowOverride="true" />
+    <nafSetting name="GroupChatTimeout" value="15" allowOverride="true" />
+    <nafSetting name="GroupChatUserCountUpdatePeriod" value="0" allowOverride="true" />
+    <nafSetting name="GCMaxUsersToDisplay" value="30"  allowOverride="true" />
+    <nafSetting name="DisableAlertPopups" value="true"  allowOverride="true" />
+    <nafSetting name="DisableAlertSounds" value="True"  allowOverride="true" />
+    <nafSetting name="DisableAlertBacklight" value="True"  allowOverride="true" />
+    <nafSetting name="DisableMessagePopups" value="true"  allowOverride="true" />
+    <nafSetting name="DisableMessageSounds" value="True"  allowOverride="true" />
+    <nafSetting name="DisableMessageBacklight" value="True"  allowOverride="true" />
+    <nafSetting name="IMEI" value="4242424200"  allowOverride="true" />
+    <nafSetting name="BluetoothAckPeriod" value = "6000000" allowOverride="true" />
+    <nafSetting name="BluetoothAckTries" value = "6" allowOverride="true" />
+</nafSettings>
+
+

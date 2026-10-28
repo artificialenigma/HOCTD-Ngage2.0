@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE helpcontent[
+  <!ELEMENT helpcontent (helptopic+)>
+  <!ELEMENT helptopic (title, item+)>
+  <!ATTLIST helptopic id CDATA #REQUIRED>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT item (p+)>
+  <!ELEMENT p (#PCDATA | b | i | u)*>
+  <!ATTLIST p style (normal|bullet|important) #IMPLIED
+              level (zero|one|two|three|four) #IMPLIED>
+  <!ELEMENT b (#PCDATA)>
+  <!ELEMENT i (#PCDATA)>
+  <!ELEMENT u (#PCDATA)>
+]>
+
+<helpcontent>
+
+<helptopic id="PLAY_HLP_SHOWROOM_FREE_TRIAL">
+<title>下载免费的试玩版</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要下载免费试玩版游戏，请选择<b>游戏大厅</b>、游戏以及<b>选项</b> > <b>下载免费试玩版本</b>。</p>
+
+<p style="normal" level="zero">
+要在兼容的 PC 上下载游戏，请访问 www.n-gage.com。 您可以使用 USB 数据线将游戏从 PC 传送到您的手机中。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_ABOUT">
+<title>游戏附加产品详情</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+选择<b>游戏大厅</b>、附加产品以及<b>选项</b> > <b>查看详细信息</b>。</p>
+
+<p style="normal" level="zero">
+游戏附加产品是新的或附加的条目，如游戏发行后可用的新人物、新武器和新级别。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>下载游戏附加产品</b>
+- 
+将所选游戏附加产品下载到手机中。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_LIST">
+<title>游戏附加产品</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+游戏附加产品是新的或附加的条目，如游戏发行后可用的新人物、新武器和新级别。</p>
+
+<p style="normal" level="zero">
+选择<b>游戏大厅</b> > <b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>查看详细信息</b>
+- 
+查看所选游戏附加产品的详情。
+</p>
+<p style="bullet" level="one"> 
+<b>下载游戏附加产品</b>
+- 
+将所选游戏附加产品下载到手机中。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_MEDIA">
+<title>预览游戏附加产品</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+选择<b>游戏大厅</b>和游戏附加产品。 游戏附加产品是新的或附加的条目，如游戏发行后可用的新人物、新武器和新级别。 您还可以查看有关游戏附加产品的屏幕截图和视频片段（如果有）。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>查看</b>
+- 
+全屏查看屏幕截图或视频片段。
+</p>
+<p style="bullet" level="one"> 
+<b>下载游戏附加产品</b>
+- 
+将所选游戏附加产品下载到手机中。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_FEATUREDGAME">
+<title>特色游戏</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要体验新游戏，请选择<b>游戏大厅</b>，然后下载免费试玩版。 要购买游戏，请在试玩版中选择<b>购买</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>查看详细信息</b>
+- 
+查看所选游戏的详情。
+</p>
+<p style="bullet" level="one"> 
+<b>下载免费试玩版本</b>
+- 
+开始下载该游戏的免费试玩版。
+</p>
+<p style="bullet" level="one"> 
+<b>立即更新</b>
+- 
+更新游戏列表。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_FRIENDS_FIND_FRIEND">
+<title>查找玩家</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要搜索 N-Gage 玩家，请选择<b>我的好友</b>，在搜索栏中输入玩家昵称，然后选择<b>选项</b> > <b>提交</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>好友分类依据</b>
+- 
+可按玩家状态、玩家昵称或 N-Gage 点数对好友列表上的玩家进行分类。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_GAMESLIST">
+<title>查找更多游戏</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要查看哪些游戏可供下载，请选择<b>游戏大厅</b> > <b>选项</b> > <b>现有游戏</b>。 新游戏已依次添加到游戏大厅。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>立即更新</b>
+- 
+更新现有游戏列表。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_FRIENDS_MAIN_FRIEND">
+<title>好友</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要查看哪位好友在线并可进行游戏，请选择<b>我的好友</b>。 您也可以发送和接收私人消息和游戏推荐或搜索特定的 N-Gage 玩家并将他们邀请到您的好友列表中。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>查看消息</b>
+- 
+查看来自所选好友的私人消息。
+</p>
+<p style="bullet" level="one"> 
+<b>发送消息</b>
+- 
+向所选好友发送私人消息。
+</p>
+<p style="bullet" level="one"> 
+<b>查看推荐</b>
+- 
+查看来自所选好友的游戏推荐。
+</p>
+<p style="bullet" level="one"> 
+<b>玩家评分</b>
+- 
+对所选好友进行评分。
+</p>
+<p style="bullet" level="one"> 
+<b>好友分类依据</b>
+- 
+可按玩家状态、玩家昵称或 N-Gage 点数对好友进行分类。
+</p>
+<p style="bullet" level="one"> 
+<b>从“好友列表”中删除</b>
+- 
+从您的好友列表中删除所选好友。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_DETAILS">
+<title>游戏详情</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要查看有关游戏的信息，下载免费试用版，以及查看来自其他玩家的评论，请选择<b>游戏大厅</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后得到以下的选择：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>下载免费试玩版本</b>
+- 
+下载游戏的免费试用版。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置自己的状态以开始玩游戏
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑自己的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请访问 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_GAME_EXTRAS">
+<title>游戏附加产品</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+游戏附加产品是新的或附加的条目，如游戏发行后可用的新人物、新武器和新级别。</p>
+
+<p style="normal" level="zero">
+选择<b>游戏大厅</b> > <b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>浏览所有游戏附加产品</b>
+- 
+查看游戏附加产品类别。
+</p>
+<p style="bullet" level="one"> 
+<b>立即更新</b>
+- 
+更新游戏列表。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_GAME">
+<title>游戏个人资料</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+选择<b>个人资料</b> > <b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>查看详细信息</b>
+- 
+查看您的 N-Gage 点数、点数得分和游戏排名。
+</p>
+<p style="bullet" level="one"> 
+<b>编辑个人资料</b>
+- 
+编辑您公开的玩家个人资料。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_MEDIA">
+<title>预览游戏</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要查看游戏的屏幕截图和视频片段，请选择<b>游戏大厅</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>查看</b>
+- 
+全屏查看所选的视频片段或屏幕截图。
+</p>
+<p style="bullet" level="one"> 
+<b>下载免费试玩版本</b>
+- 
+下载该游戏的免费试玩版。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME">
+<title>现有游戏</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要体验新游戏，请选择<b>游戏大厅</b>，然后下载免费试玩版。</p>
+
+<p style="normal" level="zero">
+ 要购买游戏，请在试玩版中选择<b>购买</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>查看详细信息</b>
+- 
+查看所选游戏的详情。
+</p>
+<p style="bullet" level="one"> 
+<b>下载免费试玩版本</b>
+- 
+开始下载该游戏的免费试玩版。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAMES_MAIN_GET_GAME">
+<title>获取更多游戏</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+选择<b>游戏大厅</b> > <b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>去游戏大厅</b>
+- 
+查看游戏大厅中有哪些游戏。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAMES_MAIN_INSTALLED">
+<title>已安装的游戏</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要开始和管理已下载到手机中的游戏，请选择<b>我的游戏</b>。 所选游戏旁边的提示栏可指示您在游戏中的进程。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>开始游戏</b>
+- 
+开始玩所选的游戏。
+</p>
+<p style="bullet" level="one"> 
+<b>游戏评分</b>
+- 
+为所选游戏评分。
+</p>
+<p style="bullet" level="one"> 
+<b>查看我的个人资料</b>
+- 
+查看所选游戏的 N-Gage 点数。
+</p>
+<p style="bullet" level="one"> 
+<b>发送推荐</b>
+- 
+将游戏推荐给好友。
+</p>
+<p style="bullet" level="one"> 
+<b>删除游戏</b>
+- 
+从手机存储中删除游戏，但在手机上保留游戏存储及其它游戏数据。
+</p>
+<p style="bullet" level="one"> 
+<b>完全删除游戏</b>
+- 
+从手机存储中删除游戏和所有相关的游戏数据。
+</p>
+<p style="bullet" level="one"> 
+<b>查看内存详细信息</b>
+- 
+查看已用和可用存储的详情。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_GEN_SETTINGS">
+<title>玩家级别</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要查看您的 N-Gage 点数级别，请选择<b>个人资料</b>。 系统会根据您的 N-Gage 点数自动计算级别。</p>
+
+<p style="normal" level="zero">
+要更新您的级别，请连接到 N-Gage 服务。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>编辑个人资料</b>
+- 
+编辑您公开的玩家个人资料。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_MESSAGES">
+<title>消息</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要阅读来自 N-Gage 好友的消息，请选择<b>新消息</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>查看消息</b>
+- 
+查看所选消息或邀请。
+</p>
+<p style="bullet" level="one"> 
+<b>检查更新</b>
+- 
+检查可用的更新。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_EXTRAS">
+<title>游戏附加产品</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+游戏附加产品是新的或附加的条目，如游戏发行后可用的新人物、新武器和新级别。</p>
+
+<p style="normal" level="zero">
+选择<b>游戏大厅</b> > <b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>浏览所有游戏附加产品</b>
+- 
+查看游戏附加产品类别。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_OPERAT_PORTAL">
+<title>运营商门户</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要在网络浏览器中打开您的运营商门户并查找更多游戏，请选择<b>游戏大厅</b> > <b>éé¡¹ [éé¡¹]</b> > <b>%U 上的更多游戏</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>立即更新</b>
+- 
+更新现有游戏列表。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_GAME">
+<title>与您的好友一起玩</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要与目前可玩游戏的 N-Gage 好友进行联系，请选择<b>与好友一起玩</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>查看我的好友</b>
+- 
+查看您的好友列表。
+</p>
+<p style="bullet" level="one"> 
+<b>检查更新</b>
+- 
+检查可用的更新。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_REVIEWS">
+<title>玩家评论</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要阅读其他 N-Gage 玩家对游戏的评论，请选择<b>游戏大厅</b> > <b>查看详细信息</b> > <b>评论</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>下载免费试玩版本</b>
+- 
+下载该游戏的免费试玩版。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_MAIN_OWN">
+<title>您的玩家个人资料</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要设置您的玩家状态、编辑您公开的玩家个人资料及修改您的私人帐户，请选择<b>个人资料</b>。</p>
+
+<p style="normal" level="zero">
+您的个人资料包含以下栏位：</p>
+
+<p style="normal" level="zero">
+<b>N-Gage 点数</b>显示您通过以下活动获得的点数：完成游戏中的点数得分、进行多玩家游戏比赛及参与 N-Gage 社区活动。</p>
+
+<p style="normal" level="zero">
+<b>声望值</b>根据您好友的评分显示您的游戏声誉。</p>
+
+<p style="normal" level="zero">
+<b>好友</b>指示您有多少好友。</p>
+
+<p style="normal" level="zero">
+<b>N-Gage 点数等级</b>指示基于 N-Gage 总点数的级别。 要更新您的 N-Gage 点数级别，请连接到 N-Gage 服务。</p>
+
+<p style="normal" level="zero">
+<b>游戏历史记录</b>列出您最近玩过的五种游戏。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>个人资料详细信息</b>
+- 
+查看您的 N-Gage 点数。
+</p>
+<p style="bullet" level="one"> 
+<b>编辑个人资料</b>
+- 
+编辑您公开的玩家个人资料。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+更新您的个人资料后，请连接至 N-Gage 服务将您所做的更改与 N-Gage 服务器同步。</p>
+
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_SHOWROOM">
+<title>游戏大厅</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要查看现有游戏及下载免费试玩版游戏，请选择<b>游戏大厅</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>特色游戏</b>
+- 
+查看所选游戏的详情。
+</p>
+<p style="bullet" level="one"> 
+<b>检查更新</b>
+- 
+检查可用的更新。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_START_GAME">
+<title>开始游戏</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要开始或继续上次玩的游戏或与可玩游戏的 N-Gage 好友联系，请选择<b>开始游戏</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>开始游戏</b>
+- 
+开始玩上次玩过的游戏。
+</p>
+<p style="bullet" level="one"> 
+<b>继续游戏</b>
+- 
+继续暂停的游戏。
+</p>
+<p style="bullet" level="one"> 
+<b>检查更新</b>
+- 
+检查可用的更新。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_PROFILE">
+<title>追踪您的点数</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+要查看您当前的 N-Gage 点数，请选择<b>追踪我的进程</b>。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>查看我的点数</b>
+- 
+查看您的 N-Gage 点数。
+</p>
+<p style="bullet" level="one"> 
+<b>查看我的个人资料</b>
+- 
+查看您的玩家个人资料。
+</p>
+<p style="bullet" level="one"> 
+<b>检查更新</b>
+- 
+检查可用的更新。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAME_MAIN_UNAVAILABLE">
+<title>不可进行的游戏</title><item>
+
+<p style="normal" level="zero">
+打开 N-Gage 应用程序。</p>
+
+<p style="normal" level="zero">
+选择<b>我的游戏</b>。 不可进行的游戏是指您已卸载或虽然已下载、但未完成安装的完整游戏。 取出存储卡后，安装在存储卡上的游戏也显示为不可进行的游戏。 不可进行的游戏通常不能玩。</p>
+
+<p style="normal" level="zero">
+选择<b>选项</b>，然后选择执行以下操作：</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>取消下载</b>
+- 
+取消下载所选游戏。
+</p>
+<p style="bullet" level="one"> 
+<b>安装游戏</b>
+- 
+安装所选游戏。
+</p>
+<p style="bullet" level="one"> 
+<b>重新安装游戏</b>
+- 
+重新安装所选游戏。
+</p>
+<p style="bullet" level="one"> 
+<b>完全删除游戏</b>
+- 
+删除游戏和所有相关的游戏数据。
+</p>
+<p style="bullet" level="one"> 
+<b>查看内存详细信息</b>
+- 
+查看已用和可用存储的详情。
+</p>
+<p style="bullet" level="one"> 
+<b>设置玩家状态</b>
+- 
+设置您的玩家状态。
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage 设置</b>
+- 
+编辑您的私人帐户。
+</p>
+</item><item>
+<p style="normal" level="zero">
+有关更多信息，请参见 www.n-gage.com。</p>
+
+<p></p></item></helptopic>
+</helpcontent>

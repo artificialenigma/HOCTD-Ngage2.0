@@ -1,0 +1,7 @@
+<SERVICECONFIG	iid = "{0x20001075, 0x00000000, 0x00000000, 0xFFFFFFFF}"
+				serveruid = "0x20001076"
+				threadname = "NAFIMPSSrvr_V3"
+				filename = "NAFIMPSSrvr_V3"
+				heapsizemax = "0x40000"
+				heapsizemin = "0x1000"
+/>

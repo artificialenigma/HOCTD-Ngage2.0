@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes" ?>
+<backup_registration>
+    <system_backup />
+    <restore requires_reboot="no" />
+    <passive_backup>
+        <include_directory name="\" />
+    </passive_backup>
+    <public_backup>
+        <include_file name="E:\.play_mc.id" />
+    </public_backup>
+</backup_registration>

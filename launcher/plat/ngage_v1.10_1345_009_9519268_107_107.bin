@@ -1,0 +1,5 @@
+AutomaticActivation=01#
+MaxCCReEntries=03#
+MaxDrmRetries=01#
+MaxHttpRequestRetries=01#
+HttpTimeout=060#

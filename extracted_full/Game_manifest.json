@@ -1,0 +1,591 @@
+{
+ "sis": "Game.sisx",
+ "package_uid": "0x2000afbc",
+ "files": [
+  {
+   "i": 0,
+   "file_index": 0,
+   "target": "c:\\private\\20007b38\\import\\achievements.xml",
+   "mime": "",
+   "algo": 1,
+   "size": 51670,
+   "written": "Game/c/private/20007b38/import/achievements.xml"
+  },
+  {
+   "i": 1,
+   "file_index": 1,
+   "target": "c:\\private\\20007b38\\import\\gameinfo.xml",
+   "mime": "",
+   "algo": 1,
+   "size": 294,
+   "written": "Game/c/private/20007b38/import/gameinfo.xml"
+  },
+  {
+   "i": 2,
+   "file_index": 2,
+   "target": "c:\\private\\20007b38\\import\\PP01.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4163,
+   "written": "Game/c/private/20007b38/import/PP01.png"
+  },
+  {
+   "i": 3,
+   "file_index": 3,
+   "target": "c:\\private\\20007b38\\import\\PP02.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4114,
+   "written": "Game/c/private/20007b38/import/PP02.png"
+  },
+  {
+   "i": 4,
+   "file_index": 4,
+   "target": "c:\\private\\20007b38\\import\\PP03.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4115,
+   "written": "Game/c/private/20007b38/import/PP03.png"
+  },
+  {
+   "i": 5,
+   "file_index": 5,
+   "target": "c:\\private\\20007b38\\import\\PP04.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4048,
+   "written": "Game/c/private/20007b38/import/PP04.png"
+  },
+  {
+   "i": 6,
+   "file_index": 6,
+   "target": "c:\\private\\20007b38\\import\\PP05.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3990,
+   "written": "Game/c/private/20007b38/import/PP05.png"
+  },
+  {
+   "i": 7,
+   "file_index": 7,
+   "target": "c:\\private\\20007b38\\import\\PP06.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3931,
+   "written": "Game/c/private/20007b38/import/PP06.png"
+  },
+  {
+   "i": 8,
+   "file_index": 8,
+   "target": "c:\\private\\20007b38\\import\\PP07.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3919,
+   "written": "Game/c/private/20007b38/import/PP07.png"
+  },
+  {
+   "i": 9,
+   "file_index": 9,
+   "target": "c:\\private\\20007b38\\import\\PP08.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3880,
+   "written": "Game/c/private/20007b38/import/PP08.png"
+  },
+  {
+   "i": 10,
+   "file_index": 10,
+   "target": "c:\\private\\20007b38\\import\\PP09.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4097,
+   "written": "Game/c/private/20007b38/import/PP09.png"
+  },
+  {
+   "i": 11,
+   "file_index": 11,
+   "target": "c:\\private\\20007b38\\import\\PP10.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4062,
+   "written": "Game/c/private/20007b38/import/PP10.png"
+  },
+  {
+   "i": 12,
+   "file_index": 12,
+   "target": "c:\\private\\20007b38\\import\\PP11.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4049,
+   "written": "Game/c/private/20007b38/import/PP11.png"
+  },
+  {
+   "i": 13,
+   "file_index": 13,
+   "target": "c:\\private\\20007b38\\import\\PP12.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3971,
+   "written": "Game/c/private/20007b38/import/PP12.png"
+  },
+  {
+   "i": 14,
+   "file_index": 14,
+   "target": "c:\\private\\20007b38\\import\\PP13.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4174,
+   "written": "Game/c/private/20007b38/import/PP13.png"
+  },
+  {
+   "i": 15,
+   "file_index": 15,
+   "target": "c:\\private\\20007b38\\import\\PP14.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4104,
+   "written": "Game/c/private/20007b38/import/PP14.png"
+  },
+  {
+   "i": 16,
+   "file_index": 16,
+   "target": "c:\\private\\20007b38\\import\\PP15.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4119,
+   "written": "Game/c/private/20007b38/import/PP15.png"
+  },
+  {
+   "i": 17,
+   "file_index": 17,
+   "target": "c:\\private\\20007b38\\import\\PP16.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4068,
+   "written": "Game/c/private/20007b38/import/PP16.png"
+  },
+  {
+   "i": 18,
+   "file_index": 18,
+   "target": "c:\\private\\20007b38\\import\\PP17.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4096,
+   "written": "Game/c/private/20007b38/import/PP17.png"
+  },
+  {
+   "i": 19,
+   "file_index": 19,
+   "target": "c:\\private\\20007b38\\import\\PP18.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4034,
+   "written": "Game/c/private/20007b38/import/PP18.png"
+  },
+  {
+   "i": 20,
+   "file_index": 20,
+   "target": "c:\\private\\20007b38\\import\\PP19.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4039,
+   "written": "Game/c/private/20007b38/import/PP19.png"
+  },
+  {
+   "i": 21,
+   "file_index": 21,
+   "target": "c:\\private\\20007b38\\import\\PP20.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3973,
+   "written": "Game/c/private/20007b38/import/PP20.png"
+  },
+  {
+   "i": 22,
+   "file_index": 22,
+   "target": "c:\\private\\20007b38\\import\\PP21.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4539,
+   "written": "Game/c/private/20007b38/import/PP21.png"
+  },
+  {
+   "i": 23,
+   "file_index": 23,
+   "target": "c:\\private\\20007b38\\import\\PP22.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4363,
+   "written": "Game/c/private/20007b38/import/PP22.png"
+  },
+  {
+   "i": 24,
+   "file_index": 24,
+   "target": "c:\\private\\20007b38\\import\\PP23.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4142,
+   "written": "Game/c/private/20007b38/import/PP23.png"
+  },
+  {
+   "i": 25,
+   "file_index": 25,
+   "target": "c:\\private\\20007b38\\import\\PP24.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3979,
+   "written": "Game/c/private/20007b38/import/PP24.png"
+  },
+  {
+   "i": 26,
+   "file_index": 26,
+   "target": "c:\\private\\20007b38\\import\\PP25.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4506,
+   "written": "Game/c/private/20007b38/import/PP25.png"
+  },
+  {
+   "i": 27,
+   "file_index": 27,
+   "target": "c:\\private\\20007b38\\import\\PP26.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4318,
+   "written": "Game/c/private/20007b38/import/PP26.png"
+  },
+  {
+   "i": 28,
+   "file_index": 28,
+   "target": "c:\\private\\20007b38\\import\\PP27.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4516,
+   "written": "Game/c/private/20007b38/import/PP27.png"
+  },
+  {
+   "i": 29,
+   "file_index": 29,
+   "target": "c:\\private\\20007b38\\import\\PP28.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4215,
+   "written": "Game/c/private/20007b38/import/PP28.png"
+  },
+  {
+   "i": 30,
+   "file_index": 30,
+   "target": "c:\\private\\20007b38\\import\\PP29.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4077,
+   "written": "Game/c/private/20007b38/import/PP29.png"
+  },
+  {
+   "i": 31,
+   "file_index": 31,
+   "target": "c:\\private\\20007b38\\import\\PP30.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4067,
+   "written": "Game/c/private/20007b38/import/PP30.png"
+  },
+  {
+   "i": 32,
+   "file_index": 32,
+   "target": "c:\\private\\20007b38\\import\\PP31.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3992,
+   "written": "Game/c/private/20007b38/import/PP31.png"
+  },
+  {
+   "i": 33,
+   "file_index": 33,
+   "target": "c:\\private\\20007b38\\import\\PP32.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3975,
+   "written": "Game/c/private/20007b38/import/PP32.png"
+  },
+  {
+   "i": 34,
+   "file_index": 34,
+   "target": "c:\\private\\20007b38\\import\\PP33.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3907,
+   "written": "Game/c/private/20007b38/import/PP33.png"
+  },
+  {
+   "i": 35,
+   "file_index": 35,
+   "target": "c:\\private\\20007b38\\import\\PP34.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4452,
+   "written": "Game/c/private/20007b38/import/PP34.png"
+  },
+  {
+   "i": 36,
+   "file_index": 36,
+   "target": "c:\\private\\20007b38\\import\\PP35.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4302,
+   "written": "Game/c/private/20007b38/import/PP35.png"
+  },
+  {
+   "i": 37,
+   "file_index": 37,
+   "target": "c:\\private\\20007b38\\import\\PP36.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4455,
+   "written": "Game/c/private/20007b38/import/PP36.png"
+  },
+  {
+   "i": 38,
+   "file_index": 38,
+   "target": "c:\\private\\20007b38\\import\\PP37.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3929,
+   "written": "Game/c/private/20007b38/import/PP37.png"
+  },
+  {
+   "i": 39,
+   "file_index": 39,
+   "target": "!:\\private\\2000AFBC\\2CFC395E9D614FFAB74562469F77DE36.ldat.ngdat",
+   "mime": "",
+   "algo": 1,
+   "size": 102760,
+   "written": "Game/!/private/2000AFBC/2CFC395E9D614FFAB74562469F77DE36.ldat.ngdat"
+  },
+  {
+   "i": 40,
+   "file_index": 40,
+   "target": "!:\\private\\2000AFBC\\4A0B431DC77E4F3FB1BA68BC5C65BA4B.ldat.ngdat",
+   "mime": "",
+   "algo": 1,
+   "size": 111064,
+   "written": "Game/!/private/2000AFBC/4A0B431DC77E4F3FB1BA68BC5C65BA4B.ldat.ngdat"
+  },
+  {
+   "i": 41,
+   "file_index": 41,
+   "target": "!:\\private\\2000AFBC\\5343B7E40C924F649939BC57D7D9860F.ldat.ngdat",
+   "mime": "",
+   "algo": 1,
+   "size": 110056,
+   "written": "Game/!/private/2000AFBC/5343B7E40C924F649939BC57D7D9860F.ldat.ngdat"
+  },
+  {
+   "i": 42,
+   "file_index": 42,
+   "target": "!:\\private\\2000AFBC\\E5F51F22727F47FF92CF39952500144F.ldat.ngdat",
+   "mime": "",
+   "algo": 1,
+   "size": 110344,
+   "written": "Game/!/private/2000AFBC/E5F51F22727F47FF92CF39952500144F.ldat.ngdat"
+  },
+  {
+   "i": 43,
+   "file_index": 43,
+   "target": "!:\\private\\2000AFBC\\backup_registration.xml",
+   "mime": "",
+   "algo": 1,
+   "size": 234,
+   "written": "Game/!/private/2000AFBC/backup_registration.xml"
+  },
+  {
+   "i": 44,
+   "file_index": 44,
+   "target": "!:\\private\\2000AFBC\\COTD.EXEv",
+   "mime": "",
+   "algo": 1,
+   "size": 29752,
+   "written": "Game/!/private/2000AFBC/COTD.EXEv"
+  },
+  {
+   "i": 45,
+   "file_index": 45,
+   "target": "!:\\private\\2000AFBC\\data0000.pak",
+   "mime": "",
+   "algo": 1,
+   "size": 26372484,
+   "written": "Game/!/private/2000AFBC/data0000.pak"
+  },
+  {
+   "i": 46,
+   "file_index": 46,
+   "target": "!:\\private\\2000AFBC\\free.dat.ngdat",
+   "mime": "",
+   "algo": 1,
+   "size": 131863,
+   "written": "Game/!/private/2000AFBC/free.dat.ngdat"
+  },
+  {
+   "i": 47,
+   "file_index": 47,
+   "target": "!:\\private\\2000AFBC\\lang.00",
+   "mime": "",
+   "algo": 1,
+   "size": 141928,
+   "written": "Game/!/private/2000AFBC/lang.00"
+  },
+  {
+   "i": 48,
+   "file_index": 48,
+   "target": "!:\\private\\2000AFBC\\lang.01",
+   "mime": "",
+   "algo": 1,
+   "size": 154492,
+   "written": "Game/!/private/2000AFBC/lang.01"
+  },
+  {
+   "i": 49,
+   "file_index": 49,
+   "target": "!:\\private\\2000AFBC\\lang.02",
+   "mime": "",
+   "algo": 1,
+   "size": 148364,
+   "written": "Game/!/private/2000AFBC/lang.02"
+  },
+  {
+   "i": 50,
+   "file_index": 50,
+   "target": "!:\\private\\2000AFBC\\lang.03",
+   "mime": "",
+   "algo": 1,
+   "size": 151760,
+   "written": "Game/!/private/2000AFBC/lang.03"
+  },
+  {
+   "i": 51,
+   "file_index": 51,
+   "target": "!:\\private\\2000AFBC\\lang.04",
+   "mime": "",
+   "algo": 1,
+   "size": 150256,
+   "written": "Game/!/private/2000AFBC/lang.04"
+  },
+  {
+   "i": 52,
+   "file_index": 52,
+   "target": "!:\\private\\2000AFBC\\lang.05",
+   "mime": "",
+   "algo": 1,
+   "size": 143104,
+   "written": "Game/!/private/2000AFBC/lang.05"
+  },
+  {
+   "i": 53,
+   "file_index": 53,
+   "target": "!:\\private\\2000AFBC\\lang.06",
+   "mime": "",
+   "algo": 1,
+   "size": 144912,
+   "written": "Game/!/private/2000AFBC/lang.06"
+  },
+  {
+   "i": 54,
+   "file_index": 54,
+   "target": "!:\\private\\2000AFBC\\license.dat.ngdat",
+   "mime": "",
+   "algo": 1,
+   "size": 131584,
+   "written": "Game/!/private/2000AFBC/license.dat.ngdat"
+  },
+  {
+   "i": 55,
+   "file_index": 55,
+   "target": "c:\\private\\2000AFBC\\Arena\\config.xml",
+   "mime": "",
+   "algo": 1,
+   "size": 3379,
+   "written": "Game/c/private/2000AFBC/Arena/config.xml"
+  },
+  {
+   "i": 56,
+   "file_index": 56,
+   "target": "c:\\private\\2000AFBC\\Arena\\game.rsc",
+   "mime": "",
+   "algo": 1,
+   "size": 2680,
+   "written": "Game/c/private/2000AFBC/Arena/game.rsc"
+  },
+  {
+   "i": 57,
+   "file_index": 57,
+   "target": "!:\\private\\2000AFBC\\bin\\2CFC395E9D614FFAB74562469F77DE36.ldat.ngdat",
+   "mime": "",
+   "algo": 0,
+   "size": 103092,
+   "written": "Game/!/private/2000AFBC/bin/2CFC395E9D614FFAB74562469F77DE36.ldat.ngdat"
+  },
+  {
+   "i": 58,
+   "file_index": 58,
+   "target": "!:\\private\\2000AFBC\\bin\\4A0B431DC77E4F3FB1BA68BC5C65BA4B.ldat.ngdat",
+   "mime": "",
+   "algo": 0,
+   "size": 111396,
+   "written": "Game/!/private/2000AFBC/bin/4A0B431DC77E4F3FB1BA68BC5C65BA4B.ldat.ngdat"
+  },
+  {
+   "i": 59,
+   "file_index": 59,
+   "target": "!:\\private\\2000AFBC\\bin\\5343B7E40C924F649939BC57D7D9860F.ldat.ngdat",
+   "mime": "",
+   "algo": 0,
+   "size": 110388,
+   "written": "Game/!/private/2000AFBC/bin/5343B7E40C924F649939BC57D7D9860F.ldat.ngdat"
+  },
+  {
+   "i": 60,
+   "file_index": 60,
+   "target": "!:\\private\\2000AFBC\\bin\\E5F51F22727F47FF92CF39952500144F.ldat.ngdat",
+   "mime": "",
+   "algo": 0,
+   "size": 110676,
+   "written": "Game/!/private/2000AFBC/bin/E5F51F22727F47FF92CF39952500144F.ldat.ngdat"
+  },
+  {
+   "i": 61,
+   "file_index": 61,
+   "target": "!:\\private\\2000AFBC\\bin\\license.dat.ngdat",
+   "mime": "",
+   "algo": 0,
+   "size": 131898,
+   "written": "Game/!/private/2000AFBC/bin/license.dat.ngdat"
+  },
+  {
+   "i": 62,
+   "file_index": 37,
+   "target": "!:\\sys\\bin\\BiNPDAlibcCOTD.dll",
+   "mime": "",
+   "algo": 0,
+   "size": 4455,
+   "written": "Game/!/sys/bin/BiNPDAlibcCOTD.dll"
+  },
+  {
+   "i": 63,
+   "file_index": 37,
+   "target": "!:\\sys\\bin\\COTD.exe",
+   "mime": "",
+   "algo": 0,
+   "size": 4455,
+   "written": "Game/!/sys/bin/COTD.exe"
+  },
+  {
+   "i": 64,
+   "file_index": 37,
+   "target": "!:\\sys\\bin\\ngifilemanagerfactory_2000afbc.dll",
+   "mime": "",
+   "algo": 0,
+   "size": 4455,
+   "written": "Game/!/sys/bin/ngifilemanagerfactory_2000afbc.dll"
+  }
+ ]
+}

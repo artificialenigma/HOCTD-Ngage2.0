@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NgiInstallerGameInfo>
+    <GameExeFileName>brainngage.exe</GameExeFileName>
+    <InvitationPossibleFlag>0</InvitationPossibleFlag>
+    <RankingPossibleFlag>0</RankingPossibleFlag>
+    <GameType>SINGLE</GameType>
+</NgiInstallerGameInfo>

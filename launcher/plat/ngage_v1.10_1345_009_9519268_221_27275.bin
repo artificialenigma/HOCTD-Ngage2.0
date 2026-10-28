@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE helpcontent[
+  <!ELEMENT helpcontent (helptopic+)>
+  <!ELEMENT helptopic (title, item+)>
+  <!ATTLIST helptopic id CDATA #REQUIRED>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT item (p+)>
+  <!ELEMENT p (#PCDATA | b | i | u)*>
+  <!ATTLIST p style (normal|bullet|important) #IMPLIED
+              level (zero|one|two|three|four) #IMPLIED>
+  <!ELEMENT b (#PCDATA)>
+  <!ELEMENT i (#PCDATA)>
+  <!ELEMENT u (#PCDATA)>
+]>
+
+<helpcontent>
+
+<helptopic id="PLAY_HLP_SHOWROOM_FREE_TRIAL">
+<title>Download free trials</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To download a free trial game, select <b>Showroom</b>, a game, and <b>Options</b> > <b>Download Free Trial</b>.</p>
+
+<p style="normal" level="zero">
+To download games on your compatible PC, visit www.n-gage.com. You can transfer the games from the PC to your device with a USB cable.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b>, and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_ABOUT">
+<title>Details of game extras</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+Select <b>Showroom</b>, an extra, and <b>Options</b> > <b>View Details</b>.</p>
+
+<p style="normal" level="zero">
+Game extras are new or additional items, such as new characters, weapons, and levels, which may become available after the release of a game.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Download Game Extra</b>
+- 
+Download the selected game extra to your device.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_LIST">
+<title>Game extras</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+Game extras are new or additional items, such as new characters, weapons, and levels, which may become available after the release of a game.</p>
+
+<p style="normal" level="zero">
+Select <b>Showroom</b> > <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>View Details</b>
+- 
+View the details of the selected game extra.
+</p>
+<p style="bullet" level="one"> 
+<b>Download Game Extra</b>
+- 
+Download the selected game extra to your device.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_MEDIA">
+<title>Preview game extras</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+Select <b>Showroom</b> and a game extra. Game extras are new or additional items, such as new characters, weapons, and levels, which may become available after the release of a game. You can view screenshots and video clips about a game extra, if available.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>View</b>
+- 
+View the screenshot or video clip in full screen.
+</p>
+<p style="bullet" level="one"> 
+<b>Download Game Extra</b>
+- 
+Download the selected game extra to your device.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_FEATUREDGAME">
+<title>Featured games</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To try a new game, select <b>Showroom</b>, and download a free trial. To purchase the game, select <b>Purchase</b> in the trial version.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>View Details</b>
+- 
+View the details of the selected game.
+</p>
+<p style="bullet" level="one"> 
+<b>Download Free Trial</b>
+- 
+Start downloading a free trial of the game.
+</p>
+<p style="bullet" level="one"> 
+<b>Update Now</b>
+- 
+Update the list of games.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_FRIENDS_FIND_FRIEND">
+<title>Find players</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To search for N-Gage players, select <b>My Friends</b>, enter the name of the player in the search field, and select <b>Options</b> > <b>Submit</b>.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Sort Friends By</b>
+- 
+Arrange the players on your friends list by availability, player name, or N-Gage points.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_GAMESLIST">
+<title>Find more games</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To see which games are available for downloading, select <b>Showroom</b> > <b>Options</b> > <b>Available Games</b>. New games are added to the showroom regularly.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Update Now</b>
+- 
+Update the list of available games.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_FRIENDS_MAIN_FRIEND">
+<title>Friends</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To see which of your friends are online and available to play, select <b>My Friends</b>. You can also send and receive private messages and game recommendations, or search for particular N-Gage players and invite them to your friends list.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>View Message</b>
+- 
+View the private messages from the selected friend.
+</p>
+<p style="bullet" level="one"> 
+<b>Send Message</b>
+- 
+Send a private message to the selected friend.
+</p>
+<p style="bullet" level="one"> 
+<b>View Recommendation</b>
+- 
+View the game recommendations from the selected friend.
+</p>
+<p style="bullet" level="one"> 
+<b>Rate Player</b>
+- 
+Give a star rating to the selected friend.
+</p>
+<p style="bullet" level="one"> 
+<b>Sort Friends By</b>
+- 
+Arrange your friends by availability, player name, or N-Gage points.
+</p>
+<p style="bullet" level="one"> 
+<b>Remove from Friends List</b>
+- 
+Remove the selected friend from your friends list.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_DETAILS">
+<title>Game details</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To read information about the game, download a free trial, and read reviews from other players, select <b>Showroom</b>.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Download Free Trial</b>
+- 
+Download a free trial game.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_GAME_EXTRAS">
+<title>Game extras</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+Game extras are new or additional items, such as new characters, weapons, and levels, which may become available after the release of a game.</p>
+
+<p style="normal" level="zero">
+Select <b>Showroom</b> > <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Browse all Game Extras</b>
+- 
+View the game extras categories.
+</p>
+<p style="bullet" level="one"> 
+<b>Update Now</b>
+- 
+Update the list of games.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_GAME">
+<title>Game profile</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+Select <b>My Profile</b> > <b>Options</b>, and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>View Details</b>
+- 
+View your N-Gage points, point pick-ups, and ranking for this game.
+</p>
+<p style="bullet" level="one"> 
+<b>Edit Profile</b>
+- 
+Edit your public player profile.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_MEDIA">
+<title>Preview games</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To view screenshots and video clips of games, select <b>Showroom</b>.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>View</b>
+- 
+View the selected video clip or screenshot in full screen.
+</p>
+<p style="bullet" level="one"> 
+<b>Download Free Trial</b>
+- 
+Download a free trial of the game.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME">
+<title>Available games</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To try a new game, select <b>Showroom</b>, and download a free trial.</p>
+
+<p style="normal" level="zero">
+ To purchase the game, select <b>Purchase</b> in the trial version.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>View Details</b>
+- 
+View the details of the selected game.
+</p>
+<p style="bullet" level="one"> 
+<b>Download Free Trial</b>
+- 
+Start downloading a free trial of the game.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAMES_MAIN_GET_GAME">
+<title>Get more games</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+Select <b>Showroom</b> > <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Go to Showroom</b>
+- 
+Check which games are available in the showroom.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAMES_MAIN_INSTALLED">
+<title>Installed games</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To play and manage the games you have downloaded to your device, select <b>My Games</b>. The bar next to the selected game indicates your progress in the game.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Start Game</b>
+- 
+Start playing the selected game.
+</p>
+<p style="bullet" level="one"> 
+<b>Rate Game</b>
+- 
+Rate the selected game.
+</p>
+<p style="bullet" level="one"> 
+<b>View My Profile</b>
+- 
+View your N-Gage points for the selected game.
+</p>
+<p style="bullet" level="one"> 
+<b>Send Recommendation</b>
+- 
+Recommend the game to a friend.
+</p>
+<p style="bullet" level="one"> 
+<b>Remove Game</b>
+- 
+Remove the game from the device memory, but keep the game saves and other game data on the device.
+</p>
+<p style="bullet" level="one"> 
+<b>Delete Game</b>
+- 
+Delete the game and all the associated game data from the device memory.
+</p>
+<p style="bullet" level="one"> 
+<b>View Memory Details</b>
+- 
+View the details on used and available memory.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_GEN_SETTINGS">
+<title>Player level</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To check your N-Gage point level, select <b>My Profile</b>. The level is automatically calculated based on your N-Gage points.</p>
+
+<p style="normal" level="zero">
+To update your level, connect to the N-Gage service.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Edit Profile</b>
+- 
+Edit your public player profile.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_MESSAGES">
+<title>Messages</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To read the messages received from your N-Gage friends, select <b>New Messages</b>.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>View Message</b>
+- 
+View the selected message or invitation.
+</p>
+<p style="bullet" level="one"> 
+<b>Check for updates</b>
+- 
+Check for available updates.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_EXTRAS">
+<title>Game extras</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+Game extras are new or additional items, such as new characters, weapons, and levels, which may become available after the release of a game.</p>
+
+<p style="normal" level="zero">
+Select <b>Showroom</b> > <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Browse all Game Extras</b>
+- 
+View the game extras categories.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_OPERAT_PORTAL">
+<title>Operator portal</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To open your operator's portal in the Web browser and find more games, select <b>Showroom</b> > <b>Options</b> > <b>More Games at %U</b>.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Update Now</b>
+- 
+Update the list of available games.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_GAME">
+<title>Play with your friends</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To connect with an N-Gage friend who is currently available to play, select <b>Play With Friends</b>.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>View My Friends</b>
+- 
+View your friends list.
+</p>
+<p style="bullet" level="one"> 
+<b>Check for updates</b>
+- 
+Check for available updates.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_REVIEWS">
+<title>Player reviews</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To read what other N-Gage players are saying about a game, select <b>Showroom</b> > <b>View Details</b> > <b>Reviews</b>.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Download Free Trial</b>
+- 
+Download a free trial of the game.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_MAIN_OWN">
+<title>Your player profile</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To set your availability, edit your public player profile, and modify your private account, select <b>My Profile</b>.</p>
+
+<p style="normal" level="zero">
+Your profile contains the following fields:</p>
+
+<p style="normal" level="zero">
+<b>N-Gage Points</b> shows the points you have earned by completing point pick-ups in games, playing multiplayer matches, and participating in the N-Gage community activities.</p>
+
+<p style="normal" level="zero">
+<b>Rep</b> shows your gaming reputation as rated by your friends.</p>
+
+<p style="normal" level="zero">
+<b>Friends</b> indicates how many friends you have.</p>
+
+<p style="normal" level="zero">
+<b>N-Gage Point Level</b> indicates your level, based on your total N-Gage points. To update your N-Gage point level, connect to the N-Gage service.</p>
+
+<p style="normal" level="zero">
+<b>Gaming History</b> lists your five most recently played games.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Profile details</b>
+- 
+View your N-Gage points.
+</p>
+<p style="bullet" level="one"> 
+<b>Edit Profile</b>
+- 
+Edit your public player profile.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+After you have updated your profile, connect to the N-Gage service to synchronise the changes you made with the N-Gage server.</p>
+
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_SHOWROOM">
+<title>Showroom</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To view the available games and download free trial games, select <b>Showroom</b>.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Featured Game</b>
+- 
+View the details of the selected game.
+</p>
+<p style="bullet" level="one"> 
+<b>Check for updates</b>
+- 
+Check for available updates.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_START_GAME">
+<title>Start a game</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To start playing or resume the game you played last, or connect with an N-Gage friend who is available to play, select <b>Start Game</b>.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Start Game</b>
+- 
+Start playing the last-played game.
+</p>
+<p style="bullet" level="one"> 
+<b>Resume Game</b>
+- 
+Resume a paused game.
+</p>
+<p style="bullet" level="one"> 
+<b>Check for updates</b>
+- 
+Check for available updates.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_PROFILE">
+<title>Track your points</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+To view your current N-Gage points, select <b>Track My Progress</b>.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>View My Points</b>
+- 
+Check your N-Gage points.
+</p>
+<p style="bullet" level="one"> 
+<b>View My Profile</b>
+- 
+View your player profile.
+</p>
+<p style="bullet" level="one"> 
+<b>Check for updates</b>
+- 
+Check for available updates.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAME_MAIN_UNAVAILABLE">
+<title>Unavailable games</title><item>
+
+<p style="normal" level="zero">
+Open the N-Gage application.</p>
+
+<p style="normal" level="zero">
+Select <b>My Games</b>. Unavailable games are full games that you have uninstalled or downloaded, but the installation was not completed. Games installed to the memory card are also shown as unavailable when the memory card is removed. Unavailable games are not currently available for play.</p>
+
+<p style="normal" level="zero">
+Select <b>Options</b> and from the following:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Cancel Download</b>
+- 
+Cancel the download of the selected game.
+</p>
+<p style="bullet" level="one"> 
+<b>Install Game</b>
+- 
+Install the selected game.
+</p>
+<p style="bullet" level="one"> 
+<b>Reinstall Game</b>
+- 
+Reinstall the selected game.
+</p>
+<p style="bullet" level="one"> 
+<b>Delete Game</b>
+- 
+Delete the game and all the associated game data.
+</p>
+<p style="bullet" level="one"> 
+<b>View Memory Details</b>
+- 
+View the details on used and available memory.
+</p>
+<p style="bullet" level="one"> 
+<b>Set Online Status</b>
+- 
+Set your availability to play.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Settings</b>
+- 
+Edit your private account.
+</p>
+</item><item>
+<p style="normal" level="zero">
+For more information, see www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+</helpcontent>

@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+
+<!--
+      OsmClient passive backup & restore registration file
+-->
+
+<backup_registration>
+
+	<!-- Passive backup -->
+	<passive_backup>
+
+                <!-- Purchase history db file -->
+                <include_file name="purchasehistory.db"/>
+
+	</passive_backup>
+
+	<!-- Restore -->
+	<restore requires_reboot="no"/>
+
+</backup_registration>

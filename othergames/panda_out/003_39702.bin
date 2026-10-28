@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameAchievements gameid='2001ad92'>
+
+<Achievement id='1' hidden='false'>
+	<GamingPoints type='single'>10</GamingPoints>
+	
+	<Title>Health</Title>
+	<Title lang='fr-fr'>Santé</Title>
+	<Title lang='it'>Salute</Title>
+	<Title lang='de'>Gesundheit</Title>
+	<Title lang='es-es'>Salud</Title>
+	<Title lang='pt-br'>Saúde</Title>
+	<Title lang='pt-pt'>Saúde</Title>
+	<Title lang='zh-tw'>健康程度</Title>
+	<Title lang='zh-cn'>健康度</Title>
+	
+	<Description>Don't lose health on the first level</Description>
+	<Description lang='fr-fr'>Pas de santé perdue dans le 1er niveau</Description>
+	<Description lang='it'>Non perdere salute nel primo livello</Description>
+	<Description lang='de'>Verliere im 1. Level keine Gesundheit</Description>
+	<Description lang='es-es'>No pierdas salud en el primer nivel</Description>
+	<Description lang='pt-br'>Não perca a saúde no primeiro nível</Description>
+	<Description lang='pt-pt'>Não perca a saúde no primeiro nível</Description>
+	<Description lang='zh-tw'>別在第一關就失血</Description>
+	<Description lang='zh-cn'>别在第一关就失血</Description>
+	
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='2' hidden='false'>
+	<GamingPoints type='single'>30</GamingPoints>
+	
+	<Title>Health: Advanced</Title>
+	<Title lang='fr-fr'>Santé : avancée</Title>
+	<Title lang='it'>Salute: avanzata</Title>
+	<Title lang='de'>Gesundh: gut</Title>
+	<Title lang='es-es'>Salud: avanzado</Title>
+	<Title lang='pt-br'>Saúde: Avançada</Title>
+	<Title lang='pt-pt'>Saúde: Avançada</Title>
+	<Title lang='zh-tw'>健康程度：進階</Title>
+	<Title lang='zh-cn'>健康度：高级</Title>
+	
+	<Description>No health lost on Skull Fortress levels</Description>
+	<Description lang='fr-fr'>Santé conservée au Château des crânes</Description>
+	<Description lang='it'>Non perdere salute in Foresta Teschio</Description>
+	<Description lang='de'>Keine Gesundh. verloren: Schädelfestung</Description>
+	<Description lang='es-es'>Mundo Fuerte Osario sin perder salud</Description>
+	<Description lang='pt-br'>Não perca saúde no Forte da Caveira</Description>
+	<Description lang='pt-pt'>Não perca saúde no Forte da Caveira</Description>
+	<Description lang='zh-tw'>別在大頭城堡的関卡裡就失血</Description>
+	<Description lang='zh-cn'>别在大头城堡的关卡里就失血</Description>
+	
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='3' hidden='false'>
+	<GamingPoints type='single'>70</GamingPoints>
+	
+	<Title>Health: Elite</Title>
+	<Title lang='fr-fr'>Santé : élite</Title>
+	<Title lang='it'>Salute: élite</Title>
+	<Title lang='de'>Gesundheit: Elite</Title>
+	<Title lang='es-es'>Salud: élite</Title>
+	<Title lang='pt-br'>Saúde: Elite</Title>
+	<Title lang='pt-pt'>Saúde: Elite</Title>
+	<Title lang='zh-tw'>健康程度： 精英</Title>
+	<Title lang='zh-cn'>健康度：精英</Title>
+	
+	<Description>No health lost on first boss battle</Description>
+	<Description lang='fr-fr'>Santé conservée au 1er combat de boss</Description>
+	<Description lang='it'>Non perdere salute contro il 1° boss</Description>
+	<Description lang='de'>Kein Schaden im 1. Endgegnerkampf</Description>
+	<Description lang='es-es'>No pierdas salud contra el primer jefe</Description>
+	<Description lang='pt-br'>Não perca saúde na 1ª luta com o chefe</Description>
+	<Description lang='pt-pt'>Não perca saúde na 1ª luta com o chefe</Description>
+	<Description lang='zh-tw'>別在第一場首領戰鬥中失血</Description>
+	<Description lang='zh-cn'>别在第一场首领战斗中失血</Description>
+	
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+  
+<Achievement id='4' hidden='false'>
+	<GamingPoints type='single'>120</GamingPoints>
+
+	<Title>Health: Extreme</Title>
+	<Title lang='fr-fr'>Santé : extrême</Title>
+	<Title lang='it'>Salute: estrema</Title>
+	<Title lang='de'>Gesundheit: Extrem</Title>
+	<Title lang='es-es'>Salud: extremo</Title>
+	<Title lang='pt-br'>Saúde: Extrema</Title>
+	<Title lang='pt-pt'>Saúde: Extrema</Title>
+	<Title lang='zh-tw'>健康程度： 極佳</Title>
+	<Title lang='zh-cn'>健康度：极品</Title>
+
+	<Description>No health lost on second boss battle</Description>
+	<Description lang='fr-fr'>Santé conservée au 2e combat de boss</Description>
+	<Description lang='it'>Non perdere salute contro il 2° boss</Description>
+	<Description lang='de'>Kein Schaden im 2. Endgegnerkampf</Description>
+	<Description lang='es-es'>No pierdas salud contra el segundo jefe</Description>
+	<Description lang='pt-br'>Não perca saúde na 2ª luta com o chefe</Description>
+	<Description lang='pt-pt'>Não perca saúde na 2ª luta com o chefe</Description>
+	<Description lang='zh-tw'>別在第二場首領戰鬥中失血</Description>
+	<Description lang='zh-cn'>别在第二场首领战斗中失血</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='5' hidden='false'>
+	<GamingPoints type='single'>10</GamingPoints>
+
+	<Title>Infiltration Bonus</Title>
+	<Title lang='fr-fr'>Bonus Infiltration</Title>
+	<Title lang='it'>Bonus infiltrazione</Title>
+	<Title lang='de'>Infiltrationsbonus</Title>
+	<Title lang='es-es'>Bono infiltración</Title>
+	<Title lang='pt-br'>B. de infiltração</Title>
+	<Title lang='pt-pt'>B. de infiltração</Title>
+	<Title lang='zh-tw'>滲透獎金</Title>
+	<Title lang='zh-cn'>渗透奖励</Title>
+
+	<Description>Completed 1st level</Description>
+	<Description lang='fr-fr'>1er niveau terminé</Description>
+	<Description lang='it'>1° livello completato</Description>
+	<Description lang='de'>1. Level gemeistert</Description>
+	<Description lang='es-es'>Primer nivel completado</Description>
+	<Description lang='pt-br'>1o. nível completado</Description>
+	<Description lang='pt-pt'>1o. nível completado</Description>
+	<Description lang='zh-tw'>完成第一關</Description>
+	<Description lang='zh-cn'>完成第一关</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='6' hidden='false'>
+	<GamingPoints type='single'>40</GamingPoints>
+
+	<Title>Coin Stairs</Title>
+	<Title lang='fr-fr'>Escalier pièces</Title>
+	<Title lang='it'>Scala di monete</Title>
+	<Title lang='de'>Münztreppe</Title>
+	<Title lang='es-es'>Escaleras moneda</Title>
+	<Title lang='pt-br'>Pilha de moedas</Title>
+	<Title lang='pt-pt'>Pilha de moedas</Title>
+	<Title lang='zh-tw'>金幣級數</Title>
+	<Title lang='zh-cn'>金币阶梯</Title>
+
+	<Description>All Hollow Stairway coins collected</Description>
+	<Description lang='fr-fr'>Toutes pièces de l'Escal.sacré trouvées</Description>
+	<Description lang='it'>Prendi tutte le monete di Scale Sospese</Description>
+	<Description lang='de'>Finde in Hohle-Treppe-Welt alle Münzen</Description>
+	<Description lang='es-es'>Todas las monedas en Escalera Hueca</Description>
+	<Description lang='pt-br'>Colete as moedas na escadaria côncava</Description>
+	<Description lang='pt-pt'>Colete as moedas na escadaria côncava</Description>
+	<Description lang='zh-tw'>獲得迴旋天梯的所有錢幣</Description>
+	<Description lang='zh-cn'>获得回旋天梯的所有钱币</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='7' hidden='false'>
+	<GamingPoints type='single'>40</GamingPoints>
+
+	<Title>Non-Lethal</Title>
+	<Title lang='fr-fr'>Inoffensif</Title>
+	<Title lang='it'>Non letale</Title>
+	<Title lang='de'>Nicht tödlich</Title>
+	<Title lang='es-es'>No letal</Title>
+	<Title lang='pt-br'>Não-letal</Title>
+	<Title lang='pt-pt'>Não-letal</Title>
+	<Title lang='zh-tw'>無致命性</Title>
+	<Title lang='zh-cn'>非致命</Title>
+
+	<Description>Complete Skull Fortress L1 with no kills</Description>
+	<Description lang='fr-fr'>Term. Chât. des crânes Niv. 1 sans tuer</Description>
+	<Description lang='it'>Completa L. 1 F. Teschio senza uccidere</Description>
+	<Description lang='de'>Beende L1 der Schädelf. ohne zu töten</Description>
+	<Description lang='es-es'>Acaba niv.1 de Fuerte Osario sin matar</Description>
+	<Description lang='pt-br'>Conclua N1 do Forte da Caveira s/ matar</Description>
+	<Description lang='pt-pt'>Conclua N1 do Forte da Caveira s/ matar</Description>
+	<Description lang='zh-tw'>完成大頭城堡關卡1，但未殺死任何東西</Description>
+	<Description lang='zh-cn'>完成大头城堡关卡1，但未杀死任何敌人</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='8' hidden='false'>
+	<GamingPoints type='single'>70</GamingPoints>
+
+	<Title>Arachnophobia</Title>
+	<Title lang='fr-fr'>Arachnophobie</Title>
+	<Title lang='it'>Aracnofobia</Title>
+	<Title lang='de'>Arachnophobie</Title>
+	<Title lang='es-es'>Aracnofobia</Title>
+	<Title lang='pt-br'>Aracnofobia</Title>
+	<Title lang='pt-pt'>Aracnofobia</Title>
+	<Title lang='zh-tw'>蜘蛛恐懼症</Title>
+	<Title lang='zh-cn'>蜘蛛恐惧症</Title>
+
+	<Description>Kill all Spiders in the Lost Caves World</Description>
+	<Description lang='fr-fr'>Exterm. les araignées Des Caves perdues</Description>
+	<Description lang='it'>Uccidi i ragni in Mondo Caverne Perdute</Description>
+	<Description lang='de'>Töte alle Spinnen in Verlor.-Höhl.-Welt</Description>
+	<Description lang='es-es'>Mata todas las arañas en mundo Cavernas</Description>
+	<Description lang='pt-br'>Mate as Aranhas no Mundo das Cavernas</Description>
+	<Description lang='pt-pt'>Mate as Aranhas no Mundo das Cavernas</Description>
+	<Description lang='zh-tw'>消滅遺世之穴裡的所有蜘蛛</Description>
+	<Description lang='zh-cn'>消灭遗世之穴里的所有蜘蛛</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='9' hidden='false'>
+	<GamingPoints type='single'>30</GamingPoints>
+
+	<Title>Icarus</Title>
+	<Title lang='fr-fr'>Icare</Title>
+	<Title lang='it'>Icaro</Title>
+	<Title lang='de'>Ikarus</Title>
+	<Title lang='es-es'>Icarus</Title>
+	<Title lang='pt-br'>Ícaro</Title>
+	<Title lang='pt-pt'>Ícaro</Title>
+	<Title lang='zh-tw'>飛人伊卡魯斯</Title>
+	<Title lang='zh-cn'>飞人伊卡洛斯</Title>
+
+	<Description>Stay airborne for 10 seconds</Description>
+	<Description lang='fr-fr'>Rester en l'air pendant 10 secondes</Description>
+	<Description lang='it'>Rimani sospeso in aria per 10 secondi</Description>
+	<Description lang='de'>Bleibe 10 Sekunden in der Luft</Description>
+	<Description lang='es-es'>Mantente 10 seg. en el aire</Description>
+	<Description lang='pt-br'>Seja transportado no ar por 10 segundos</Description>
+	<Description lang='pt-pt'>Seja transportado no ar por 10 segundos</Description>
+	<Description lang='zh-tw'>停留在空中十秒</Description>
+	<Description lang='zh-cn'>在空中停留10秒</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='a' hidden='false'>
+	<GamingPoints type='single'>40</GamingPoints>
+
+	<Title>Hot-Shot</Title>
+	<Title lang='fr-fr'>Gros bonnet</Title>
+	<Title lang='it'>Persona importante</Title>
+	<Title lang='de'>Hot-Shot</Title>
+	<Title lang='es-es'>Pez gordo</Title>
+	<Title lang='pt-br'>Hot-Shot</Title>
+	<Title lang='pt-pt'>Hot-Shot</Title>
+	<Title lang='zh-tw'>火力攻击</Title>
+	<Title lang='zh-cn'>火力攻擊</Title>
+
+	<Description>Kill 20 enemies with power shot/fireball</Description>
+	<Description lang='fr-fr'>Tuer 20 ennemis au tir puiss./boule feu</Description>
+	<Description lang='it'>20 uccisioni con potente sfera infuoc.</Description>
+	<Description lang='de'>Töte m. Powerschuss/Feuerball 20 Gegner</Description>
+	<Description lang='es-es'>Mata 20 enems. con fuego/golpe pirotéc.</Description>
+	<Description lang='pt-br'>Mate 20 inimi. com o tiro/bola de fogo</Description>
+	<Description lang='pt-pt'>Mate 20 inimi. com o tiro/bola de fogo</Description>
+	<Description lang='zh-tw'>使用火槍/火球殺死20個敵人</Description>
+	<Description lang='zh-cn'>用强力射击/火球杀死20个敌人</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='b' hidden='false'>
+	<GamingPoints type='single'>50</GamingPoints>
+
+	<Title>Frog Jump</Title>
+	<Title lang='fr-fr'>Saut de grenouille</Title>
+	<Title lang='it'>Salto della rana</Title>
+	<Title lang='de'>Froschsprung</Title>
+	<Title lang='es-es'>Salto de la rana</Title>
+	<Title lang='pt-br'>Pulo do sapo</Title>
+	<Title lang='pt-pt'>Pulo do sapo</Title>
+	<Title lang='zh-tw'>蛙跳</Title>
+	<Title lang='zh-cn'>蛙跳</Title>
+
+	<Description>Jump on 5 enemies in a row</Description>
+	<Description lang='fr-fr'>Sauter sur 5 ennemis à la suite</Description>
+	<Description lang='it'>Salta su 5 nemici di fila</Description>
+	<Description lang='de'>Springe auf 5 Gegner in Folge</Description>
+	<Description lang='es-es'>Salta en 5 enemigos seguidos</Description>
+	<Description lang='pt-br'>Pule sobre 5 inimigos em seqüência</Description>
+	<Description lang='pt-pt'>Pule sobre 5 inimigos em seqüência</Description>
+	<Description lang='zh-tw'>跳到5個成排站立的敵人之上</Description>
+	<Description lang='zh-cn'>跳到5个成排站立的敌人之上</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='c' hidden='false'>
+	<GamingPoints type='single'>60</GamingPoints>
+
+	<Title>Rhino Charge</Title>
+	<Title lang='fr-fr'>Charge Rhino</Title>
+	<Title lang='it'>Assalto rinoceronte</Title>
+	<Title lang='de'>Rhino-Attacke</Title>
+	<Title lang='es-es'>Carga rinoceronte</Title>
+	<Title lang='pt-br'>Carga de rino.</Title>
+	<Title lang='pt-pt'>Carga de rino.</Title>
+	<Title lang='zh-tw'>犀牛攻擊</Title>
+	<Title lang='zh-cn'>犀牛冲锋</Title>
+
+	<Description>Kill 3 enemies with one rhino charge</Description>
+	<Description lang='fr-fr'>Tuer 3 ennemis avec une charge Rhino</Description>
+	<Description lang='it'>Uccidi 3 nemici con Assalto rinoceronte</Description>
+	<Description lang='de'>Töte 3 Gegner mit einer Rhino-Attacke</Description>
+	<Description lang='es-es'>Mata a 3 enemigos con carga rinoceronte</Description>
+	<Description lang='pt-br'>Mate 3 inimigos com carga de rino.</Description>
+	<Description lang='pt-pt'>Mate 3 inimigos com carga de rino.</Description>
+	<Description lang='zh-tw'>使用犀牛攻擊殺死3個敵人</Description>
+	<Description lang='zh-cn'>用一次犀牛冲刺杀死3个敌人</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='d' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 5</Title>
+	<Title lang='fr-fr'>Monde 5</Title>
+	<Title lang='it'>Mondo 5</Title>
+	<Title lang='de'>Welt 5</Title>
+	<Title lang='es-es'>Mundo 5</Title>
+	<Title lang='pt-br'>Mundo 5</Title>
+	<Title lang='pt-pt'>Mundo 5</Title>
+	<Title lang='zh-tw'>世界 5</Title>
+	<Title lang='zh-cn'>世界 5</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='e' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 6</Title>
+	<Title lang='fr-fr'>Monde 6</Title>
+	<Title lang='it'>Mondo 6</Title>
+	<Title lang='de'>Welt 6</Title>
+	<Title lang='es-es'>Mundo 6</Title>
+	<Title lang='pt-br'>Mundo 6</Title>
+	<Title lang='pt-pt'>Mundo 6</Title>
+	<Title lang='zh-tw'>世界 6</Title>
+	<Title lang='zh-cn'>世界 6</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='f' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 7</Title>
+	<Title lang='fr-fr'>Monde 7</Title>
+	<Title lang='it'>Mondo 7</Title>
+	<Title lang='de'>Welt 7</Title>
+	<Title lang='es-es'>Mundo 7</Title>
+	<Title lang='pt-br'>Mundo 7</Title>
+	<Title lang='pt-pt'>Mundo 7</Title>
+	<Title lang='zh-tw'>世界 7</Title>
+	<Title lang='zh-cn'>世界 7</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='10' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 8</Title>
+	<Title lang='fr-fr'>Monde 8</Title>
+	<Title lang='it'>Mondo 8</Title>
+	<Title lang='de'>Welt 8</Title>
+	<Title lang='es-es'>Mundo 8</Title>
+	<Title lang='pt-br'>Mundo 8</Title>
+	<Title lang='pt-pt'>Mundo 8</Title>
+	<Title lang='zh-tw'>世界 8</Title>
+	<Title lang='zh-cn'>世界 8</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='11' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 9</Title>
+	<Title lang='fr-fr'>Monde 9</Title>
+	<Title lang='it'>Mondo 9</Title>
+	<Title lang='de'>Welt 9</Title>
+	<Title lang='es-es'>Mundo 9</Title>
+	<Title lang='pt-br'>Mundo 9</Title>
+	<Title lang='pt-pt'>Mundo 9</Title>
+	<Title lang='zh-tw'>世界 9</Title>
+	<Title lang='zh-cn'>世界 9</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='12' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 10</Title>
+	<Title lang='fr-fr'>Monde 10</Title>
+	<Title lang='it'>Mondo 10</Title>
+	<Title lang='de'>Welt 10</Title>
+	<Title lang='es-es'>Mundo 10</Title>
+	<Title lang='pt-br'>Mundo 10</Title>
+	<Title lang='pt-pt'>Mundo 10</Title>
+	<Title lang='zh-tw'>世界 10</Title>
+	<Title lang='zh-cn'>世界 10</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='13' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 11</Title>
+	<Title lang='fr-fr'>Monde 11</Title>
+	<Title lang='it'>Mondo 11</Title>
+	<Title lang='de'>Welt 11</Title>
+	<Title lang='es-es'>Mundo 11</Title>
+	<Title lang='pt-br'>Mundo 11</Title>
+	<Title lang='pt-pt'>Mundo 11</Title>
+	<Title lang='zh-tw'>世界 11</Title>
+	<Title lang='zh-cn'>世界 11</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='14' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 12</Title>
+	<Title lang='fr-fr'>Monde 12</Title>
+	<Title lang='it'>Mondo 12</Title>
+	<Title lang='de'>Welt 12</Title>
+	<Title lang='es-es'>Mundo 12</Title>
+	<Title lang='pt-br'>Mundo 12</Title>
+	<Title lang='pt-pt'>Mundo 12</Title>
+	<Title lang='zh-tw'>世界 12</Title>
+	<Title lang='zh-cn'>世界 12</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='15' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 13</Title>
+	<Title lang='fr-fr'>Monde 13</Title>
+	<Title lang='it'>Mondo 13</Title>
+	<Title lang='de'>Welt 13</Title>
+	<Title lang='es-es'>Mundo 13</Title>
+	<Title lang='pt-br'>Mundo 13</Title>
+	<Title lang='pt-pt'>Mundo 13</Title>
+	<Title lang='zh-tw'>世界 13</Title>
+	<Title lang='zh-cn'>世界 13</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='16' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 14</Title>
+	<Title lang='fr-fr'>Monde 14</Title>
+	<Title lang='it'>Mondo 14</Title>
+	<Title lang='de'>Welt 14</Title>
+	<Title lang='es-es'>Mundo 14</Title>
+	<Title lang='pt-br'>Mundo 14</Title>
+	<Title lang='pt-pt'>Mundo 14</Title>
+	<Title lang='zh-tw'>世界 14</Title>
+	<Title lang='zh-cn'>世界 14</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='17' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 15</Title>
+	<Title lang='fr-fr'>Monde 15</Title>
+	<Title lang='it'>Mondo 15</Title>
+	<Title lang='de'>Welt 15</Title>
+	<Title lang='es-es'>Mundo 15</Title>
+	<Title lang='pt-br'>Mundo 15</Title>
+	<Title lang='pt-pt'>Mundo 15</Title>
+	<Title lang='zh-tw'>世界 15</Title>
+	<Title lang='zh-cn'>世界 15</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='18' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 16</Title>
+	<Title lang='fr-fr'>Monde 16</Title>
+	<Title lang='it'>Mondo 16</Title>
+	<Title lang='de'>Welt 16</Title>
+	<Title lang='es-es'>Mundo 16</Title>
+	<Title lang='pt-br'>Mundo 16</Title>
+	<Title lang='pt-pt'>Mundo 16</Title>
+	<Title lang='zh-tw'>世界 16</Title>
+	<Title lang='zh-cn'>世界 16</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='19' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 17</Title>
+	<Title lang='fr-fr'>Monde 17</Title>
+	<Title lang='it'>Mondo 17</Title>
+	<Title lang='de'>Welt 17</Title>
+	<Title lang='es-es'>Mundo 17</Title>
+	<Title lang='pt-br'>Mundo 17</Title>
+	<Title lang='pt-pt'>Mundo 17</Title>
+	<Title lang='zh-tw'>世界 17</Title>
+	<Title lang='zh-cn'>世界 17</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='1a' hidden='false'>
+	<GamingPoints type='single'>20</GamingPoints>
+
+	<Title>World 18</Title>
+	<Title lang='fr-fr'>Monde 18</Title>
+	<Title lang='it'>Mondo 18</Title>
+	<Title lang='de'>Welt 18</Title>
+	<Title lang='es-es'>Mundo 18</Title>
+	<Title lang='pt-br'>Mundo 18</Title>
+	<Title lang='pt-pt'>Mundo 18</Title>
+	<Title lang='zh-tw'>世界 18</Title>
+	<Title lang='zh-cn'>世界 18</Title>
+
+	<Description>Complete World</Description>
+	<Description lang='fr-fr'>Terminer tout les niveaux du Monde</Description>
+	<Description lang='it'>Completa il Mondo</Description>
+	<Description lang='de'>Meistere die Welt</Description>
+	<Description lang='es-es'>Completa el Mundo</Description>
+	<Description lang='pt-br'>Mundo completado</Description>
+	<Description lang='pt-pt'>Mundo completado</Description>
+	<Description lang='zh-tw'>通關本世界</Description>
+	<Description lang='zh-cn'>通关本世界</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+<Achievement id='1b' hidden='false'>
+	<GamingPoints type='single'>150</GamingPoints>
+
+	<Title>Hardcore Play</Title>
+	<Title lang='fr-fr'>Jeu très difficile</Title>
+	<Title lang='it'>Gioco duro</Title>
+	<Title lang='de'>Hartes Spiel</Title>
+	<Title lang='es-es'>Jugar duro</Title>
+	<Title lang='pt-br'>Jogo duro</Title>
+	<Title lang='pt-pt'>Jogo duro</Title>
+	<Title lang='zh-tw'>持久戰</Title>
+	<Title lang='zh-cn'>持久战</Title>
+
+	<Description>Played For A Very Long Time :-)</Description>
+	<Description lang='fr-fr'>Vous avez joué très très longtemps :-)</Description>
+	<Description lang='it'>Hai giocato molto a lungo :-)</Description>
+	<Description lang='de'>Sehr lange gespielt :-)</Description>
+	<Description lang='es-es'>Has jugado mucho tiempo :-)</Description>
+	<Description lang='pt-br'>Jogou por um bom tempo :-)</Description>
+	<Description lang='pt-pt'>Jogou por um bom tempo :-)</Description>
+	<Description lang='zh-tw'>玩很久嘍 :-)</Description>
+	<Description lang='zh-cn'>玩的时间太长了 :-)</Description>
+
+	<IconName>ppIcon.png</IconName>
+	<IconName lang='fr-fr'>ppIcon.png</IconName>
+	<IconName lang='it'>ppIcon.png</IconName>
+	<IconName lang='de'>ppIcon.png</IconName>
+	<IconName lang='es-es'>ppIcon.png</IconName>
+	<IconName lang='pt-br'>ppIcon.png</IconName>
+	<IconName lang='pt-pt'>ppIcon.png</IconName>
+	<IconName lang='zh-tw'>ppIcon.png</IconName>
+	<IconName lang='zh-cn'>ppIcon.png</IconName>
+</Achievement>
+
+</GameAchievements>

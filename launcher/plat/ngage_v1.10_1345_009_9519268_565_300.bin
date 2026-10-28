@@ -1,0 +1,6 @@
+<nafSettings>
+    <nafSetting name="WebServicesHostname" value="new.arena.n-gage.com" allowOverride="true"  />
+    <nafSetting name="JabberFQDN" value="imps.arena.n-gage.com" allowOverride="true"  />
+    <nafSetting name="JabberHostName" value="ngi-prod" allowOverride="true"  />
+
+</nafSettings>

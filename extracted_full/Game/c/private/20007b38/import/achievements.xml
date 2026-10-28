@@ -1,0 +1,904 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameAchievements gameid='2000AFBC'>
+    <Achievement id='00000001' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>One Fish Costa Rica</Title>
+        <Title lang='fr-FR'>1 Poisson C. Rica</Title>
+        <Title lang='it'>Un Pesce Costa Rica</Title>
+        <Title lang='de'>1 Fisch Costa Rica</Title>
+        <Title lang='es-ES'>Un pez Costa Rica</Title>
+        <Title lang='zh-tw'>一条热带鱼</Title>
+        <Title lang='zh-cn'>一條熱帶魚</Title>
+        <Description>You caught your first fish in Costa Rica</Description>
+        <Description lang='fr-FR'>Pris votre 1ier poisson en Costa Rica</Description>
+        <Description lang='it'>Preso il tuo primo pesce in Costa Rica!</Description>
+        <Description lang='de'>Ersten Fisch in Costa Rica gefangen</Description>
+        <Description lang='es-ES'>Cogiste tu primer pez en Costa Rica</Description>
+        <Description lang='zh-tw'>第一条鱼在格斯达里加</Description>
+        <Description lang='zh-cn'>第一條魚在格斯達里加</Description>
+        <IconName>PP01.png</IconName>
+        <IconName lang='fr-FR'>PP01.png</IconName>
+        <IconName lang='it'>PP01.png</IconName>
+        <IconName lang='de'>PP01.png</IconName>
+        <IconName lang='es-ES'>PP01.png</IconName>
+        <IconName lang='zh-tw'>PP01.png</IconName>
+        <IconName lang='zh-cn'>PP01.png</IconName>
+    </Achievement>
+    <Achievement id='00000002' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>One Fish Alaska</Title>
+        <Title lang='fr-FR'>Un Poisson Alaska</Title>
+        <Title lang='it'>Un Pesce Alaska</Title>
+        <Title lang='de'>Ein Fisch Alaska</Title>
+        <Title lang='es-ES'>Un pez Alaska</Title>
+        <Title lang='zh-tw'>一条冷水鱼</Title>
+        <Title lang='zh-cn'>一條冷水魚</Title>
+        <Description>You caught your first fish in Alaska</Description>
+        <Description lang='fr-FR'>Pris votre premier poisson en Alaska</Description>
+        <Description lang='it'>Preso il tuo primo pesce in Alaska!</Description>
+        <Description lang='de'>Ersten Fisch in Alaska gefangen</Description>
+        <Description lang='es-ES'>Cogiste tu primer pez en Alaska</Description>
+        <Description lang='zh-tw'>第一条鱼在阿拉斯加</Description>
+        <Description lang='zh-cn'>第一條魚在阿拉斯加</Description>
+        <IconName>PP02.png</IconName>
+        <IconName lang='de'>PP02.png</IconName>
+        <IconName lang='fr-FR'>PP02.png</IconName>
+        <IconName lang='es-ES'>PP02.png</IconName>
+        <IconName lang='it'>PP02.png</IconName>
+        <IconName lang='zh-tw'>PP02.png</IconName>
+        <IconName lang='zh-cn'>PP02.png</IconName>
+    </Achievement>
+    <Achievement id='00000003' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>One Fish Scotland</Title>
+        <Title lang='fr-FR'>Un Poisson Écosse</Title>
+        <Title lang='it'>Un Pesce Scozia</Title>
+        <Title lang='de'>1 Fisch Schottland</Title>
+        <Title lang='es-ES'>Un pez Escocia</Title>
+        <Title lang='zh-tw'>一條魚 蘇格蘭</Title>
+        <Title lang='zh-cn'>一条鱼 苏格兰</Title>
+        <Description>You caught your first fish in Scotland</Description>
+        <Description lang='fr-FR'>Pris votre premier poisson en Écosse</Description>
+        <Description lang='it'>Preso il tuo primo pesce in Scozia!</Description>
+        <Description lang='de'>Ersten Fisch in Schottland gefangen</Description>
+        <Description lang='es-ES'>Cogiste tu primer pez en Escocia</Description>
+        <Description lang='zh-tw'>您剛釣上在蘇格蘭的第一條魚</Description>
+        <Description lang='zh-cn'>第一條魚在蘇格蘭</Description>
+        <IconName>PP03.png</IconName>
+        <IconName lang='fr-FR'>PP03.png</IconName>
+        <IconName lang='it'>PP03.png</IconName>
+        <IconName lang='de'>PP03.png</IconName>
+        <IconName lang='es-ES'>PP03.png</IconName>
+        <IconName lang='zh-tw'>PP03.png</IconName>
+        <IconName lang='zh-cn'>PP03.png</IconName>
+    </Achievement>
+    <Achievement id='00000004' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>One Fish Thailand</Title>
+        <Title lang='fr-FR'>1 Poisson Thailande</Title>
+        <Title lang='it'>Un Pesce Tailandia</Title>
+        <Title lang='de'>Ein Fisch Thailand</Title>
+        <Title lang='es-ES'>Un pez Tailandia</Title>
+        <Title lang='zh-tw'>一條魚 泰國</Title>
+        <Title lang='zh-cn'>一条鱼 泰国</Title>
+        <Description>You caught your first fish in Thailand</Description>
+        <Description lang='fr-FR'>Pris votre premier poisson en Thailande</Description>
+        <Description lang='it'>Preso il tuo primo pesce in Tailandia!</Description>
+        <Description lang='de'>Ersten Fisch in Thailand gefangen</Description>
+        <Description lang='es-ES'>Cogiste tu primer pez en Tailandia</Description>
+        <Description lang='zh-tw'>您剛釣上在泰國的第一條魚</Description>
+        <Description lang='zh-cn'>第一條魚在泰國</Description>
+        <IconName>PP04.png</IconName>
+        <IconName lang='fr-FR'>PP04.png</IconName>
+        <IconName lang='it'>PP04.png</IconName>
+        <IconName lang='de'>PP04.png</IconName>
+        <IconName lang='es-ES'>PP04.png</IconName>
+        <IconName lang='zh-tw'>PP04.png</IconName>
+        <IconName lang='zh-cn'>PP04.png</IconName>
+    </Achievement>
+
+    <Achievement id='00000005' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>One Item Costa Rica</Title>
+        <Title lang='fr-FR'>Un Objet Costa Rica</Title>
+        <Title lang='it'>Oggetto Costa Rica</Title>
+        <Title lang='de'>1 Objekt Costa Rica</Title>
+        <Title lang='es-ES'>Un Obj. Costa Rica</Title>
+        <Title lang='zh-tw'>一个热带项目</Title>
+        <Title lang='zh-cn'>一個熱帶項目</Title>
+        <Description>You caught your first item in Costa Rica</Description>
+        <Description lang='fr-FR'>Pris votre premier objet en Costa Rica</Description>
+        <Description lang='it'>Preso il primo oggetto in Costa Rica!</Description>
+        <Description lang='de'>Erstes Objekt in Cost Rica gefangen</Description>
+        <Description lang='es-ES'>Cogiste tu primer objeto en Costa Rica</Description>
+        <Description lang='zh-tw'>第一个项目在格斯达里加</Description>
+        <Description lang='zh-cn'>第一個項目在格斯達里加</Description>
+        <IconName>PP05.png</IconName>
+        <IconName lang='fr-FR'>PP05.png</IconName>
+        <IconName lang='it'>PP05.png</IconName>
+        <IconName lang='de'>PP05.png</IconName>
+        <IconName lang='es-ES'>PP05.png</IconName>
+        <IconName lang='zh-tw'>PP05.png</IconName>
+        <IconName lang='zh-cn'>PP05.png</IconName>
+    </Achievement>
+    <Achievement id='00000006' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>One Item Alaska</Title>
+        <Title lang='fr-FR'>Un Objet Alaska</Title>
+        <Title lang='it'>Oggetto Alaska</Title>
+        <Title lang='de'>Ein Objekt Alaska</Title>
+        <Title lang='es-ES'>Un Obj. Alaska</Title>
+        <Title lang='zh-tw'>一个冷水项目</Title>
+        <Title lang='zh-cn'>一個冷水項目</Title>
+        <Description>You caught your first item in Alaska</Description>
+        <Description lang='fr-FR'>Pris votre premier objet en Alaska</Description>
+        <Description lang='it'>Preso il primo oggetto in Alaska!</Description>
+        <Description lang='de'>Erstes Objekt in Alaska gefangen</Description>
+        <Description lang='es-ES'>Cogiste tu primer objeto en Alaska</Description>
+        <Description lang='zh-tw'>第一个项目在阿拉斯加</Description>
+        <Description lang='zh-cn'>第一個項目在阿拉斯加</Description>
+        <IconName>PP06.png</IconName>
+        <IconName lang='fr-FR'>PP06.png</IconName>
+        <IconName lang='it'>PP06.png</IconName>
+        <IconName lang='de'>PP06.png</IconName>
+        <IconName lang='es-ES'>PP06.png</IconName>
+        <IconName lang='zh-tw'>PP06.png</IconName>
+        <IconName lang='zh-cn'>PP06.png</IconName>
+    </Achievement>
+    <Achievement id='00000007' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>One Item Scotland</Title>
+        <Title lang='fr-FR'>Un Objet Écosse</Title>
+        <Title lang='it'>Oggetto Scozia</Title>
+        <Title lang='de'>1 Objekt Schottland</Title>
+        <Title lang='es-ES'>Un Obj. Escocia</Title>
+        <Title lang='zh-tw'>苏格兰项目</Title>
+        <Title lang='zh-cn'>蘇格蘭項目</Title>
+        <Description>You caught your first item in Scotland</Description>
+        <Description lang='fr-FR'>Pris votre premier objet en Écosse</Description>
+        <Description lang='it'>Preso il  primo oggetto in Scozia!</Description>
+        <Description lang='de'>Erstes Objekt in Schottland gefangen</Description>
+        <Description lang='es-ES'>Cogiste tu primer objeto en Escocia</Description>
+        <Description lang='zh-tw'>第一个项目在苏格兰</Description>
+        <Description lang='zh-cn'>第一個項目在蘇格蘭</Description>
+        <IconName>PP07.png</IconName>
+        <IconName lang='fr-FR'>PP07.png</IconName>
+        <IconName lang='it'>PP07.png</IconName>
+        <IconName lang='de'>PP07.png</IconName>
+        <IconName lang='es-ES'>PP07.png</IconName>
+        <IconName lang='zh-tw'>PP07.png</IconName>
+        <IconName lang='zh-cn'>PP07.png</IconName>
+    </Achievement>
+    <Achievement id='00000008' hidden='false' >
+        <GamingPoints type='single'>10</GamingPoints>
+        <Title>One Item Thailand</Title>
+        <Title lang='fr-FR'>Un Objet Thaïlande</Title>
+        <Title lang='it'>Oggetto Tailandia</Title>
+        <Title lang='de'>Ein Objekt Thailand</Title>
+        <Title lang='es-ES'>Un Obj. Tailandia</Title>
+        <Title lang='zh-tw'>泰国项目</Title>
+        <Title lang='zh-cn'>泰國項目</Title>
+        <Description>You caught your first item in Thailand</Description>
+        <Description lang='fr-FR'>Pris votre premier objet en Thaïlande</Description>
+        <Description lang='it'>Preso il primo oggetto in Tailandia!</Description>
+        <Description lang='de'>Erstes Objekt in Thailand gefangen</Description>
+        <Description lang='es-ES'>Cogiste tu primer objeto en Tailandia</Description>
+        <Description lang='zh-tw'>您剛釣上在泰國的第一個物品</Description>
+        <Description lang='zh-cn'>第一個項目在泰國</Description>
+        <IconName>PP08.png</IconName>
+        <IconName lang='fr-FR'>PP08.png</IconName>
+        <IconName lang='it'>PP08.png</IconName>
+        <IconName lang='de'>PP08.png</IconName>
+        <IconName lang='es-ES'>PP08.png</IconName>
+        <IconName lang='zh-tw'>PP08.png</IconName>
+        <IconName lang='zh-cn'>PP08.png</IconName>
+    </Achievement>
+    
+    <Achievement id='00000009' hidden='false' >
+        <GamingPoints type='single'>15</GamingPoints>
+        <Title>Crocodile Bay Resort</Title>
+        <Title lang='fr-FR'>Crocodile Bay</Title>
+        <Title lang='it'>Crocodile Bay</Title>
+        <Title lang='de'>Crocodile Bay</Title>
+        <Title lang='es-ES'>Crocodile Bay</Title>
+        <Title lang='zh-tw'>Crocodile Bay</Title>
+        <Title lang='zh-cn'>Crocodile Bay</Title>
+        <Description>Welcome to Crocodile Bay Resort</Description>
+        <Description lang='fr-FR'>Bienvenue à Crocodile Bay Resort</Description>
+        <Description lang='it'>Benvenuto alla Crocodile Bay Resort</Description>
+        <Description lang='de'>Willkommen beim Crocodile Bay Resort</Description>
+        <Description lang='es-ES'>Bienvenido a Crocodile Bay Resort</Description>
+        <Description lang='zh-tw'>歡迎蒞臨 Crocodile Bay Resort</Description>
+        <Description lang='zh-cn'>欢迎来到 Crocodile Bay Resort</Description>
+        <IconName>PP09.png</IconName>
+        <IconName lang='fr-FR'>PP09.png</IconName>
+        <IconName lang='it'>PP09.png</IconName>
+        <IconName lang='de'>PP09.png</IconName>
+        <IconName lang='es-ES'>PP09.png</IconName>
+        <IconName lang='zh-tw'>PP09.png</IconName>
+        <IconName lang='zh-cn'>PP09.png</IconName>
+    </Achievement>
+    <Achievement id='0000000A' hidden='false' >
+        <GamingPoints type='single'>15</GamingPoints>
+        <Title>Waterfall Resort</Title>
+        <Title lang='fr-FR'>Waterfall Resort</Title>
+        <Title lang='it'>Waterfall Resort</Title>
+        <Title lang='de'>Waterfall Resort</Title>
+        <Title lang='es-ES'>Waterfall Resort</Title>
+        <Title lang='zh-tw'>Waterfall Resort</Title>
+        <Title lang='zh-cn'>Waterfall Resort</Title>
+        <Description>Welcome to the Waterfall Resort</Description>
+        <Description lang='fr-FR'>Bienvenue à Waterfall Resort</Description>
+        <Description lang='it'>Benvenuto alla Waterfall Resort</Description>
+        <Description lang='de'>Willkommen beim Waterfall Resort</Description>
+        <Description lang='es-ES'>Bienvenido a Waterfall Resort</Description>
+        <Description lang='zh-tw'>歡迎蒞臨 Waterfall Resort</Description>
+        <Description lang='zh-cn'>欢迎来到 Waterfall Resort</Description>
+        <IconName>PP10.png</IconName>
+        <IconName lang='fr-FR'>PP10.png</IconName>
+        <IconName lang='it'>PP10.png</IconName>
+        <IconName lang='de'>PP10.png</IconName>
+        <IconName lang='es-ES'>PP10.png</IconName>
+        <IconName lang='zh-tw'>PP10.png</IconName>
+        <IconName lang='zh-cn'>PP10.png</IconName>
+    </Achievement>
+    <Achievement id='0000000B' hidden='false' >
+        <GamingPoints type='single'>15</GamingPoints>
+        <Title>Tomdoun Hotel</Title>
+        <Title lang='fr-FR'>Tomdoun Hotel</Title>
+        <Title lang='it'>Tomdoun Hotel</Title>
+        <Title lang='de'>Tomdoun Hotel</Title>
+        <Title lang='es-ES'>Tomdoun Hotel</Title>
+        <Title lang='zh-tw'>Tomdoun Hotel</Title>
+        <Title lang='zh-cn'>Tomdoun Hotel</Title>
+        <Description>Welcome to Tomdoun Hotel</Description>
+        <Description lang='fr-FR'>Bienvenue à Tomdoun Hotel</Description>
+        <Description lang='it'>Benvenuto alla Tomdoun Hotel</Description>
+        <Description lang='de'>Willkommen beim Tomdoun Hotel</Description>
+        <Description lang='es-ES'>Bienvenido a Tomdoun Hotel</Description>
+        <Description lang='zh-tw'>歡迎蒞臨 Tomdoun Hotel</Description>
+        <Description lang='zh-cn'>欢迎来到 Tomdoun Hotel</Description>
+        <IconName>PP11.png</IconName>
+        <IconName lang='fr-FR'>PP11.png</IconName>
+        <IconName lang='it'>PP11.png</IconName>
+        <IconName lang='de'>PP11.png</IconName>
+        <IconName lang='es-ES'>PP11.png</IconName>
+        <IconName lang='zh-tw'>PP11.png</IconName>
+        <IconName lang='zh-cn'>PP11.png</IconName>
+    </Achievement>
+    <Achievement id='0000000C' hidden='false' >
+        <GamingPoints type='single'>15</GamingPoints>
+        <Title>Topcats Resort</Title>
+        <Title lang='fr-FR'>Topcats Resort</Title>
+        <Title lang='it'>Topcats Resort</Title>
+        <Title lang='de'>Topcats Resort</Title>
+        <Title lang='es-ES'>Topcats Resort</Title>
+        <Title lang='zh-tw'>TopCats Resort</Title>
+        <Title lang='zh-cn'>TopCats Resort</Title>
+        <Description>Welcome to Topcats Fishing Resort</Description>
+        <Description lang='fr-FR'>Bienvenue à TopCats Fishing Resort</Description>
+        <Description lang='it'>Benvenuto alla TopCats Fishing Resort</Description>
+        <Description lang='de'>Willkommen beim TopCats Fishing Resort</Description>
+        <Description lang='es-ES'>Bienvenido a TopCats Fishing Resort</Description>
+        <Description lang='zh-tw'>歡迎蒞臨 TopCats Fishing Resort</Description>
+        <Description lang='zh-cn'>欢迎来到 TopCats Fishing Resort</Description>
+        <IconName>PP12.png</IconName>
+        <IconName lang='fr-FR'>PP12.png</IconName>
+        <IconName lang='it'>PP12.png</IconName>
+        <IconName lang='de'>PP12.png</IconName>
+        <IconName lang='es-ES'>PP12.png</IconName>
+        <IconName lang='zh-tw'>PP12.png</IconName>
+        <IconName lang='zh-cn'>PP12.png</IconName>
+    </Achievement>
+    
+    <Achievement id='0000000D' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Costa Rica Tourny</Title>
+        <Title lang='fr-FR'>Tournoi Costa Rica</Title>
+        <Title lang='it'>Torneo in C. Rica</Title>
+        <Title lang='de'>Costa Rica-Turnier</Title>
+        <Title lang='es-ES'>Torneo Costa Rica</Title>
+        <Title lang='zh-tw'>热带比赛</Title>
+        <Title lang='zh-cn'>熱帶比賽</Title>
+        <Description>Your first Costa Rica tournament</Description>
+        <Description lang='fr-FR'>Inscrit à votre 1ier tournoi C. Rica</Description>
+        <Description lang='it'>Il tuo primo torneo in Costa Rica</Description>
+        <Description lang='de'>Dein erstes Turnier in Costa Rica</Description>
+        <Description lang='es-ES'>Tu primer torneo en Costa Rica</Description>
+        <Description lang='zh-tw'>您的第一個哥斯大黎加錦標賽</Description>
+        <Description lang='zh-cn'>您的首个哥斯达黎加锦标赛</Description>  
+        <IconName>PP13.png</IconName>
+        <IconName lang='fr-FR'>PP13.png</IconName>
+        <IconName lang='it'>PP13.png</IconName>
+        <IconName lang='de'>PP13.png</IconName>
+        <IconName lang='es-ES'>PP13.png</IconName>
+        <IconName lang='zh-tw'>PP13.png</IconName>
+        <IconName lang='zh-cn'>PP13.png</IconName>
+    </Achievement>
+    <Achievement id='0000000E' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Alaska Tourny</Title>
+        <Title lang='fr-FR'>Tournoi Alaska</Title>
+        <Title lang='it'>Torneo in Alaska</Title>
+        <Title lang='de'>Alaska-Turnier</Title>
+        <Title lang='es-ES'>Torneo Alaska</Title>
+        <Title lang='zh-tw'>冷的天气比赛</Title>
+        <Title lang='zh-cn'>冷的天氣比賽</Title>
+        <Description>Your first Alaska tournament</Description>
+        <Description lang='fr-FR'>Inscrit à votre 1ier tournoi en Alaska</Description>
+        <Description lang='it'>Il tuo primo torneo in Alaska</Description>
+        <Description lang='de'>Dein erstes Turnier in Alaska</Description>
+        <Description lang='es-ES'>Tu primer torneo en Alaska</Description>
+        <Description lang='zh-tw'>您的第一個阿拉斯加錦標賽</Description>
+        <Description lang='zh-cn'>您的首个阿拉斯加州锦标赛</Description>        
+        <IconName>PP14.png</IconName>
+        <IconName lang='fr-FR'>PP14.png</IconName>
+        <IconName lang='it'>PP14.png</IconName>
+        <IconName lang='de'>PP14.png</IconName>
+        <IconName lang='es-ES'>PP14.png</IconName>
+        <IconName lang='zh-tw'>PP14.png</IconName>
+        <IconName lang='zh-cn'>PP14.png</IconName>
+    </Achievement>
+    <Achievement id='0000000F' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Scotland Tourny</Title>
+        <Title lang='fr-FR'>Tournoi Écosse</Title>
+        <Title lang='it'>Tornei in Scozia</Title>
+        <Title lang='de'>Schottland-Turnier</Title>
+        <Title lang='es-ES'>Torneo Escocia</Title>
+        <Title lang='zh-tw'>蘇格蘭錦標賽</Title>
+        <Title lang='zh-cn'>苏格兰锦标赛</Title>
+        <Description>Your first Scotland tournament</Description>
+        <Description lang='fr-FR'>Inscrit a votre 1ier tournoi en Écosse</Description>
+        <Description lang='it'>Il tuo primo torneo in Scozia</Description>
+        <Description lang='de'>Dein erstes Turnier in Schottland</Description>
+        <Description lang='es-ES'>Tu primer torneo en Escocia</Description>
+        <Description lang='zh-tw'>您的第一個蘇格蘭錦標賽</Description>
+        <Description lang='zh-cn'>您的首个苏格兰锦标赛</Description>        
+        <IconName>PP15.png</IconName>
+        <IconName lang='fr-FR'>PP15.png</IconName>
+        <IconName lang='it'>PP15.png</IconName>
+        <IconName lang='de'>PP15.png</IconName>
+        <IconName lang='es-ES'>PP15.png</IconName>
+        <IconName lang='zh-tw'>PP15.png</IconName>
+        <IconName lang='zh-cn'>PP15.png</IconName>
+    </Achievement>
+    <Achievement id='00000010' hidden='false' >
+        <GamingPoints type='single'>20</GamingPoints>
+        <Title>Thailand Tourny</Title>
+        <Title lang='fr-FR'>Tournoi Thaïlande</Title>
+        <Title lang='it'>Torneo in Tailandia</Title>
+        <Title lang='de'>Thailand-Turnier</Title>
+        <Title lang='es-ES'>Torneo Tailandia</Title>
+        <Title lang='zh-tw'>泰國錦標賽</Title>
+        <Title lang='zh-cn'>泰国锦标赛</Title>
+        <Description>Your first Thailand tournament</Description>
+        <Description lang='fr-FR'>Inscrit a votre 1ier tournoi Thaïlande</Description>
+        <Description lang='it'>Il tuo primo torneo Tailandia</Description>
+        <Description lang='de'>Dein erstes Turnier in Thailand</Description>
+        <Description lang='es-ES'>Tu primer torneo en Tailandia</Description>
+        <Description lang='zh-tw'>您的第一個泰國錦標賽</Description>
+        <Description lang='zh-cn'>您的首个泰国锦标赛</Description>        
+        <IconName>PP16.png</IconName>
+        <IconName lang='fr-FR'>PP16.png</IconName>
+        <IconName lang='it'>PP16.png</IconName>
+        <IconName lang='de'>PP16.png</IconName>
+        <IconName lang='es-ES'>PP16.png</IconName>
+        <IconName lang='zh-tw'>PP16.png</IconName>
+        <IconName lang='zh-cn'>PP16.png</IconName>
+    </Achievement>
+    
+    <Achievement id='00000011' hidden='false' >
+        <GamingPoints type='single'>25</GamingPoints>
+        <Title>Costa Rica Quest</Title>
+        <Title lang='fr-FR'>Mission Costa Rica</Title>
+        <Title lang='it'>Missione Costa Rica</Title>
+        <Title lang='de'>Costa Rica-Mission</Title>
+        <Title lang='es-ES'>Misión Costa Rica</Title>
+        <Title lang='zh-tw'>热带搜寻</Title>
+        <Title lang='zh-cn'>熱帶搜尋</Title>
+        <Description>Your first quest in Costa Rica is done</Description>
+        <Description lang='fr-FR'>Rempli votre 1ier mission en Costa Rica</Description>
+        <Description lang='it'>Rifinito 1 ricerca in Costa Rica</Description>
+        <Description lang='de'>Erste Costa Rica-Mission abgeschlossen</Description>
+        <Description lang='es-ES'>Tu primer misión en Costa Rica termino</Description>
+        <Description lang='zh-tw'>第一搜寻在格斯达里加完成</Description>
+        <Description lang='zh-cn'>第一搜尋在格斯達里加完成</Description>        
+        <IconName>PP17.png</IconName>
+        <IconName lang='fr-FR'>PP17.png</IconName>
+        <IconName lang='it'>PP17.png</IconName>
+        <IconName lang='de'>PP17.png</IconName>
+        <IconName lang='es-ES'>PP17.png</IconName>      
+        <IconName lang='zh-tw'>PP17.png</IconName>
+        <IconName lang='zh-cn'>PP17.png</IconName>
+    </Achievement>
+    <Achievement id='00000012' hidden='false' >
+        <GamingPoints type='single'>25</GamingPoints>
+        <Title>Alaska Quest</Title>
+        <Title lang='fr-FR'>Mission Alaska</Title>
+        <Title lang='it'>Missione Alaska</Title>
+        <Title lang='de'>Alaska-Mission</Title>
+        <Title lang='es-ES'>Misión Alaska</Title>
+        <Title lang='zh-tw'>冷的天气搜寻</Title>
+        <Title lang='zh-cn'>冷的天氣搜尋</Title>
+        <Description>Your first quest in Alaska is done</Description>
+        <Description lang='fr-FR'>Rempli votre 1ier mission en Alaska</Description>
+        <Description lang='it'>Completato la prima missione in Alaska</Description>
+        <Description lang='de'>Erste Alaska-Mission abgeschlossen</Description>
+        <Description lang='es-ES'>Tu primer misión en Alaska termino</Description>
+        <Description lang='zh-tw'>第一搜寻在阿拉斯加完成</Description>
+        <Description lang='zh-cn'>第一搜尋在阿拉斯加完成</Description>        
+        <IconName>PP18.png</IconName>
+        <IconName lang='fr-FR'>PP18.png</IconName>
+        <IconName lang='it'>PP18.png</IconName>
+        <IconName lang='de'>PP18.png</IconName>
+        <IconName lang='es-ES'>PP18.png</IconName>
+        <IconName lang='zh-tw'>PP18.png</IconName>
+        <IconName lang='zh-cn'>PP18.png</IconName>
+    </Achievement>
+    <Achievement id='00000013' hidden='false' >
+        <GamingPoints type='single'>25</GamingPoints>
+        <Title>Scotland Quest</Title>
+        <Title lang='fr-FR'>Mission Écosse</Title>
+        <Title lang='it'>Missione Scozia</Title>
+        <Title lang='de'>Schottland-Mission</Title>
+        <Title lang='es-ES'>Misión Escocia</Title>
+        <Title lang='zh-tw'>苏格兰搜寻</Title>
+        <Title lang='zh-cn'>蘇格蘭搜尋</Title>
+        <Description>Your first quest in Scotland is done</Description>
+        <Description lang='fr-FR'>Rempli votre 1ier mission en Écosse</Description>
+        <Description lang='it'>Completato la prima missione in Scozia</Description>
+        <Description lang='de'>Erste Thailand-Mission abgeschlossen</Description>
+        <Description lang='es-ES'>Tu primer misión en Escocia termino</Description>
+        <Description lang='zh-tw'>第一搜寻在苏格兰完成</Description>
+        <Description lang='zh-cn'>第一搜尋在蘇格蘭完成</Description>        
+        <IconName>PP19.png</IconName>
+        <IconName lang='fr-FR'>PP19.png</IconName>
+        <IconName lang='it'>PP19.png</IconName>
+        <IconName lang='de'>PP19.png</IconName>
+        <IconName lang='es-ES'>PP19.png</IconName>
+        <IconName lang='zh-tw'>PP19.png</IconName>
+        <IconName lang='zh-cn'>PP19.png</IconName>
+    </Achievement>
+    <Achievement id='00000014' hidden='false' >
+        <GamingPoints type='single'>25</GamingPoints>
+        <Title>Thailand Quest</Title>
+        <Title lang='fr-FR'>Mission Thaïlande</Title>
+        <Title lang='it'>Missione Tailandia</Title>
+        <Title lang='de'>Thailand-Mission</Title>
+        <Title lang='es-ES'>Misión Tailandia</Title>
+        <Title lang='zh-tw'>泰國尋找任務</Title>
+        <Title lang='zh-cn'>泰国探寻任务</Title>
+        <Description>Your first quest in Thailand is done</Description>
+        <Description lang='fr-FR'>Rempli votre 1ier mission en Thaïlande</Description>
+        <Description lang='it'>Rifinito 1 ricerca in Tailandia</Description>
+        <Description lang='de'>Erste Thailand-Mission abgeschlossen</Description>
+        <Description lang='es-ES'>Tu primer misión en Tailandia termino</Description>
+        <Description lang='zh-tw'>第一搜寻在泰国完成</Description>
+        <Description lang='zh-cn'>第一搜尋在泰國完成</Description>        
+        <IconName>PP20.png</IconName>
+        <IconName lang='fr-FR'>PP20.png</IconName>
+        <IconName lang='it'>PP20.png</IconName>
+        <IconName lang='de'>PP20.png</IconName>
+        <IconName lang='es-ES'>PP20.png</IconName>
+        <IconName lang='zh-tw'>PP20.png</IconName>
+        <IconName lang='zh-cn'>PP20.png</IconName>
+    </Achievement>
+    
+    <Achievement id='00000015' hidden='false' >
+        <GamingPoints type='single'>30</GamingPoints>
+        <Title>You Are A Winner</Title>
+        <Title lang='fr-FR'>Vous êtes gagnant</Title>
+        <Title lang='it'>Sei un vincente</Title>
+        <Title lang='de'>Du bist ein Sieger</Title>
+        <Title lang='es-ES'>Eres Un Ganador</Title>
+        <Title lang='zh-tw'>您贏了</Title>
+        <Title lang='zh-cn'>您赢了</Title>
+        <Description>You just won your first tournament</Description>
+        <Description lang='fr-FR'>Remporter votre premier tournoi</Description>
+        <Description lang='it'>Hai appena vinto il tuo primo torneo!</Description>
+        <Description lang='de'>Dein erstes Turnier gewonnen</Description>
+        <Description lang='es-ES'>Acabas de ganar tu primer torneo</Description>
+        <Description lang='zh-tw'>您第一次贏得錦標賽！</Description>
+        <Description lang='zh-cn'>第一次比賽勝利</Description>        
+        <IconName>PP21.png</IconName>
+        <IconName lang='fr-FR'>PP21.png</IconName>
+        <IconName lang='it'>PP21.png</IconName>
+        <IconName lang='de'>PP21.png</IconName>
+        <IconName lang='es-ES'>PP21.png</IconName>
+        <IconName lang='zh-tw'>PP21.png</IconName>
+        <IconName lang='zh-cn'>PP21.png</IconName>
+    </Achievement>
+
+    <Achievement id='00000016' hidden='false' >
+        <GamingPoints type='single'>40</GamingPoints>
+        <Title>Water Bubbles</Title>
+        <Title lang='fr-FR'>Bulles d'Eau</Title>
+        <Title lang='it'>Bolle d'Acqua</Title>
+        <Title lang='de'>Wasserblasen</Title>
+        <Title lang='es-ES'>Burbujas de agua</Title>
+        <Title lang='zh-tw'>水泡</Title>
+        <Title lang='zh-cn'>水泡</Title>
+        <Description>You earned the Water Bubbles minigame</Description>
+        <Description lang='fr-FR'>Déverrouiller le mini-jeu Bulles d'Eau</Description>
+        <Description lang='it'>Guadagnato un minigioco Bolle d'Acqua</Description>
+        <Description lang='de'>Wasserblasen-Minispiel erlangt</Description>
+        <Description lang='es-ES'>Has ganado el minijuego Burbuja de agua</Description>
+        <Description lang='zh-tw'>您贏得「水泡」迷你遊戲</Description>
+        <Description lang='zh-cn'>您贏得了水泡影微型遊戲</Description>        
+        <IconName>PP22.png</IconName>
+        <IconName lang='fr-FR'>PP22.png</IconName>
+        <IconName lang='it'>PP22.png</IconName>
+        <IconName lang='de'>PP22.png</IconName>
+        <IconName lang='es-ES'>PP22.png</IconName>
+        <IconName lang='zh-tw'>PP22.png</IconName>
+        <IconName lang='zh-cn'>PP22.png</IconName>
+    </Achievement>
+    <Achievement id='00000017' hidden='false' >
+        <GamingPoints type='single'>40</GamingPoints>
+        <Title>Get Hooked</Title>
+        <Title lang='fr-FR'>s'Accrochez vous</Title>
+        <Title lang='it'>Fatti Prendere</Title>
+        <Title lang='de'>Anbeißen</Title>
+        <Title lang='es-ES'>Enganchate</Title>
+        <Title lang='zh-tw'>上鉤</Title>
+        <Title lang='zh-cn'>钩住</Title>
+        <Description>You earned the Hooked minigame</Description>
+        <Description lang='fr-FR'>Déverrouiller le mini-jeu Accroché</Description>
+        <Description lang='it'>Guadagnato un minigioco Preso all'Amo</Description>
+        <Description lang='de'>Angebissen-Minispiel erlangt</Description>
+        <Description lang='es-ES'>Has ganado el minijuego Enganchado</Description>
+        <Description lang='zh-tw'>您贏得「上鉤」迷你遊戲</Description>
+        <Description lang='zh-cn'>您贏得了被鉤的微型遊戲</Description>        
+        <IconName>PP23.png</IconName>
+        <IconName lang='fr-FR'>PP23.png</IconName>
+        <IconName lang='it'>PP23.png</IconName>
+        <IconName lang='de'>PP23.png</IconName>
+        <IconName lang='es-ES'>PP23.png</IconName>
+        <IconName lang='zh-tw'>PP23.png</IconName>
+        <IconName lang='zh-cn'>PP23.png</IconName>
+    </Achievement>
+    <Achievement id='00000018' hidden='false' >
+        <GamingPoints type='single'>40</GamingPoints>
+        <Title>Photo Catcher</Title>
+        <Title lang='fr-FR'>Preneur de Photos</Title>
+        <Title lang='it'>Pescatore di Foto</Title>
+        <Title lang='de'>Fotoangler</Title>
+        <Title lang='es-ES'>Cazando Fotos</Title>
+        <Title lang='zh-tw'>捉照片</Title>
+        <Title lang='zh-cn'>抓照片</Title>
+        <Description>You earned the Photo Catcher minigame</Description>
+        <Description lang='fr-FR'>Déverrouiller Preneur de Photos</Description>
+        <Description lang='it'>Guadagnato un minigioco Acchiappafoto</Description>
+        <Description lang='de'>Fotoangler-Minispiel erlangt </Description>
+        <Description lang='es-ES'>Has ganado el minijuego Cazando Fotos</Description>
+        <Description lang='zh-tw'>您贏得「捉照片」迷你遊戲</Description>
+        <Description lang='zh-cn'>您贏得了相片俘獲器微型遊戲</Description>        
+        <IconName>PP24.png</IconName>
+        <IconName lang='fr-FR'>PP24.png</IconName>
+        <IconName lang='it'>PP24.png</IconName>
+        <IconName lang='de'>PP24.png</IconName>
+        <IconName lang='es-ES'>PP24.png</IconName>
+        <IconName lang='zh-tw'>PP24.png</IconName>
+        <IconName lang='zh-cn'>PP24.png</IconName>
+    </Achievement>
+    <Achievement id='00000019' hidden='false' >
+        <GamingPoints type='single'>40</GamingPoints>
+        <Title>Fish Quiz</Title>
+        <Title lang='fr-FR'>Quiz de Poisson</Title>
+        <Title lang='it'>Quiz sui Pesci</Title>
+        <Title lang='de'>Fisch-Ratespiel</Title>
+        <Title lang='es-ES'>Juego de Preguntas</Title>
+        <Title lang='zh-tw'>釣魚小測試</Title>
+        <Title lang='zh-cn'>钓鱼测验</Title>
+        <Description>You earned the Fish Quiz minigame</Description>
+        <Description lang='fr-FR'>Déverrouiller mini-jeu Quiz de Poisson</Description>
+        <Description lang='it'>Guadagnato un minigioco Quiz sui Pesci</Description>
+        <Description lang='de'>Fisch-Ratespiel erlangt</Description>
+        <Description lang='es-ES'>Has ganado el minij. Juego de Preguntas</Description>
+        <Description lang='zh-tw'>您赢得了鱼测验微型游戏</Description>
+        <Description lang='zh-cn'>您贏得了魚測驗微型遊戲</Description>        
+        <IconName>PP25.png</IconName>
+        <IconName lang='fr-FR'>PP25.png</IconName>
+        <IconName lang='it'>PP25.png</IconName>
+        <IconName lang='de'>PP25.png</IconName>
+        <IconName lang='es-ES'>PP25.png</IconName>
+        <IconName lang='zh-tw'>PP25.png</IconName>
+        <IconName lang='zh-cn'>PP25.png</IconName>
+    </Achievement>
+
+    <Achievement id='0000001A' hidden='false' >
+        <GamingPoints type='single'>45</GamingPoints>
+        <Title>Catch the Train</Title>
+        <Title lang='fr-FR'>Attraper le Train</Title>
+        <Title lang='it'>Prendi Train</Title>
+        <Title lang='de'>Nimm den Train</Title>
+        <Title lang='es-ES'>Coge el Tren</Title>
+        <Title lang='zh-tw'>捉住 Train</Title>
+        <Title lang='zh-cn'>抓住 Train</Title>
+        <Description>You caught Freight Train the Bull shark</Description>
+        <Description lang='fr-FR'>Attraper Train le Requin Taureau</Description>
+        <Description lang='it'>Preso lo Squalo Toro Freight Train</Description>
+        <Description lang='de'>Den Bullenhai Freight Train gefangen</Description>
+        <Description lang='es-ES'>Cogiste a Freight Train el Tiburon Toro</Description>
+        <Description lang='zh-tw'>您捕到公牛鯊 Freight Train</Description>
+        <Description lang='zh-cn'>您抓住了 Freight Train 牛鲨</Description>        
+        <IconName>PP26.png</IconName>
+        <IconName lang='fr-FR'>PP26.png</IconName>
+        <IconName lang='it'>PP26.png</IconName>
+        <IconName lang='de'>PP26.png</IconName>
+        <IconName lang='es-ES'>PP26.png</IconName>
+        <IconName lang='zh-tw'>PP26.png</IconName>
+        <IconName lang='zh-cn'>PP26.png</IconName>
+    </Achievement>
+    <Achievement id='0000001B' hidden='false' >
+        <GamingPoints type='single'>45</GamingPoints>
+        <Title>Eight Armed Beast</Title>
+        <Title lang='fr-FR'>La Bete a Huit Bras</Title>
+        <Title lang='it'>Bestia otto braccie</Title>
+        <Title lang='de'>Achtarmige Bestie</Title>
+        <Title lang='es-ES'>Bestia Ocho Brazos</Title>
+        <Title lang='zh-tw'>八臂怪獸</Title>
+        <Title lang='zh-cn'>八臂兽</Title>
+        <Description>You caught the Giant Pacific Octopus</Description>
+        <Description lang='fr-FR'>Attraper la Pieuvre Geante du Pacifique</Description>
+        <Description lang='it'>Preso la Piovra Gigante del Pacifico</Description>
+        <Description lang='de'>Den Pazifischen Riesenkraken gefangen</Description>
+        <Description lang='es-ES'>Cogiste el Pulpo Gigante del Pacífico</Description>
+        <Description lang='zh-tw'>您捉住了伟大的章鱼</Description>
+        <Description lang='zh-cn'>您捉住了偉大的章魚</Description>        
+        <IconName>PP27.png</IconName>
+        <IconName lang='fr-FR'>PP27.png</IconName>
+        <IconName lang='it'>PP27.png</IconName>
+        <IconName lang='de'>PP27.png</IconName>
+        <IconName lang='es-ES'>PP27.png</IconName>
+        <IconName lang='zh-tw'>PP27.png</IconName>
+        <IconName lang='zh-cn'>PP27.png</IconName>
+    </Achievement>
+    <Achievement id='0000001C' hidden='false' >
+        <GamingPoints type='single'>45</GamingPoints>
+        <Title>Nessie</Title>
+        <Title lang='fr-FR'>Nessie</Title>
+        <Title lang='it'>Nessie</Title>
+        <Title lang='de'>Nessie</Title>
+        <Title lang='es-ES'>Nessie</Title>
+        <Title lang='zh-tw'>Nessie</Title>
+        <Title lang='zh-cn'>Nessie</Title>
+        <Description>You caught the Loch Ness monster</Description>
+        <Description lang='fr-FR'>Attraper le monstre du Loch Ness</Description>
+        <Description lang='it'>Preso il mostro di Loch Ness.</Description>
+        <Description lang='de'>Das Ungeheuer von Loch Ness gefangen</Description>
+        <Description lang='es-ES'>Cogiste el el monstruo del Loch Ness</Description>
+        <Description lang='zh-tw'>您捕到 Loch Ness 水怪</Description>
+        <Description lang='zh-cn'>您抓住了 Loch Ness 水怪</Description>        
+        <IconName>PP28.png</IconName>
+        <IconName lang='fr-FR'>PP28.png</IconName>
+        <IconName lang='it'>PP28.png</IconName>
+        <IconName lang='de'>PP28.png</IconName>
+        <IconName lang='es-ES'>PP28.png</IconName>
+        <IconName lang='zh-tw'>PP28.png</IconName>
+        <IconName lang='zh-cn'>PP28.png</IconName>
+    </Achievement>
+    <Achievement id='0000001D' hidden='false' >
+        <GamingPoints type='single'>45</GamingPoints>
+        <Title>Thailand legend</Title>
+        <Title lang='fr-FR'>Grand Oarfish</Title>
+        <Title lang='it'>Leggenda tailandese</Title>
+        <Title lang='de'>Thailand-Legende</Title>
+        <Title lang='es-ES'>Leyenda tailandesa</Title>
+        <Title lang='zh-tw'>泰國傳奇</Title>
+        <Title lang='zh-cn'>泰国传说</Title>
+        <Description>You caught the Oarfish of Thailand</Description>
+        <Description lang='fr-FR'>Attraper le Roi des Harengs de Thai.</Description>
+        <Description lang='it'>Preso il Pesce Remo tailandese</Description>
+        <Description lang='de'>Den Riemenfisch von Thailand gefangen</Description>
+        <Description lang='es-ES'>Cogiste el Pez Remo de Tailandia</Description>
+        <Description lang='zh-tw'>您捕到泰國皇帶魚。</Description>
+        <Description lang='zh-cn'>您抓住了泰国的皇带鱼</Description>        
+        <IconName>PP29.png</IconName>
+        <IconName lang='fr-FR'>PP29.png</IconName>
+        <IconName lang='it'>PP29.png</IconName>
+        <IconName lang='de'>PP29.png</IconName>
+        <IconName lang='es-ES'>PP29.png</IconName>
+        <IconName lang='zh-tw'>PP29.png</IconName>
+        <IconName lang='zh-cn'>PP29.png</IconName>
+    </Achievement>
+    
+    <Achievement id='0000001E' hidden='false' >
+        <GamingPoints type='single'>50</GamingPoints>
+        <Title>Costa Rica Bestiary</Title>
+        <Title lang='fr-FR'>Bestiaire C. Rica</Title>
+        <Title lang='it'>Bestiario C. Rica</Title>
+        <Title lang='de'>C. Rica-Bestiarium</Title>
+        <Title lang='es-ES'>Bestiario C. Rica</Title>
+        <Title lang='zh-tw'>热带名单</Title>
+        <Title lang='zh-cn'>熱帶名單</Title>
+        <Description>You completed your Costa Rica Bestiary</Description>
+        <Description lang='fr-FR'>Completer votre Bestiaire du Costa Rica</Description>
+        <Description lang='it'>Completato il Bestiario di Costa Rica!</Description>
+        <Description lang='de'>Das Costa Rica-Bestarium abgearbeitet</Description>
+        <Description lang='es-ES'>Completaste tu Bestiario de Costa Rica</Description>
+        <Description lang='zh-tw'>格斯达里加名单是完全的</Description>
+        <Description lang='zh-cn'>格斯達里加名單是完全的</Description>        
+        <IconName>PP30.png</IconName>
+        <IconName lang='fr-FR'>PP30.png</IconName>
+        <IconName lang='it'>PP30.png</IconName>
+        <IconName lang='de'>PP30.png</IconName>
+        <IconName lang='es-ES'>PP30.png</IconName>
+        <IconName lang='zh-tw'>PP30.png</IconName>
+        <IconName lang='zh-cn'>PP30.png</IconName>
+    </Achievement>
+    <Achievement id='0000001F' hidden='false' >
+        <GamingPoints type='single'>50</GamingPoints>
+        <Title>Alaska Bestiary</Title>
+        <Title lang='fr-FR'>Bestiaire Alaska</Title>
+        <Title lang='it'>Bestiario Alaska</Title>
+        <Title lang='de'>Alaska-Bestiarium</Title>
+        <Title lang='es-ES'>Bestiario Alaska</Title>
+        <Title lang='zh-tw'>阿拉斯加名单</Title>
+        <Title lang='zh-cn'>阿拉斯加名單</Title>
+        <Description>You completed your Alaska Bestiary</Description>
+        <Description lang='fr-FR'>Compléter votre Bestiaire de l'Alaska</Description>
+        <Description lang='it'>Completato il Bestiario di Alaska!</Description>
+        <Description lang='de'>Das Alaska-Bestarium abgearbeitet</Description>
+        <Description lang='es-ES'>Completaste tu Bestiario de Alaska</Description>
+        <Description lang='zh-tw'>阿拉斯加名单是完全的</Description>
+        <Description lang='zh-cn'>阿拉斯加名單是完全的</Description>        
+        <IconName>PP31.png</IconName>
+        <IconName lang='fr-FR'>PP31.png</IconName>
+        <IconName lang='it'>PP31.png</IconName>
+        <IconName lang='de'>PP31.png</IconName>
+        <IconName lang='es-ES'>PP31.png</IconName>
+        <IconName lang='zh-tw'>PP31.png</IconName>
+        <IconName lang='zh-cn'>PP31.png</IconName>
+    </Achievement>
+    <Achievement id='00000020' hidden='false' >
+        <GamingPoints type='single'>50</GamingPoints>
+        <Title>Scotland Bestiary</Title>
+        <Title lang='fr-FR'>Bestiaire Écosse</Title>
+        <Title lang='it'>Bestiario Scozia</Title>
+        <Title lang='de'>Schottl.-Bestiarium</Title>
+        <Title lang='es-ES'>Bestiario Escocia</Title>
+        <Title lang='zh-tw'>蘇格蘭收集箱</Title>
+        <Title lang='zh-cn'>苏格兰收藏箱</Title>
+        <Description>You completed your Scotland Bestiary</Description>
+        <Description lang='fr-FR'>Compléter votre Bestiaire de l'Écosse</Description>
+        <Description lang='it'>Completato il Bestiario di Scozia!</Description>
+        <Description lang='de'>Das Schottland-Bestiarium abgearbeitet</Description>
+        <Description lang='es-ES'>Completaste tu Bestiario de Escocia</Description>
+        <Description lang='zh-tw'>您已完成蘇格蘭收集箱清單。</Description>
+        <Description lang='zh-cn'>蘇格蘭名單是完全的</Description>       
+        <IconName>PP32.png</IconName>
+        <IconName lang='fr-FR'>PP32.png</IconName>
+        <IconName lang='it'>PP32.png</IconName>
+        <IconName lang='de'>PP32.png</IconName>
+        <IconName lang='es-ES'>PP32.png</IconName>
+        <IconName lang='zh-tw'>PP32.png</IconName>
+        <IconName lang='zh-cn'>PP32.png</IconName>
+    </Achievement>
+    <Achievement id='00000021' hidden='false' >
+        <GamingPoints type='single'>50</GamingPoints>
+        <Title>Thailand Bestiary</Title>
+        <Title lang='fr-FR'>Bestiaire Thailande</Title>
+        <Title lang='it'>Bestiario Tailandia</Title>
+        <Title lang='de'>Thailand-Bestiarium</Title>
+        <Title lang='es-ES'>Bestiario Tailandia</Title>
+        <Title lang='zh-tw'>泰國收集箱</Title>
+        <Title lang='zh-cn'>泰国收藏箱</Title>
+        <Description>You completed your Thailand Bestiary</Description>
+        <Description lang='fr-FR'>Compléter votre Bestiaire de Thailande</Description>
+        <Description lang='it'>Completato il Bestiario di Tailandia!</Description>
+        <Description lang='de'>Das Thailand-Bestarium abgearbeitet</Description>
+        <Description lang='es-ES'>Completaste tu Bestiario de Tailandia</Description>
+        <Description lang='zh-tw'>您已完成泰國收集箱清單。</Description>
+        <Description lang='zh-cn'>泰國名單是完全的</Description>        
+        <IconName>PP33.png</IconName>
+        <IconName lang='fr-FR'>PP33.png</IconName>
+        <IconName lang='it'>PP33.png</IconName>
+        <IconName lang='de'>PP33.png</IconName>
+        <IconName lang='es-ES'>PP33.png</IconName>
+        <IconName lang='zh-tw'>PP33.png</IconName>
+        <IconName lang='zh-cn'>PP33.png</IconName>
+    </Achievement>
+
+    <Achievement id='00000022' hidden='false' >
+        <GamingPoints type='single'>50</GamingPoints>
+        <Title>Treasure hunt</Title>
+        <Title lang='fr-FR'>Chasse au Trésor</Title>
+        <Title lang='it'>Caccia al tesoro</Title>
+        <Title lang='de'>Schatzsuche</Title>
+        <Title lang='es-ES'>Caza del tesoro</Title>
+        <Title lang='zh-tw'>寶藏搜尋</Title>
+        <Title lang='zh-cn'>搜寻宝藏</Title>
+        <Description>You just found the prized Fish Finder</Description>
+        <Description lang='fr-FR'>Trouver le précieux Radar à Poissons</Description>
+        <Description lang='it'>Ttrovato il Cercatore dei Pesci</Description>
+        <Description lang='de'>Den geschätzten Fischfinder gefunden</Description>
+        <Description lang='es-ES'>Has encont. el prem. Detector de Peces</Description>
+        <Description lang='zh-tw'>鱼发现者被发现</Description>
+        <Description lang='zh-cn'>魚發現者被發現</Description>        
+        <IconName>PP34.png</IconName>
+        <IconName lang='fr-FR'>PP34.png</IconName>
+        <IconName lang='it'>PP34.png</IconName>
+        <IconName lang='de'>PP34.png</IconName>
+        <IconName lang='es-ES'>PP34.png</IconName>
+        <IconName lang='zh-tw'>PP34.png</IconName>
+        <IconName lang='zh-cn'>PP34.png</IconName>
+    </Achievement>
+
+    <Achievement id='00000023' hidden='false' >
+        <GamingPoints type='multi'>10</GamingPoints>
+        <Title>Go to N-Gage Arena</Title>
+        <Title lang='fr-FR'>N-Gage Arena</Title>
+        <Title lang='it'>Accedi N-Gage Arena</Title>
+        <Title lang='de'>Besuch N-Gage Arena</Title>
+        <Title lang='es-ES'>Cone. N-Gage Arena</Title>
+        <Title lang='zh-tw'>登入 N-Gage Arena</Title>
+        <Title lang='zh-cn'>登录 N-Gage Arena</Title>
+        <Description>You logged onto the N-Gage™ Arena</Description>
+        <Description lang='fr-FR'>Connecter à N-Gage™ Arena</Description>
+        <Description lang='it'>Ti sei connesso a N-Gage™ Arena.</Description>
+        <Description lang='de'>Bei N-Gage™ Arena angemeldet</Description>
+        <Description lang='es-ES'>Te has conectado a N-Gage™ Arena</Description>
+        <Description lang='zh-tw'>您已登入 N-Gage Arena 線上經驗</Description>
+        <Description lang='zh-cn'>您已登录到N-Gage Arena在线体验</Description>        
+        <IconName>PP35.png</IconName>
+        <IconName lang='fr-FR'>PP35.png</IconName>
+        <IconName lang='it'>PP35.png</IconName>
+        <IconName lang='de'>PP35.png</IconName>
+        <IconName lang='es-ES'>PP35.png</IconName>
+        <IconName lang='zh-tw'>PP35.png</IconName>
+        <IconName lang='zh-cn'>PP35.png</IconName>
+    </Achievement>
+
+    <Achievement id='00000024' hidden='false' >
+        <GamingPoints type='multi'>20</GamingPoints>
+        <Title>Lets Compare</Title>
+        <Title lang='fr-FR'>Comparons</Title>
+        <Title lang='it'>Confrontiamo</Title>
+        <Title lang='de'>Vergleichen</Title>
+        <Title lang='es-ES'>Comparemos</Title>
+        <Title lang='zh-tw'>比較看看</Title>
+        <Title lang='zh-cn'>开始比较</Title>
+        <Description>You updated your first fishing stats</Description>
+        <Description lang='fr-FR'>Afficer vos premières stats de pêche</Description>
+        <Description lang='it'>Aggiornato le tue statistiche di pesca</Description>
+        <Description lang='de'>Deine erste Angelstatistik aktualisiert</Description>
+        <Description lang='es-ES'>Has actualz. tu 1er. estadís. de pesca</Description>
+        <Description lang='zh-tw'>您更新了您的等第</Description>
+        <Description lang='zh-cn'>您更新了您的等第</Description>        
+        <IconName>PP36.png</IconName>
+        <IconName lang='fr-FR'>PP36.png</IconName>
+        <IconName lang='it'>PP36.png</IconName>
+        <IconName lang='de'>PP36.png</IconName>
+        <IconName lang='es-ES'>PP36.png</IconName>
+        <IconName lang='zh-tw'>PP36.png</IconName>
+        <IconName lang='zh-cn'>PP36.png</IconName>
+    </Achievement>
+
+    <Achievement id='00000025' hidden='false' >
+        <GamingPoints type='multi'>30</GamingPoints>
+        <Title>Now That is a Fish</Title>
+        <Title lang='fr-FR'>Grands poissons!</Title>
+        <Title lang='it'>Pesci grandi!</Title>
+        <Title lang='de'>Große Fische!</Title>
+        <Title lang='es-ES'>Vaya, Que Pez</Title>
+        <Title lang='zh-tw'>伟大的鱼!</Title>
+        <Title lang='zh-cn'>偉大的魚!</Title>
+        <Description>You achieved your first Top 100 ranking</Description>
+        <Description lang='fr-FR'>Atteindre votre 1ier classement Top 100</Description>
+        <Description lang='it'>Sei entrato nei primi 100 posti</Description>
+        <Description lang='de'>Erstmals unter besten 100 der Rangliste</Description>
+        <Description lang='es-ES'>Has alcanzado los 100 primeros clasif.</Description>
+        <Description lang='zh-tw'>您已進入排名前一百位</Description>
+        <Description lang='zh-cn'>您的第一名列前茅100</Description>        
+        <IconName>PP37.png</IconName>
+        <IconName lang='fr-FR'>PP37.png</IconName>
+        <IconName lang='it'>PP37.png</IconName>
+        <IconName lang='de'>PP37.png</IconName>
+        <IconName lang='es-ES'>PP37.png</IconName>
+        <IconName lang='zh-tw'>PP37.png</IconName>
+        <IconName lang='zh-cn'>PP37.png</IconName>
+   </Achievement>
+   
+</GameAchievements>

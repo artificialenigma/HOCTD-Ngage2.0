@@ -1,0 +1,12 @@
+<SERVICECONFIG	iid = "{0x20001067, 0x00000000, 0x00000000, 0xFFFFFFFF}"
+				serveruid = "0x20001068"
+				threadname = "NAFAuthSrvr_V3"
+				filename = "NAFAuthSrvr_V3"
+				heapsizemax = "0x110000"
+				heapsizemin = "0x1000"
+/>
+				
+
+
+
+

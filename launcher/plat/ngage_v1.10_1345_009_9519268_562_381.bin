@@ -1,0 +1,18 @@
+<amr 
+    app_id="AOA" 
+    version="3.1"
+    asset_class="updates" 
+    check_updates="false"
+    platform="s60 3.x"
+    language="10"
+    UpdateURL="http://ext-dev.arena.n-gage.com/n-gage/servlets/update"
+    DownloadChunkSize="2000" 
+    SisFileName="c:\system\apps\AOA\"
+>
+<dir
+    name="\system\apps\AOA\"
+/>
+	<module
+		name="AOAUpdateConfig.xml"
+	/>
+</amr>

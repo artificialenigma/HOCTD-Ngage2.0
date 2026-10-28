@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE helpcontent[
+  <!ELEMENT helpcontent (helptopic+)>
+  <!ELEMENT helptopic (title, item+)>
+  <!ATTLIST helptopic id CDATA #REQUIRED>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT item (p+)>
+  <!ELEMENT p (#PCDATA | b | i | u)*>
+  <!ATTLIST p style (normal|bullet|important) #IMPLIED
+              level (zero|one|two|three|four) #IMPLIED>
+  <!ELEMENT b (#PCDATA)>
+  <!ELEMENT i (#PCDATA)>
+  <!ELEMENT u (#PCDATA)>
+]>
+
+<helpcontent>
+
+<helptopic id="PLAY_HLP_SHOWROOM_FREE_TRIAL">
+<title>Kostenlose Testversionen laden</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um eine kostenlose Testversion eines Spiels herunterzuladen, wählen Sie <b>Katalog</b>, ein Spiel sowie <b>Optionen</b> > <b>Testversion herunterladen</b>.</p>
+
+<p style="normal" level="zero">
+Um Spiele auf Ihren kompatiblen PC herunterzuladen, gehen Sie zu www.n-gage.com. Sie können die Spiele mit einem USB-Kabel vom PC auf Ihr Gerät übertragen.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_ABOUT">
+<title>Details zu Spiele-Extras</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Katalog</b>, ein Extra und anschließend <b>Optionen</b> > <b>Details anzeigen</b>.</p>
+
+<p style="normal" level="zero">
+Spiele-Extras sind neue oder zusätzliche Elemente, zum Beispiel neue Figuren, Waffen und Spielstufen, die nach dem Produktstart erworben werden können.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Spielextra herunterladen</b>
+- 
+Laden Sie das gewählte Spiele-Extra auf Ihr Gerät herunter.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_LIST">
+<title>Spiele-Extras</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Spiele-Extras sind neue oder zusätzliche Elemente, zum Beispiel neue Figuren, Waffen und Spielstufen, die nach dem Produktstart erworben werden können.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Katalog</b> > <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Details anzeigen</b>
+- 
+Zeigen Sie nähere Informationen zum gewählten Spiele-Extra an.
+</p>
+<p style="bullet" level="one"> 
+<b>Spielextra herunterladen</b>
+- 
+Laden Sie das gewählte Spiele-Extra auf Ihr Gerät herunter.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_MEDIA">
+<title>Vorschau Spiele-Extras</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Katalog</b> und ein Spiele-Extra aus. Spiele-Extras sind neue oder zusätzliche Elemente, zum Beispiel neue Figuren, Waffen und Spielstufen, die nach dem Produktstart erworben werden können. Sie können Screenshots und Videoclips zu einem Spiele-Extra ansehen, sofern verfügbar.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Anzeigen</b>
+- 
+Zeigen Sie den Screenshot oder Videoclip als Vollbild an.
+</p>
+<p style="bullet" level="one"> 
+<b>Spielextra herunterladen</b>
+- 
+Laden Sie das gewählte Spiele-Extra auf Ihr Gerät herunter.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_FEATUREDGAME">
+<title>Spiele mit besonderen Funktionen</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um ein neues Spiel zu testen, wählen Sie <b>Katalog</b>, und laden Sie eine kostenlose Testversion herunter. Um das Spiel zu kaufen, wählen Sie <b>Kaufen</b> in der Testversion.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Details anzeigen</b>
+- 
+Zeigen Sie nähere Informationen zum gewählten Spiel an.
+</p>
+<p style="bullet" level="one"> 
+<b>Testversion herunterladen</b>
+- 
+Laden Sie eine kostenlose Testversion des Spiels herunter.
+</p>
+<p style="bullet" level="one"> 
+<b>Jetzt aktualisieren</b>
+- 
+Aktualisieren Sie die Spieleliste.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_FRIENDS_FIND_FRIEND">
+<title>Mitspieler suchen</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um nach Mitspielern für N-Gage zu suchen, wählen Sie <b>M. Freunde</b>, geben Sie den Namen des Mitspielers in das Suchfeld ein und wählen Sie <b>Optionen</b> > <b>Senden</b>.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Freunde sortieren nach</b>
+- 
+Ordnen Sie die Mitspieler auf Ihrer Freundesliste nach Verfügbarkeit, Spielername oder N-Gage Punkten.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_GAMESLIST">
+<title>Weitere Spiele suchen</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um anzuzeigen, welche Spiele heruntergeladen werden können, wählen Sie <b>Katalog</b> > <b>Optionen</b> > <b>Vorhandene Spiele</b>. Neue Spiele werden regelmäßig in den Shop eingestellt.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Jetzt aktualisieren</b>
+- 
+Aktualisieren Sie die Liste der verfügbaren Spiele.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_FRIENDS_MAIN_FRIEND">
+<title>Freunde</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um anzuzeigen, welche von Ihren Freunden online und spielbereit sind, wählen Sie <b>M. Freunde</b>. Sie können auch private Mitteilungen und Spielempfehlungen senden und empfangen, oder nach bestimmten N-Gage Spielern suchen und sie auf Ihre Freundesliste einladen.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Mitteilung anzeigen</b>
+- 
+Zeigen Sie die privaten Mitteilungen von dem ausgewählten Freund an.
+</p>
+<p style="bullet" level="one"> 
+<b>Mitteilung senden</b>
+- 
+Senden Sie eine private Mitteilung an den ausgewählten Freund.
+</p>
+<p style="bullet" level="one"> 
+<b>Empfehlung anzeigen</b>
+- 
+Zeigen Sie die Spielempfehlungen von dem ausgewählten Freund an.
+</p>
+<p style="bullet" level="one"> 
+<b>Spieler bewerten</b>
+- 
+Geben Sie eine Sternewertung für den ausgewählten Freund ab.
+</p>
+<p style="bullet" level="one"> 
+<b>Freunde sortieren nach</b>
+- 
+Ordnen Sie Ihre Freunde nach Verfügbarkeit, Spielername oder N-Gage Punkten an.
+</p>
+<p style="bullet" level="one"> 
+<b>Aus Freundesliste entfernen</b>
+- 
+Entfernen Sie den ausgewählten Freund von Ihrer Freundesliste.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_DETAILS">
+<title>Spieledetails</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Laden Sie eine kostenlose Testversion herunter und lesen Sie Beurteilungen anderer Spieler, wenn Sie Informationen zum Spiel wünschen. Wählen Sie dazu <b>Katalog</b>.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Optionen:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Testversion herunterladen</b>
+- 
+Laden Sie eine kostenlose Testversion des Spiels herunter.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Legen Sie die Einstellungen für Ihr privates Konto fest.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_GAME_EXTRAS">
+<title>Spiele-Extras</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Spiele-Extras sind neue oder zusätzliche Elemente, zum Beispiel neue Figuren, Waffen und Spielstufen, die nach dem Produktstart erworben werden können.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Katalog</b> > <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Alle Spielextras ansehen</b>
+- 
+Zeigen Sie die Kategorien für Spiele-Extras an.
+</p>
+<p style="bullet" level="one"> 
+<b>Jetzt aktualisieren</b>
+- 
+Aktualisieren Sie die Spieleliste.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_GAME">
+<title>Spieleprofil</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Mein Profil</b> > <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Details anzeigen</b>
+- 
+Zeigen Sie Ihre N-Gage Punkte, Pickup-Punkte und Ihre Rangfolge für dieses Spiel an.
+</p>
+<p style="bullet" level="one"> 
+<b>Profil bearbeiten</b>
+- 
+Bearbeiten Sie Ihr öffentliches Spielerprofil.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_MEDIA">
+<title>Spielevorschau</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um Screenshots und Videoclips von Spielen anzuzeigen, wählen Sie <b>Katalog</b>.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Anzeigen</b>
+- 
+Zeigen Sie den ausgewählten Videoclip oder Screenshot als Vollbild an.
+</p>
+<p style="bullet" level="one"> 
+<b>Testversion herunterladen</b>
+- 
+Laden Sie eine kostenlose Testversion des Spiels herunter.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME">
+<title>Verfügbare Spiele</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um ein neues Spiel zu testen, wählen Sie <b>Katalog</b>, und laden Sie eine kostenlose Testversion herunter.</p>
+
+<p style="normal" level="zero">
+ Um das Spiel zu kaufen, wählen Sie <b>Kaufen</b> in der Testversion.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Details anzeigen</b>
+- 
+Zeigen Sie nähere Informationen zum gewählten Spiel an.
+</p>
+<p style="bullet" level="one"> 
+<b>Testversion herunterladen</b>
+- 
+Laden Sie eine kostenlose Testversion des Spiels herunter.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAMES_MAIN_GET_GAME">
+<title>Weitere Spiele</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Katalog</b> > <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Zum Katalog</b>
+- 
+Stellen Sie fest, welche Spiele im Shop erhältlich sind.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAMES_MAIN_INSTALLED">
+<title>Installierte Spiele</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um die Spiele zu spielen und zu verwalten, die Sie auf Ihr Gerät heruntergeladen haben, wählen Sie <b>M. Spiele</b>. Der Balken neben dem gewählten Spiel zeigt Ihren Fortschritt im Spiel an.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Spiel starten</b>
+- 
+Starten Sie das gewählte Spiel.
+</p>
+<p style="bullet" level="one"> 
+<b>Spiel bewerten</b>
+- 
+Bewerten Sie das gewählte Spiel.
+</p>
+<p style="bullet" level="one"> 
+<b>Mein Profil anzeigen</b>
+- 
+Zeigen Sie Ihre N-Gage Punkte für das gewählte Spiel an.
+</p>
+<p style="bullet" level="one"> 
+<b>Empfehlung senden</b>
+- 
+Empfehlen Sie das Spiel einem Freund.
+</p>
+<p style="bullet" level="one"> 
+<b>Spiel entfernen</b>
+- 
+Löschen Sie das Spiel aus dem Gerätespeicher, behalten Sie jedoch eine Sicherungskopie und andere Spieledaten auf dem Gerät.
+</p>
+<p style="bullet" level="one"> 
+<b>Spiel löschen</b>
+- 
+Löschen Sie das Spiel und alle zugehörigen Spieledaten aus dem Gerätespeicher.
+</p>
+<p style="bullet" level="one"> 
+<b>Speicherdetails anzeigen</b>
+- 
+Zeigen Sie nähere Informationen zum belegten und freien Speicher an.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_GEN_SETTINGS">
+<title>Spielerstufe</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Zeigen Sie Ihre N-Gage Punktestufe an, indem Sie <b>Mein Profil</b> wählen. Die Stufe wird automatisch auf der Basis Ihrer N-Gage Punkte berechnet.</p>
+
+<p style="normal" level="zero">
+Um Ihre Punktestufe zu aktualisieren, stellen Sie eine Verbindung zum N-Gage Dienst her.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Profil bearbeiten</b>
+- 
+Bearbeiten Sie Ihr öffentliches Spielerprofil.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_MESSAGES">
+<title>Mitteilungen</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um Mitteilungen zu lesen, die Sie von Ihren N-Gage Freunden empfangen haben, wählen Sie <b>Neue Mitteilungen</b>.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Mitteilung anzeigen</b>
+- 
+Zeigen Sie die gewählte Mitteilung oder Einladung an.
+</p>
+<p style="bullet" level="one"> 
+<b>Nach Updates suchen</b>
+- 
+Prüfen Sie, ob Updates verfügbar sind.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_EXTRAS">
+<title>Spiele-Extras</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Spiele-Extras sind neue oder zusätzliche Elemente, zum Beispiel neue Figuren, Waffen und Spielstufen, die nach dem Produktstart erworben werden können.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Katalog</b> > <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Alle Spielextras ansehen</b>
+- 
+Zeigen Sie die Kategorien für Spiele-Extras an.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_OPERAT_PORTAL">
+<title>Betreiber­portal</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um das Portal Ihres Betreibers mit dem Internet-Browser zu öffnen und weitere Spiele zu suchen, wählen Sie <b>Katalog</b> > <b>Optionen [Optionen]</b> > <b>Weitere Spiele auf %U</b>.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Jetzt aktualisieren</b>
+- 
+Aktualisieren Sie die Liste der verfügbaren Spiele.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_GAME">
+<title>Mit Ihren Freunden spielen</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um die Verbindung zu einem N-Gage Freund herzustellen, der im Moment zum Spielen bereit ist, wählen Sie <b>Spiel mit Freunden</b>.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Meine Freunde anzeigen</b>
+- 
+Zeigen Sie Ihre Freundesliste an.
+</p>
+<p style="bullet" level="one"> 
+<b>Nach Updates suchen</b>
+- 
+Prüfen Sie, ob Updates verfügbar sind.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_REVIEWS">
+<title>Spieler­meinungen</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um die Beurteilung anderer N-Gage Spieler zu einem Spiel zu lesen, wählen Sie <b>Katalog</b> > <b>Details anzeigen</b> > <b>Revisionen</b>.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Testversion herunterladen</b>
+- 
+Laden Sie eine kostenlose Testversion des Spiels herunter.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_MAIN_OWN">
+<title>Ihr Spielerprofil</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um Ihre Verfügbarkeit festzulegen, Ihr öffentliches Spielerprofil zu bearbeiten und die Einstellungen Ihres privaten Kontos zu ändern, wählen Sie <b>Mein Profil</b>.</p>
+
+<p style="normal" level="zero">
+Ihr Profil enthält die folgenden Felder:</p>
+
+<p style="normal" level="zero">
+<b>N-Gage Pkte</b> zeigt die Punkte, die Sie durch Ausführen von Pickup-Elementen in Spielen, die Teilnahme an Spielen mit mehreren Spielern sowie an Aktivitäten der N-Gage Community erreicht haben.</p>
+
+<p style="normal" level="zero">
+<b>Rep.</b> zeigt Ihren Ruf als Spieler, den Sie aufgrund der Bewertung durch Ihre Freunde haben.</p>
+
+<p style="normal" level="zero">
+<b>Freunde</b> zeigt, wie viele Freunde Sie haben.</p>
+
+<p style="normal" level="zero">
+<b>N-Gage Punktestufe</b> zeigt Ihre Punktestufe, die sich aus Ihren gesamten N-Gage Punkten ergibt. Um Ihre N-Gage Punktestufe zu aktualisieren, stellen Sie eine Verbindung zum N-Gage Dienst her.</p>
+
+<p style="normal" level="zero">
+<b>Spielverlauf</b> zeigt eine Liste Ihrer fünf zuletzt gespielten Spiele.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Profildetails</b>
+- 
+Zeigen Sie Ihre N-Gage Punkte an.
+</p>
+<p style="bullet" level="one"> 
+<b>Profil bearbeiten</b>
+- 
+Bearbeiten Sie Ihr öffentliches Spielerprofil.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Nachdem Sie Ihr Profil aktualisiert haben, stellen Sie die Verbindung zum N-Gage Dienst her, um die vorgenommenen Änderungen auf dem N-Gage Server zu synchronisieren.</p>
+
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_SHOWROOM">
+<title>Shop</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um die verfügbaren Spiele zu sehen und kostenlose Testversionen von Spielen herunterzuladen, wählen Sie <b>Katalog</b>.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Sonderspiel</b>
+- 
+Zeigen Sie nähere Informationen zum gewählten Spiel an.
+</p>
+<p style="bullet" level="one"> 
+<b>Nach Updates suchen</b>
+- 
+Prüfen Sie, ob Updates verfügbar sind.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_START_GAME">
+<title>Ein Spiel starten</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Um das zuletzt gespielte Spiel zu starten bzw. fortzusetzen, oder um die Verbindung zu einem N-Gage Freund herzustellen, der zum Spielen bereit ist, wählen Sie <b>Spiel starten</b>.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Spiel starten</b>
+- 
+Starten Sie das zuletzt gespielte Spiel.
+</p>
+<p style="bullet" level="one"> 
+<b>Spiel fortsetzen</b>
+- 
+Setzen Sie ein unterbrochenes Spiel fort.
+</p>
+<p style="bullet" level="one"> 
+<b>Nach Updates suchen</b>
+- 
+Prüfen Sie, ob Updates verfügbar sind.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_PROFILE">
+<title>Eigene Punkte verfolgen</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Zeigen Sie Ihre N-Gage Punkte an, indem Sie <b>Verfolge meinen Verlauf</b> wählen.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Meine Punkte anzeigen</b>
+- 
+Überprüfen Sie Ihren N-Gage Punktestand.
+</p>
+<p style="bullet" level="one"> 
+<b>Mein Profil anzeigen</b>
+- 
+Zeigen Sie Ihr Spielerprofil an.
+</p>
+<p style="bullet" level="one"> 
+<b>Nach Updates suchen</b>
+- 
+Prüfen Sie, ob Updates verfügbar sind.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAME_MAIN_UNAVAILABLE">
+<title>Nicht verfügbare Spiele</title><item>
+
+<p style="normal" level="zero">
+Öffnen Sie das Programm N-Gage.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>M. Spiele</b>. Nicht verfügbare Spiele sind vollständige Spieleversionen, die Sie entweder deinstalliert oder heruntergeladen, jedoch nicht vollständig installiert haben. Spiele, die auf der Speicherkarte installiert wurden, werden ebenfalls als nicht verfügbar angezeigt, sobald die Speicherkarte entfernt wird. Nicht verfügbare Spiele können vorübergehend nicht gespielt werden.</p>
+
+<p style="normal" level="zero">
+Wählen Sie <b>Optionen</b> und eine der folgenden Möglichkeiten:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Stop Download</b>
+- 
+Brechen Sie den Download des gewählten Spiels ab.
+</p>
+<p style="bullet" level="one"> 
+<b>Spiel installieren</b>
+- 
+Installieren Sie das gewählte Spiel.
+</p>
+<p style="bullet" level="one"> 
+<b>Spiel neu installieren</b>
+- 
+Installieren Sie das gewählte Spiel erneut.
+</p>
+<p style="bullet" level="one"> 
+<b>Spiel löschen</b>
+- 
+Löschen Sie das Spiel und alle zugehörigen Spieledaten.
+</p>
+<p style="bullet" level="one"> 
+<b>Speicherdetails anzeigen</b>
+- 
+Zeigen Sie nähere Informationen zum belegten und freien Speicher an.
+</p>
+<p style="bullet" level="one"> 
+<b>Erreichbarkeit einstellen</b>
+- 
+Legen Sie fest, ob Sie zum Spielen bereit sind.
+</p>
+<p style="bullet" level="one"> 
+<b>N-Gage Einstellungen</b>
+- 
+Nehmen Sie die Einstellungen für Ihr privates Konto vor.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Weitere Informationen finden Sie unter www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+</helpcontent>

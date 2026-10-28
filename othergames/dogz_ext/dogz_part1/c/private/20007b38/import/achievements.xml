@@ -1,0 +1,538 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameAchievements gameid='2000B4B1'>
+
+  <Achievement id='1' hidden='false' >
+    <GamingPoints type='single'>10</GamingPoints>
+
+    <Title>Dog Lover Level 1</Title>
+    <Title lang='de'>Hundeliebhaber 1</Title>
+    <Title lang='fr-FR'>Fan de toutou Nv. 1</Title>
+    <Title lang='It'>Ap. Cani Livello 1</Title>
+    <Title lang='es-ES'>Amante perros 1</Title>
+    <Title lang='zh-CN'>爱犬者第 1 关</Title>
+    <Title lang='zh-TW'>愛犬者第 1 關</Title>
+
+    <Description>Puppy fed for the first time!</Description>
+    <Description lang='de'>Den Welpen zum ersten Mal gefüttert!</Description>
+    <Description lang='fr-FR'>1er repas !</Description>
+    <Description lang='It'>Primo cibo al cucciolo!</Description>
+    <Description lang='es-ES'>¡Cachorro alimentado por primera vez!</Description>
+    <Description lang='zh-CN'>第一次喂狗仔！</Description>
+    <Description lang='zh-TW'>第一次喂狗仔！</Description>
+
+    <IconName>bowl_icon.png</IconName>
+    <IconName lang='fr-FR'>bowl_icon.png</IconName>
+    <IconName lang='It'>bowl_icon.png</IconName>
+    <IconName lang='de'>bowl_icon.png</IconName>
+    <IconName lang='es-ES'>bowl_icon.png</IconName>
+    <IconName lang='zh-CN'>bowl_icon.png</IconName>
+    <IconName lang='zh-TW'>bowl_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='2' hidden='false' >
+    <GamingPoints type='single'>10</GamingPoints>
+
+    <Title>Dog Lover Level 2</Title>
+    <Title lang='de'>Hundeliebhaber 2</Title>
+    <Title lang='fr-FR'>Fan de toutou Nv. 2</Title>
+    <Title lang='It'>Ap. Cani Livello 2</Title>
+    <Title lang='es-ES'>Amante perros 2</Title>
+    <Title lang='zh-CN'>爱犬者第 2 关</Title>
+    <Title lang='zh-TW'>愛犬者第 2 關</Title>
+
+    <Description>Puppy petted for the first time!</Description>
+    <Description lang='de'>Deinen Welpen zum 1. Mal gestreichelt!</Description>
+    <Description lang='fr-FR'>1re caresse !</Description>
+    <Description lang='It'>Prima carezza al cucciolo!</Description>
+    <Description lang='es-ES'>¡Cachorro acariciado por primera vez!</Description>
+    <Description lang='zh-CN'>第一次与狗仔亲昵！</Description>
+    <Description lang='zh-TW'>第一次與狗仔親昵！</Description>
+
+    <IconName>hand_icon.png</IconName>
+    <IconName lang='fr-FR'>hand_icon.png</IconName>
+    <IconName lang='It'>hand_icon.png</IconName>
+    <IconName lang='de'>hand_icon.png</IconName>
+    <IconName lang='es-ES'>hand_icon.png</IconName>
+    <IconName lang='zh-CN'>hand_icon.png</IconName>
+    <IconName lang='zh-TW'>hand_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='3' hidden='false' >
+    <GamingPoints type='single'>10</GamingPoints>
+
+    <Title>Dog Trainer Level 1</Title>
+    <Title lang='de'>Hundetrainer 1</Title>
+    <Title lang='fr-FR'>Dresseur Nv. 1</Title>
+    <Title lang='It'>Add. Cani Livello 1</Title>
+    <Title lang='es-ES'>Entrenador 1</Title>
+    <Title lang='zh-CN'>训狗师第 1 关</Title>
+    <Title lang='zh-TW'>訓狗師第 1 關</Title>
+
+    <Description>Puppy understood you!</Description>
+    <Description lang='de'>Dein Welpe hat dich verstanden!</Description>
+    <Description lang='fr-FR'>Il vous a compris !</Description>
+    <Description lang='It'>Il cucciolo ti ha capito!</Description>
+    <Description lang='es-ES'>¡El cachorro te ha entendido!</Description>
+    <Description lang='zh-CN'>狗仔明白你了！</Description>
+    <Description lang='zh-TW'>狗仔明白你了！</Description>
+
+    <IconName>book_icon.png</IconName>
+    <IconName lang='fr-FR'>book_icon.png</IconName>
+    <IconName lang='It'>book_icon.png</IconName>
+    <IconName lang='de'>book_icon.png</IconName>
+    <IconName lang='es-ES'>book_icon.png</IconName>
+    <IconName lang='zh-CN'>book_icon.png</IconName>
+    <IconName lang='zh-TW'>book_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='4' hidden='false' >
+    <GamingPoints type='single'>10</GamingPoints>
+
+    <Title>Dog Lover Level 3</Title>
+    <Title lang='de'>Hundeliebhaber 3</Title>
+    <Title lang='fr-FR'>Fan de toutou Nv. 3</Title>
+    <Title lang='It'>Ap. Cani Livello 3</Title>
+    <Title lang='es-ES'>Amante perros 2</Title>
+    <Title lang='zh-CN'>爱犬者第 3 关</Title>
+    <Title lang='zh-TW'>愛犬者第 3 關</Title>
+
+
+    <Description>Mess cleaned!</Description>
+    <Description lang='de'>Häufchen beseitigt!</Description>
+    <Description lang='fr-FR'>Dégat nettoyé !</Description>
+    <Description lang='It'>Hai pulito tutto!</Description>
+    <Description lang='es-ES'>¡Suciedad limpiada!</Description>
+    <Description lang='zh-CN'>垃圾已清理！</Description>
+    <Description lang='zh-TW'>垃圾已清理！</Description>
+
+    <IconName>wash_icon.png</IconName>
+    <IconName lang='fr-FR'>wash_icon.png</IconName>
+    <IconName lang='It'>wash_icon.png</IconName>
+    <IconName lang='de'>wash_icon.png</IconName>
+    <IconName lang='es-ES'>wash_icon.png</IconName>
+    <IconName lang='zh-CN'>wash_icon.png</IconName>
+    <IconName lang='zh-TW'>wash_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='5' hidden='false' >
+    <GamingPoints type='single'>10</GamingPoints>
+
+    <Title>Dog Lover Level 4</Title>
+    <Title lang='de'>Hundeliebhaber 4</Title>
+    <Title lang='fr-FR'>Fan de toutou Nv. 4</Title>
+    <Title lang='It'>Ap. Cani Livello 4</Title>
+    <Title lang='es-ES'>Amante perros 4</Title>
+    <Title lang='zh-CN'>爱犬者第 4 关</Title>
+    <Title lang='zh-TW'>愛犬者第 4 關</Title>
+
+    <Description>Puppy got water!</Description>
+    <Description lang='de'>Dein Welpe hat Wasser bekommen!</Description>
+    <Description lang='fr-FR'>Il a eu à boire !</Description>
+    <Description lang='It'>Hai dato da bere al cucciolo!</Description>
+    <Description lang='es-ES'>¡El cachorro ha bebido agua!</Description>
+    <Description lang='zh-CN'>狗仔得到了水！</Description>
+    <Description lang='zh-TW'>狗仔得到了水！</Description>
+
+    <IconName>water_icon.png</IconName>
+    <IconName lang='fr-FR'>water_icon.png</IconName>
+    <IconName lang='It'>water_icon.png</IconName>
+    <IconName lang='de'>water_icon.png</IconName>
+    <IconName lang='es-ES'>water_icon.png</IconName>
+    <IconName lang='zh-CN'>water_icon.png</IconName>
+    <IconName lang='zh-TW'>water_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='6' hidden='false' >
+    <GamingPoints type='single'>40</GamingPoints>
+
+    <Title>Dog Lover Max</Title>
+    <Title lang='de'>Hundeliebhaber max.</Title>
+    <Title lang='fr-FR'>Fan de toutou Max</Title>
+    <Title lang='It'>Ap. Cani Max</Title>
+    <Title lang='es-ES'>Amante perros máx.</Title>
+    <Title lang='zh-CN'>爱犬至尊</Title>
+    <Title lang='zh-TW'>爱犬至尊</Title>
+
+    <Description>Congratulations! Basic care completed!</Description>
+    <Description lang='de'>Glückwunsch! Basishundepflege erlernt!</Description>
+    <Description lang='fr-FR'>Bravo ! Soins de base terminés.</Description>
+    <Description lang='It'>Congratulazioni! Cure base finite!</Description>
+    <Description lang='es-ES'>¡Bien! Cuidado básico completado.</Description>
+    <Description lang='zh-CN'>恭喜！ 已完成基本看护！</Description>
+    <Description lang='zh-TW'>恭喜！ 已完成基本看護！</Description>
+
+    <IconName>small_cup_mm.png</IconName>
+    <IconName lang='fr-FR'>small_cup_mm.png</IconName>
+    <IconName lang='It'>small_cup_mm.png</IconName>
+    <IconName lang='de'>small_cup_mm.png</IconName>
+    <IconName lang='es-ES'>small_cup_mm.png</IconName>
+    <IconName lang='zh-CN'>small_cup_mm.png</IconName>
+    <IconName lang='zh-TW'>small_cup_mm.png</IconName>
+  </Achievement>
+
+  <Achievement id='7' hidden='false' >
+    <GamingPoints type='single'>80</GamingPoints>
+
+    <Title>Athlete</Title>
+    <Title lang='de'>Athlet</Title>
+    <Title lang='fr-FR'>Athlète</Title>
+    <Title lang='It'>Atleta</Title>
+    <Title lang='es-ES'>Atleta</Title>
+    <Title lang='zh-CN'>运动健将</Title>
+    <Title lang='zh-TW'>運動健將</Title>
+
+    <Description>Puppy has played Frisbee 30 times.</Description>
+    <Description lang='de'>Dein Welpe hat 30 Mal Frisbee gespielt.</Description>
+    <Description lang='fr-FR'>Il a joué au frisbee 30 fois.</Description>
+    <Description lang='It'>Ha giocato a frisbee 30 volte.</Description>
+    <Description lang='es-ES'>Ha jugado al frisbee 30 veces.</Description>
+    <Description lang='zh-CN'>狗仔已玩了 30 次飞盘。</Description>
+    <Description lang='zh-TW'>狗仔已玩了 30 次飛盤。</Description>
+
+    <IconName>frisbee_30th.png</IconName>
+    <IconName lang='fr-FR'>frisbee_30th.png</IconName>
+    <IconName lang='It'>frisbee_30th.png</IconName>
+    <IconName lang='de'>frisbee_30th.png</IconName>
+    <IconName lang='es-ES'>frisbee_30th.png</IconName>
+    <IconName lang='zh-CN'>frisbee_30th.png</IconName>
+    <IconName lang='zh-TW'>frisbee_30th.png</IconName>
+  </Achievement>
+
+  <Achievement id='8' hidden='false' >
+    <GamingPoints type='single'>10</GamingPoints>
+
+    <Title>Dog Trainer Level 2</Title>
+    <Title lang='de'>Hundetrainer 2</Title>
+    <Title lang='fr-FR'>Dresseur Nv. 2</Title>
+    <Title lang='It'>Add. Cani Livello 2</Title>
+    <Title lang='es-ES'>Entrenador 2</Title>
+    <Title lang='zh-CN'>训狗师第 2 关</Title>
+    <Title lang='zh-TW'>訓狗師第 2 關</Title>
+
+
+    <Description>Puppy caught the Frisbee!</Description>
+    <Description lang='de'>Dein Welpe hat das Frisbee gefangen!</Description>
+    <Description lang='fr-FR'>Il a attrapé le frisbee !</Description>
+    <Description lang='It'>Il cucciolo ha preso il frisbee!</Description>
+    <Description lang='es-ES'>¡El cachorro ha cogido el frisbee!</Description>
+    <Description lang='zh-CN'>狗仔接住了飞盘！</Description>
+    <Description lang='zh-TW'>狗仔接住了飛盤！</Description>
+
+    <IconName>frisbee_icon.png</IconName>
+    <IconName lang='fr-FR'>frisbee_icon.png</IconName>
+    <IconName lang='It'>frisbee_icon.png</IconName>
+    <IconName lang='de'>frisbee_icon.png</IconName>
+    <IconName lang='es-ES'>frisbee_icon.png</IconName>
+    <IconName lang='zh-CN'>frisbee_icon.png</IconName>
+    <IconName lang='zh-TW'>frisbee_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='9' hidden='false' >
+    <GamingPoints type='single'>80</GamingPoints>
+
+    <Title>Hercules</Title>
+    <Title lang='de'>Herkules</Title>
+    <Title lang='fr-FR'>Hercule</Title>
+    <Title lang='It'>Ercole</Title>
+    <Title lang='es-ES'>Hércules</Title>
+    <Title lang='zh-CN'>大力士</Title>
+    <Title lang='zh-TW'>大力士</Title>
+
+    <Description>Puppy has played Rope for 30 seconds.</Description>
+    <Description lang='de'>Länger als 30 Sek. Tauziehen gespielt.</Description>
+    <Description lang='fr-FR'>Vous avez joué pendant plus de 30 s.</Description>
+    <Description lang='It'>Il cucciolo ha giocato per 30 secondi.</Description>
+    <Description lang='es-ES'>El cachorro juega con la cuerda 30 s.</Description>
+    <Description lang='zh-CN'>狗狗已玩了 30 秒绳子。</Description>
+    <Description lang='zh-TW'>狗仔已玩了 30 秒繩子。</Description>
+
+    <IconName>rope_icon.png</IconName>
+    <IconName lang='fr-FR'>rope_icon.png</IconName>
+    <IconName lang='It'>rope_icon.png</IconName>
+    <IconName lang='de'>rope_icon.png</IconName>
+    <IconName lang='es-ES'>rope_icon.png</IconName>
+    <IconName lang='zh-CN'>rope_icon.png</IconName>
+    <IconName lang='zh-TW'>rope_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='A' hidden='false' >
+    <GamingPoints type='single'>10</GamingPoints>
+
+    <Title>Dog Care Level 1</Title>
+    <Title lang='de'>Hundepflege 1</Title>
+    <Title lang='fr-FR'>Soins Nv. 1</Title>
+    <Title lang='It'>Cure Cane Livello 1</Title>
+    <Title lang='es-ES'>Cuidador 1</Title>
+    <Title lang='zh-CN'>护理第 1 关</Title>
+    <Title lang='zh-TW'>護理第 1 關</Title>
+
+    <Description>Puppy is super clean!</Description>
+    <Description lang='de'>Dein Welpe ist völlig sauber!</Description>
+    <Description lang='fr-FR'>Il est super propre !</Description>
+    <Description lang='It'>Il cucciolo è pulitissimo!</Description>
+    <Description lang='es-ES'>¡El cachorro está muy limpio!</Description>
+    <Description lang='zh-CN'>狗仔超级干净！</Description>
+    <Description lang='zh-TW'>狗仔超級乾淨！</Description>
+
+    <IconName>shampoo_icon.png</IconName>
+    <IconName lang='fr-FR'>shampoo_icon.png</IconName>
+    <IconName lang='It'>shampoo_icon.png</IconName>
+    <IconName lang='de'>shampoo_icon.png</IconName>
+    <IconName lang='es-ES'>shampoo_icon.png</IconName>
+    <IconName lang='zh-CN'>shampoo_icon.png</IconName>
+    <IconName lang='zh-TW'>shampoo_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='B' hidden='false' >
+    <GamingPoints type='single'>40</GamingPoints>
+
+    <Title>Swimming Champ</Title>
+    <Title lang='de'>Schwimmchampion</Title>
+    <Title lang='fr-FR'>Pro de natation</Title>
+    <Title lang='It'>Super Nuotatore</Title>
+    <Title lang='es-ES'>Campeón natación</Title>
+    <Title lang='zh-CN'>游泳冠军</Title>
+    <Title lang='zh-TW'>游泳冠軍</Title>
+
+    <Description>You can access higher swimming now.</Description>
+    <Description lang='de'>Du hast höhere Schwimmlevel aktiviert.</Description>
+    <Description lang='fr-FR'>Accès au niv. supérieur en natation.</Description>
+    <Description lang='It'>Ora puoi fare le gare più difficili!</Description>
+    <Description lang='es-ES'>Otros niveles de natación disponibles.</Description>
+    <Description lang='zh-CN'>你可以进入下一级游泳賽。</Description>
+    <Description lang='zh-TW'>你可以進入下一級游泳赛。</Description>
+
+    <IconName>Lv1_card_icon.png</IconName>
+    <IconName lang='fr-FR'>Lv1_card_icon.png</IconName>
+    <IconName lang='It'>Lv1_card_icon.png</IconName>
+    <IconName lang='de'>Lv1_card_icon.png</IconName>
+    <IconName lang='es-ES'>Lv1_card_icon.png</IconName>
+    <IconName lang='zh-CN'>Lv1_card_icon.png</IconName>
+    <IconName lang='zh-TW'>Lv1_card_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='C' hidden='false' >
+    <GamingPoints type='single'>40</GamingPoints>
+
+    <Title>Dog Trainer Level 3</Title>
+    <Title lang='de'>Hundetrainer 3</Title>
+    <Title lang='fr-FR'>Dresseur Nv. 3</Title>
+    <Title lang='It'>Add. Cani Livello 3</Title>
+    <Title lang='es-ES'>Entrenador 3</Title>
+    <Title lang='zh-CN'>训狗师第 3 关</Title>
+    <Title lang='zh-TW'>訓狗師第 3 關</Title>
+
+    <Description>Smell skill enabled!</Description>
+    <Description lang='de'>Geruchssinn aktiviert!</Description>
+    <Description lang='fr-FR'>Faculté olfactive activée !</Description>
+    <Description lang='It'>Abilità fiuto attivata!</Description>
+    <Description lang='es-ES'>¡Habilidad de olfato disponible!</Description>
+    <Description lang='zh-CN'>嗅觉技能已开启！</Description>
+    <Description lang='zh-TW'>嗅覺技能已開啟！</Description>
+
+    <IconName>nose_icon.png</IconName>
+    <IconName lang='fr-FR'>nose_icon.png</IconName>
+    <IconName lang='It'>nose_icon.png</IconName>
+    <IconName lang='de'>nose_icon.png</IconName>
+    <IconName lang='es-ES'>nose_icon.png</IconName>
+    <IconName lang='zh-CN'>nose_icon.png</IconName>
+    <IconName lang='zh-TW'>nose_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='D' hidden='false' >
+    <GamingPoints type='single'>40</GamingPoints>
+
+    <Title>Race Champ</Title>
+    <Title lang='de'>Rennchampion</Title>
+    <Title lang='fr-FR'>Champion de course</Title>
+    <Title lang='It'>Super Atleta</Title>
+    <Title lang='es-ES'>Campeón carreras</Title>
+    <Title lang='zh-CN'>赛狗冠军</Title>
+    <Title lang='zh-TW'>賽狗冠軍</Title>
+
+    <Description>You can now access higher race levels.</Description>
+    <Description lang='de'>Du hast höhere Rennlevel aktiviert.</Description>
+    <Description lang='fr-FR'>Accès au niveau supérieur en course.</Description>
+    <Description lang='It'>Ora puoi fare le gare più difficili!</Description>
+    <Description lang='es-ES'>Acceso a niveles más altos de carrera.</Description>
+    <Description lang='zh-CN'>你可以进入下一级赛跑。</Description>
+    <Description lang='zh-TW'>你可以進入下一級賽跑。</Description>
+
+    <IconName>Lv2_card_icon.png</IconName>
+    <IconName lang='fr-FR'>Lv2_card_icon.png</IconName>
+    <IconName lang='It'>Lv2_card_icon.png</IconName>
+    <IconName lang='de'>Lv2_card_icon.png</IconName>
+    <IconName lang='es-ES'>Lv2_card_icon.png</IconName>
+    <IconName lang='zh-CN'>Lv2_card_icon.png</IconName>
+    <IconName lang='zh-TW'>Lv2_card_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='E' hidden='false' >
+    <GamingPoints type='single'>200</GamingPoints>
+
+    <Title>Mindful Master</Title>
+    <Title lang='de'>Guter Meister</Title>
+    <Title lang='fr-FR'>Maître attentif</Title>
+    <Title lang='It'>Maestro Mentale</Title>
+    <Title lang='es-ES'>Gran cuidador</Title>
+    <Title lang='zh-CN'>用心的主人</Title>
+    <Title lang='zh-TW'>用心的主人</Title>
+
+    <Description>You are so kind. Puppy loves you.</Description>
+    <Description lang='de'>Du bist gut zum Welpen; er liebt dich.</Description>
+    <Description lang='fr-FR'>Vous êtes super ! Il vous adore.</Description>
+    <Description lang='It'>Sei gentile! I cuccioli ti adorano.</Description>
+    <Description lang='es-ES'>¡Eres muy bueno! El cachorro te adora.</Description>
+    <Description lang='zh-CN'>你真好！ 狗仔爱你。</Description>
+    <Description lang='zh-TW'>你真好！ 狗仔愛你。</Description>
+
+    <IconName>small_cup_icon.png</IconName>
+    <IconName lang='fr-FR'>small_cup_icon.png</IconName>
+    <IconName lang='It'>small_cup_icon.png</IconName>
+    <IconName lang='de'>small_cup_icon.png</IconName>
+    <IconName lang='es-ES'>small_cup_icon.png</IconName>
+    <IconName lang='zh-CN'>small_cup_icon.png</IconName>
+    <IconName lang='zh-TW'>small_cup_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='F' hidden='false' >
+    <GamingPoints type='single'>80</GamingPoints>
+
+    <Title>I love puppy</Title>
+    <Title lang='de'>Ich liebe den Hund!</Title>
+    <Title lang='fr-FR'>Je suis fou de lui</Title>
+    <Title lang='It'>Adoro i Cuccioli</Title>
+    <Title lang='es-ES'>Amo a mi cachorro</Title>
+    <Title lang='zh-CN'>我爱小狗仔</Title>
+    <Title lang='zh-TW'>我愛小狗仔</Title>
+
+    <Description>You played ball 30 times.</Description>
+    <Description lang='de'>Dein Welpe hat 30 Mal Ball gespielt.</Description>
+    <Description lang='fr-FR'>Vous avez joué à la balle 30 fois.</Description>
+    <Description lang='It'>Hai giocato a palla 30 volte.</Description>
+    <Description lang='es-ES'>Has jugado a la pelota 30 veces.</Description>
+    <Description lang='zh-CN'>你已玩球 30 次。</Description>
+    <Description lang='zh-TW'>你已玩球 30 次</Description>
+
+    <IconName>ball_icon.png</IconName>
+    <IconName lang='fr-FR'>ball_icon.png</IconName>
+    <IconName lang='It'>ball_icon.png</IconName>
+    <IconName lang='de'>ball_icon.png</IconName>
+    <IconName lang='es-ES'>ball_icon.png</IconName>
+    <IconName lang='zh-CN'>ball_icon.png</IconName>
+    <IconName lang='zh-TW'>ball_icon.png</IconName>
+  </Achievement>
+
+  <Achievement id='10' hidden='false' >
+    <GamingPoints type='multi'>10</GamingPoints>
+
+    <Title>First upload!</Title>
+    <Title lang='de'>Erster Upload!</Title>
+    <Title lang='fr-FR'>1er envoi !</Title>
+    <Title lang='It'>Primo invio!</Title>
+    <Title lang='es-ES'>¡Primer envío!</Title>
+    <Title lang='zh-CN'>初次上传！</Title>
+    <Title lang='zh-TW'>初次上載！</Title>
+
+    <Description>Uploaded a score for the 1st time.</Description>
+    <Description lang='de'>Dein Ergebnis zum 1. Mal hochgeladen.</Description>
+    <Description lang='fr-FR'>Score envoyé pour la 1re fois.</Description>
+    <Description lang='It'>Primo invio del punteggio.</Description>
+    <Description lang='es-ES'>Puntuación enviada por primera vez.</Description>
+    <Description lang='zh-CN'>初次上传积分。</Description>
+    <Description lang='zh-TW'>初次上載積分。</Description>
+
+    <IconName>submit_1st.png</IconName>
+    <IconName lang='fr-FR'>submit_1st.png</IconName>
+    <IconName lang='It'>submit_1st.png</IconName>
+    <IconName lang='de'>submit_1st.png</IconName>
+    <IconName lang='es-ES'>submit_1st.png</IconName>
+    <IconName lang='zh-CN'>submit_1st.png</IconName>
+    <IconName lang='zh-TW'>submit_1st.png</IconName>
+  </Achievement>
+  
+  <Achievement id='11' hidden='false' >
+    <GamingPoints type='multi'>40</GamingPoints>
+
+    <Title>Uploaded 5 times</Title>
+    <Title lang='de'>Uploaded 5 times</Title>
+    <Title lang='fr-FR'>Envoyé 5 fois</Title>
+    <Title lang='It'>Inviato 5 volte</Title>
+    <Title lang='es-ES'>Enviado 5 veces</Title>
+    <Title lang='zh-CN'>已上传 5 次</Title>
+    <Title lang='zh-TW'>已上載 5 次</Title>
+
+    <Description>Uploaded a score for the 5th time.</Description>
+    <Description lang='de'>Dein Ergebnis zum 5. Mal hochgeladen.</Description>
+    <Description lang='fr-FR'>Score envoyé pour la 5e fois.</Description>
+    <Description lang='It'>Quinto invio del punteggio.</Description>
+    <Description lang='es-ES'>Puntuación enviada 5 veces.</Description>
+    <Description lang='zh-CN'>第 5 次上传积分。</Description>
+    <Description lang='zh-TW'>第 5 次上載積分。</Description>
+
+    <IconName>submit_5th.png</IconName>
+    <IconName lang='fr-FR'>submit_5th.png</IconName>
+    <IconName lang='It'>submit_5th.png</IconName>
+    <IconName lang='de'>submit_5th.png</IconName>
+    <IconName lang='es-ES'>submit_5th.png</IconName>
+    <IconName lang='zh-CN'>submit_5th.png</IconName>
+    <IconName lang='zh-TW'>submit_5th.png</IconName>
+  </Achievement>
+
+  <Achievement id='12' hidden='false' >
+    <GamingPoints type='multi'>80</GamingPoints>
+
+    <Title>Uploaded 20 times</Title>
+    <Title lang='de'>Uploaded 20 times</Title>
+    <Title lang='fr-FR'>Envoyé 20 fois</Title>
+    <Title lang='It'>Inviato 20 volte</Title>
+    <Title lang='es-ES'>Enviado 20 veces</Title>
+    <Title lang='zh-CN'>已上传 20 次</Title>
+    <Title lang='zh-TW'>已上載 20 次</Title>
+
+    <Description>Uploaded a score for the 20th time.</Description>
+    <Description lang='de'>Dein Ergebnis zum 20. Mal hochgeladen.</Description>
+    <Description lang='fr-FR'>Score envoyé pour la 20e fois.</Description>
+    <Description lang='It'>Ventesimo invio del punteggio.</Description>
+    <Description lang='es-ES'>Puntuación enviada 20 veces.</Description>
+    <Description lang='zh-CN'>第 20 次上传积分。</Description>
+    <Description lang='zh-TW'>第 20 次上載積分。</Description>
+
+    <IconName>submit_20th.png</IconName>
+    <IconName lang='fr-FR'>submit_20th.png</IconName>
+    <IconName lang='It'>submit_20th.png</IconName>
+    <IconName lang='de'>submit_20th.png</IconName>
+    <IconName lang='es-ES'>submit_20th.png</IconName>
+    <IconName lang='zh-CN'>submit_20th.png</IconName>
+    <IconName lang='zh-TW'>submit_20th.png</IconName>
+  </Achievement>
+
+  <Achievement id='13' hidden='false' >
+    <GamingPoints type='multi'>200</GamingPoints>
+
+    <Title>Uploaded 50 times</Title>
+    <Title lang='de'>Uploaded 50 times</Title>
+    <Title lang='fr-FR'>Envoyé 50 fois</Title>
+    <Title lang='It'>Inviato 50 volte</Title>
+    <Title lang='es-ES'>Enviado 50 veces</Title>
+    <Title lang='zh-CN'>已上传 50 次</Title>
+    <Title lang='zh-TW'>已上載 50 次</Title>
+
+    <Description>Uploaded a score for the 50th time.</Description>
+    <Description lang='de'>Dein Ergebnis zum 50. Mal hochgeladen.</Description>
+    <Description lang='fr-FR'>Score envoyé pour la 50e fois.</Description>
+    <Description lang='It'>Cinquantesimo invio del punteggio.</Description>
+    <Description lang='es-ES'>Puntuación enviada 50 veces.</Description>
+    <Description lang='zh-CN'>第 50 次上传积分。</Description>
+    <Description lang='zh-TW'>第 50 次上載積分。</Description>
+
+    <IconName>submit_50th.png</IconName>
+    <IconName lang='fr-FR'>submit_50th.png</IconName>
+    <IconName lang='It'>submit_50th.png</IconName>
+    <IconName lang='de'>submit_50th.png</IconName>
+    <IconName lang='es-ES'>submit_50th.png</IconName>
+    <IconName lang='zh-CN'>submit_50th.png</IconName>
+    <IconName lang='zh-TW'>submit_50th.png</IconName>
+  </Achievement>
+
+</GameAchievements>

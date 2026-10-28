@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE helpcontent[
+  <!ELEMENT helpcontent (helptopic+)>
+  <!ELEMENT helptopic (title, item+)>
+  <!ATTLIST helptopic id CDATA #REQUIRED>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT item (p+)>
+  <!ELEMENT p (#PCDATA | b | i | u)*>
+  <!ATTLIST p style (normal|bullet|important) #IMPLIED
+              level (zero|one|two|three|four) #IMPLIED>
+  <!ELEMENT b (#PCDATA)>
+  <!ELEMENT i (#PCDATA)>
+  <!ELEMENT u (#PCDATA)>
+]>
+
+<helpcontent>
+
+<helptopic id="PLAY_HLP_SHOWROOM_FREE_TRIAL">
+<title>Download delle versioni gratuite di prova</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per scaricare una versione gratuita di prova di un gioco, selezionare <b>Catalogo</b>, un gioco e <b>Opzioni</b> > <b>Scarica la Vers. Di Prova</b>.</p>
+
+<p style="normal" level="zero">
+Per scaricare giochi sul PC compatibile, visitare www.n-gage.com. È possibile trasferire i giochi dal PC al dispositivo in uso con un cavo USB.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_ABOUT">
+<title>Dettagli di extra del gioco</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Catalogo</b>, un extra e <b>Opzioni</b> > <b>Visualizza Dettagli</b>.</p>
+
+<p style="normal" level="zero">
+Gli extra del gioco possono essere elementi nuovi o aggiuntivi, ad esempio nuovi personaggi, armi e livelli, che possono uscire sul mercato dopo il rilascio di un gioco.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Scarica Game Extra</b>
+- 
+Consente di scaricare nel dispositivo l'extra del gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_LIST">
+<title>Extra del gioco</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Gli extra del gioco possono essere elementi nuovi o aggiuntivi, ad esempio nuovi personaggi, armi e livelli, che possono uscire sul mercato dopo il rilascio di un gioco.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Catalogo</b> > <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Visualizza Dettagli</b>
+- 
+Consente di visualizzare i dettagli dell'extra del gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Scarica Game Extra</b>
+- 
+Consente di scaricare nel dispositivo l'extra del gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_MEDIA">
+<title>Anteprima degli extra del gioco</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Catalogo</b> e un extra del gioco. Gli extra del gioco possono essere elementi nuovi o aggiuntivi, ad esempio nuovi personaggi, armi e livelli, che possono uscire sul mercato dopo il rilascio di un gioco. È possibile visualizzare eventuali screenshot e clip video relativi a un extra del gioco.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Visualizza</b>
+- 
+Consente di visualizzare lo screenshot o il clip video a schermo intero.
+</p>
+<p style="bullet" level="one"> 
+<b>Scarica Game Extra</b>
+- 
+Consente di scaricare nel dispositivo l'extra del gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_FEATUREDGAME">
+<title>Giochi disponibili</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per provare un nuovo gioco, selezionare <b>Catalogo</b> e scaricare una versione gratuita di prova. Per acquistare il gioco, selezionare <b>Acquista</b> nella versione di prova.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Visualizza Dettagli</b>
+- 
+Consente di visualizzare i dettagli del gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Scarica la Vers. Di Prova</b>
+- 
+Consente di avviare il download di una versione gratuita di prova del gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Aggiorna Adesso</b>
+- 
+Consente di aggiornare l'elenco dei giochi.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_FRIENDS_FIND_FRIEND">
+<title>Cercare giocatori</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per cercare giocatori N-Gage, selezionare <b>I Miei Amici</b>, inserire il nome del giocatore nel campo di ricerca e scegliere <b>Opzioni</b> > <b>Invia</b>.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Organizza Amici Per</b>
+- 
+Consente di disporre i giocatori nell'elenco degli amici in base alla disponibilità, al nome o ai punti N-Gage.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_GAMESLIST">
+<title>Cercare altri giochi</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per vedere quali giochi sono disponibili per il download, selezionare <b>Catalogo</b> > <b>Opzioni</b> > <b>Giochi Disponibili</b>. I giochi nuovi vengono aggiunti periodicamente al catalogo.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Aggiorna Adesso</b>
+- 
+Consente di aggiornare l'elenco dei giochi disponibili.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_FRIENDS_MAIN_FRIEND">
+<title>Amici</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per vedere quali dei propri amici sono online e disponibili a giocare, selezionare <b>I Miei Amici</b>. È anche possibile inviare e ricevere messaggi privati e consigli sui giochi oppure cercare giocatori N-Gage specifici e invitarli nell'Elenco Amici.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Visualizza Messaggio</b>
+- 
+Consente di visualizzare i messaggi privati dell'amico selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Invia Messaggio</b>
+- 
+Consente di inviare un messaggio privato all'amico selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Visualizza Consigli</b>
+- 
+Consente di visualizzare i consigli sui gioco dell'amico selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Dai un Voto al Giocatore</b>
+- 
+Consente di fornire una classificazione dell'amico selezionato tramite l'assegnazione di stelle.
+</p>
+<p style="bullet" level="one"> 
+<b>Organizza Amici Per</b>
+- 
+Consente di disporre i propri amici in base alla disponibilità, al nome o ai punti N-Gage.
+</p>
+<p style="bullet" level="one"> 
+<b>Elimina dall'Elenco Amici</b>
+- 
+Consente di rimuovere l'amico selezionato dall'Elenco Amici.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_DETAILS">
+<title>Dettagli del gioco</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per leggere le informazioni sul gioco, scaricare una versione gratuita di prova e prendere visione dei commenti degli altri giocatori, selezionare <b>Catalogo</b>.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Scarica la Vers. Di Prova</b>
+- 
+Consente di scaricare una versione gratuita di prova del gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_GAME_EXTRAS">
+<title>Extra del gioco</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Gli extra del gioco possono essere elementi nuovi o aggiuntivi, ad esempio nuovi personaggi, armi e livelli, che possono uscire sul mercato dopo il rilascio di un gioco.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Catalogo</b> > <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Sfoglia tutti gli Extras</b>
+- 
+Consente di visualizzare le categorie degli extra del gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Aggiorna Adesso</b>
+- 
+Consente di aggiornare l'elenco dei giochi.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_GAME">
+<title>Profilo del gioco</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Profilo</b> > <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Visualizza Dettagli</b>
+- 
+Consente di visualizzare i punti N-Gage, le raccolte di punti e le classifiche relative al gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Modifica Profilo</b>
+- 
+Consente di modificare il profilo pubblico del giocatore.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_MEDIA">
+<title>Visualizzare i giochi in anteprima</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per visualizzare screenshot e clip video di giochi, selezionare <b>Catalogo</b>.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Visualizza</b>
+- 
+Consente di visualizzare lo screenshot o il clip video selezionato a schermo intero.
+</p>
+<p style="bullet" level="one"> 
+<b>Scarica la Vers. Di Prova</b>
+- 
+Consente di scaricare una versione gratuita di prova del gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME">
+<title>Giochi disponibili</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per provare un nuovo gioco, selezionare <b>Catalogo</b> e scaricare una versione gratuita di prova.</p>
+
+<p style="normal" level="zero">
+ Per acquistare il gioco, selezionare <b>Acquista</b> nella versione di prova.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Visualizza Dettagli</b>
+- 
+Consente di visualizzare i dettagli del gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Scarica la Vers. Di Prova</b>
+- 
+Consente di avviare il download di una versione gratuita di prova del gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAMES_MAIN_GET_GAME">
+<title>Scaricare altri giochi</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Catalogo</b> > <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Vai al Catalogo</b>
+- 
+Consente di controllare quali giochi sono disponibili nel catalogo.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAMES_MAIN_INSTALLED">
+<title>Giochi installati</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per eseguire e gestire i giochi scaricati nel dispositivo in uso, selezionare <b>I Miei Giochi</b>. La barra accanto al gioco selezionato indica lo stato di avanzamento del gioco.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Avvia Gioco</b>
+- 
+Consente di avviare l'esecuzione del gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Dai un Voto al Gioco</b>
+- 
+Consente di valutare il gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Visualizza Il Mio Profilo</b>
+- 
+Consente di visualizzare i punti N-Gage relativi al gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Invia Consiglio</b>
+- 
+Consente di consigliare il gioco a un amico.
+</p>
+<p style="bullet" level="one"> 
+<b>Elimina Gioco</b>
+- 
+Consente di rimuovere il gioco dalla memoria del dispositivo, ma di conservare sul dispositivo i giochi salvati e altri dati dei giochi.
+</p>
+<p style="bullet" level="one"> 
+<b>Cancella Gioco</b>
+- 
+Consente di eliminare il gioco e tutti i dati ad esso associati dalla memoria del dispositivo.
+</p>
+<p style="bullet" level="one"> 
+<b>Visualizza Dettagli Memoria</b>
+- 
+Consente di visualizzare i dettagli sulla memoria in uso e su quella disponibile.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_GEN_SETTINGS">
+<title>Livello del giocatore</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per controllare il livello di punti N-Gage, selezionare <b>Profilo</b>. Il livello viene calcolato automaticamente sulla base dei punti N-Gage.</p>
+
+<p style="normal" level="zero">
+Per aggiornare il livello, connettersi al servizio N-Gage.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Modifica Profilo</b>
+- 
+Consente di modificare il profilo pubblico del giocatore.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_MESSAGES">
+<title>Messaggi </title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per leggere i messaggi ricevuti dagli amici N-Gage, selezionare <b>Nuovi Messaggi</b>.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Visualizza Messaggio</b>
+- 
+Consente di visualizzare il messaggio o l'invito selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Controlla aggiornamenti</b>
+- 
+Consente di controllare se sono disponibili aggiornamenti.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_EXTRAS">
+<title>Extra del gioco</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Gli extra del gioco possono essere elementi nuovi o aggiuntivi, ad esempio nuovi personaggi, armi e livelli, che possono uscire sul mercato dopo il rilascio di un gioco.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Catalogo</b> > <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Sfoglia tutti gli Extras</b>
+- 
+Consente di visualizzare le categorie degli extra del gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_OPERAT_PORTAL">
+<title>Portale operatore</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per aprire il portale dell'operatore nel browser Web e trovare altri giochi, selezionare <b>Catalogo</b> > <b>Opzioni [Opzioni]</b> > <b>Altri Giochi a %U</b>.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Aggiorna Adesso</b>
+- 
+Consente di aggiornare l'elenco dei giochi disponibili.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_GAME">
+<title>Giocare con gli amici</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per connettersi a un amico N-Gage che è disponibile a giocare, selezionare <b>Gioca Con Gli Amici</b>.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Visualizza I Miei Amici</b>
+- 
+Consente di visualizzare l'Elenco Amici.
+</p>
+<p style="bullet" level="one"> 
+<b>Controlla aggiornamenti</b>
+- 
+Consente di controllare se sono disponibili aggiornamenti.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_REVIEWS">
+<title>Commenti dei giocatori</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per leggere i commenti su un gioco rilasciati da altri giocatori N-Gage, selezionare <b>Catalogo</b> > <b>Visualizza Dettagli</b> > <b>Recensioni</b>.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Scarica la Vers. Di Prova</b>
+- 
+Consente di scaricare una versione gratuita di prova del gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_MAIN_OWN">
+<title>Profilo del giocatore</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per impostare la propria disponibilità, modificare il profilo pubblico e cambiare i dettagli del proprio account privato, selezionare <b>Profilo</b>.</p>
+
+<p style="normal" level="zero">
+Il profilo contiene i seguenti campi:</p>
+
+<p style="normal" level="zero">
+<b>Punti N-Gage</b> mostra i punti guadagnati completando le raccolte punti nei giochi, nelle partite in modalità multiplayer e partecipando alle attività della community N-Gage.</p>
+
+<p style="normal" level="zero">
+<b>Rep</b> mostra la reputazione nel gioco, in base alla valutazione fornita dagli amici.</p>
+
+<p style="normal" level="zero">
+<b>Amici</b> indica la quantità di amici che uno ha.</p>
+
+<p style="normal" level="zero">
+<b>Livello Punti N-Gage</b> indica il livello raggiunto sulla base dei punti N-Gage totali realizzati. Per aggiornare il livello di punti N-Gage, connettersi al servizio N-Gage.</p>
+
+<p style="normal" level="zero">
+<b>Cronologia di Gioco</b> elenca i cinque giochi eseguiti più di recente.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Dettagli profilo</b>
+- 
+Consente di visualizzare i punti N-Gage.
+</p>
+<p style="bullet" level="one"> 
+<b>Modifica Profilo</b>
+- 
+Consente di modificare il profilo pubblico del giocatore.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Dopo avere aggiornato il profilo, connettersi al servizio N-Gage per sincronizzare le modifiche apportate con il server N-Gage.</p>
+
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_SHOWROOM">
+<title>Catalogo</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per visualizzare i giochi disponibili e scaricare versioni gratuite di prova dei giochi, selezionare <b>Catalogo</b>.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Gioco Presentato</b>
+- 
+Consente di visualizzare i dettagli del gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Controlla aggiornamenti</b>
+- 
+Consente di controllare se sono disponibili aggiornamenti.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_START_GAME">
+<title>Avviare un gioco</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per avviare un gioco o riprendere l'ultimo eseguito oppure per connettersi a un amico N-Gage, che è disponibile a giocare, selezionare <b>Avvia Gioco</b>.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Avvia Gioco</b>
+- 
+Consente di avviare l'ultimo gioco eseguito.
+</p>
+<p style="bullet" level="one"> 
+<b>Riprendi Gioco</b>
+- 
+Consente di riprendere un gioco sospeso.
+</p>
+<p style="bullet" level="one"> 
+<b>Controlla aggiornamenti</b>
+- 
+Consente di controllare se sono disponibili aggiornamenti.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_PROFILE">
+<title>Tenere traccia dei punti</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Per visualizzare i punti N-Gage realizzati, selezionare <b>Segui i Miei Progressi</b>.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Visualizza I Miei Punti</b>
+- 
+Consente di controllare i punti N-Gage.
+</p>
+<p style="bullet" level="one"> 
+<b>Visualizza Il Mio Profilo</b>
+- 
+Consente di visualizzare il profilo del giocatore.
+</p>
+<p style="bullet" level="one"> 
+<b>Controlla aggiornamenti</b>
+- 
+Consente di controllare se sono disponibili aggiornamenti.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAME_MAIN_UNAVAILABLE">
+<title>Giochi non disponibili</title><item>
+
+<p style="normal" level="zero">
+Aprire l'applicazione N-Gage.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>I Miei Giochi</b>. I giochi non disponibili sono giochi completi che sono stati disinstallati oppure scaricati, ma la cui installazione non è stata completata. Anche i giochi installati nella memory card vengono visualizzati come non disponibili quando la memory card viene rimossa. Non è possibile giocare con i giochi non disponibili.</p>
+
+<p style="normal" level="zero">
+Selezionare <b>Opzioni</b> e scegliere:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Annulla Downl.</b>
+- 
+Consente di annullare il download del gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Installa Gioco</b>
+- 
+Consente di installare il gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Reinstalla Gioco</b>
+- 
+Consente di reinstallare il gioco selezionato.
+</p>
+<p style="bullet" level="one"> 
+<b>Cancella Gioco</b>
+- 
+Consente di eliminare il gioco e tutti i dati associati.
+</p>
+<p style="bullet" level="one"> 
+<b>Visualizza Dettagli Memoria</b>
+- 
+Consente di visualizzare i dettagli sulla memoria in uso e su quella disponibile.
+</p>
+<p style="bullet" level="one"> 
+<b>Entra Online/Offline</b>
+- 
+Consente di definire se si è disponibili a entrare nel gioco.
+</p>
+<p style="bullet" level="one"> 
+<b>Impostazioni N-Gage</b>
+- 
+Consente di modificare l'account privato.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Per ulteriori informazioni, visitare il sito www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+</helpcontent>

@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE helpcontent[
+  <!ELEMENT helpcontent (helptopic+)>
+  <!ELEMENT helptopic (title, item+)>
+  <!ATTLIST helptopic id CDATA #REQUIRED>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT item (p+)>
+  <!ELEMENT p (#PCDATA | b | i | u)*>
+  <!ATTLIST p style (normal|bullet|important) #IMPLIED
+              level (zero|one|two|three|four) #IMPLIED>
+  <!ELEMENT b (#PCDATA)>
+  <!ELEMENT i (#PCDATA)>
+  <!ELEMENT u (#PCDATA)>
+]>
+
+<helpcontent>
+
+<helptopic id="PLAY_HLP_SHOWROOM_FREE_TRIAL">
+<title>Загрузка бесплатных пробных версий</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Для загрузки бесплатной пробной версии игры выберите <b>Каталог</b>, игру и <b>Опции</b> > <b>Загрузить пробную игру</b>.</p>
+
+<p style="normal" level="zero">
+Для загрузки игр на совместимый компьютер посетите страницу www.n-gage.com. С компьютера игры можно передать на устройство с помощью кабеля USB.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_ABOUT">
+<title>Сведения о дополнениях к играм</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Каталог</b>, дополнение и <b>Опции</b> > <b>Просмотреть сведения</b>.</p>
+
+<p style="normal" level="zero">
+Дополнения к играм – это новые или дополнительные элементы, например новые герои, оружие и уровни, которые могут появиться после выпуска игры.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Загрузить дополн. к игре</b>
+- 
+Загрузка выбранного дополнения к игре на устройство.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_LIST">
+<title>Дополнения к играм</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Дополнения к играм – это новые или дополнительные элементы, например новые герои, оружие и уровни, которые могут появиться после выпуска игры.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Каталог</b> > <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Просмотреть сведения</b>
+- 
+Просмотр сведений о выбранном дополнении к игре.
+</p>
+<p style="bullet" level="one"> 
+<b>Загрузить дополн. к игре</b>
+- 
+Загрузка выбранного дополнения к игре на устройство.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_GAME_EXTRA_MEDIA">
+<title>Предварительный просмотр дополнений к играм</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Каталог</b> и дополнение к игре. Дополнения к играм – это новые или дополнительные элементы, например новые герои, оружие и уровни, которые могут появиться после выпуска игры. Можно просмотреть снимки экранов и видеоклипы о дополнении к игре, если они доступны.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Посмотреть</b>
+- 
+Просмотр снимка экрана или видеоклипа в полноэкранном режиме.
+</p>
+<p style="bullet" level="one"> 
+<b>Загрузить дополн. к игре</b>
+- 
+Загрузка выбранного дополнения к игре на устройство.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_FEATUREDGAME">
+<title>Популярные игры</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Чтобы попробовать новую игру, выберите <b>Каталог</b> и загрузите бесплатную пробную версию. Чтобы приобрести игру, выберите <b>Купить</b> в пробной версии.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Просмотреть сведения</b>
+- 
+Просмотр сведений о выбранной игре.
+</p>
+<p style="bullet" level="one"> 
+<b>Загрузить пробную игру</b>
+- 
+Начало загрузки бесплатной пробной версии игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Обновить</b>
+- 
+Обновление списка игр.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_FRIENDS_FIND_FRIEND">
+<title>Поиск игроков</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Чтобы найти игроков N-Gage, выберите <b>Мои друзья</b>, введите имя игрока в поле поиска и выберите <b>Опции</b> > <b>Отправить</b>.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Сортировать друзей по</b>
+- 
+Сортировка игроков в списке друзей по состоянию доступности, имени или очкам N-Gage.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_GAMESLIST">
+<title>Поиск дополнительных игр</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Чтобы узнать, какие игры доступны для загрузки, выберите <b>Каталог</b> > <b>Опции</b> > <b>Доступные игры</b>. Новые игры добавляются в каталог регулярно.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Обновить</b>
+- 
+Обновление списка доступных игр.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_FRIENDS_MAIN_FRIEND">
+<title>Друзья</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Чтобы посмотреть, кто из друзей в сети и доступен для игры, выберите <b>Мои друзья</b>. Можно также передавать и принимать личные сообщения и рекомендации игр, а также выполнять поиск определенных игроков N-Gage и приглашать их в список друзей.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Посмотреть сообщение</b>
+- 
+Просмотр личных сообщений от выбранного друга.
+</p>
+<p style="bullet" level="one"> 
+<b>Послать сообщение</b>
+- 
+Отправка личного сообщения выбранному другу.
+</p>
+<p style="bullet" level="one"> 
+<b>Посмотреть рекомендацию</b>
+- 
+Просмотр рекомендаций игр от выбранного друга.
+</p>
+<p style="bullet" level="one"> 
+<b>Оценить игрока</b>
+- 
+Изменение рейтинга выбранного друга.
+</p>
+<p style="bullet" level="one"> 
+<b>Сортировать друзей по</b>
+- 
+Сортировка друзей по доступности, имени или очкам N-Gage.
+</p>
+<p style="bullet" level="one"> 
+<b>Убрать из списка друзей</b>
+- 
+Удаление выбранного друга из списка друзей.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_DETAILS">
+<title>Сведения об игре</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Чтобы ознакомиться со сведениями об игре, загрузить бесплатную пробную версию и прочитать отзывы других игроков, выберите <b>Каталог</b>.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Загрузить пробную игру</b>
+- 
+Загрузка бесплатной пробной версии игры.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Настройка доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительные сведения см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_GAME_EXTRAS">
+<title>Дополнения к играм</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Дополнения к играм – это новые или дополнительные элементы, например новые герои, оружие и уровни, которые могут появиться после выпуска игры.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Каталог</b> > <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Просмотреть все дополн.</b>
+- 
+Просмотр категорий дополнений к играм.
+</p>
+<p style="bullet" level="one"> 
+<b>Обновить</b>
+- 
+Обновление списка игр.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_GAME">
+<title>Профиль игры</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Профиль</b> > <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Посмотреть сведения</b>
+- 
+Просмотр очков N-Gage, уровней с очками и оценок для данной игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Редактировать профиль</b>
+- 
+Изменение Вашего общедоступного профиля игрока.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_MEDIA">
+<title>Предварительный просмотр игр</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Для просмотра снимков экранов и видеоклипов об играх выберите <b>Каталог</b>.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Посмотреть</b>
+- 
+Просмотр выбранного видеоклипа или снимка экрана в полноэкранном режиме.
+</p>
+<p style="bullet" level="one"> 
+<b>Загрузить пробную игру</b>
+- 
+Загрузка бесплатной пробной версии игры.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME">
+<title>Доступные игры</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Чтобы попробовать новую игру, выберите <b>Каталог</b> и загрузите бесплатную пробную версию.</p>
+
+<p style="normal" level="zero">
+ Чтобы приобрести игру, выберите <b>Купить</b> в пробной версии.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Просмотреть сведения</b>
+- 
+Просмотр сведений о выбранной игре.
+</p>
+<p style="bullet" level="one"> 
+<b>Загрузить пробную игру</b>
+- 
+Начало загрузки бесплатной пробной версии игры.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAMES_MAIN_GET_GAME">
+<title>Получение дополнительных игр</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Каталог</b> > <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Перейти в каталог</b>
+- 
+Просмотр доступных в каталоге игр.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAMES_MAIN_INSTALLED">
+<title>Установленные игры</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Чтобы начать игру или приступить к управлению играми, загруженными в устройство, выберите <b>Мои игры</b>. Полоса рядом с выбранной игрой показывает состояние прохождения игры.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Начать игру</b>
+- 
+Начало выбранной игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Оценить игру</b>
+- 
+Оценка выбранной игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Посмотреть мой профиль</b>
+- 
+Просмотр очков N-Gage для выбранной игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Послать рекомендацию</b>
+- 
+Отправка другу рекомендации игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Удалить игру</b>
+- 
+Удаление игры из памяти устройства с сохранением пройденных уровней и других данных игры в устройстве.
+</p>
+<p style="bullet" level="one"> 
+<b>Удалить игру</b>
+- 
+Удаление игры и всех связанных с ней данных из памяти устройства.
+</p>
+<p style="bullet" level="one"> 
+<b>Посмотреть свед. о памяти</b>
+- 
+Просмотр сведений об используемой и доступной памяти.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_GEN_SETTINGS">
+<title>Уровень игрока</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Для просмотра своего уровня очков N-Gage выберите <b>Профиль</b>. Уровень рассчитывается автоматически на основе очков N-Gage.</p>
+
+<p style="normal" level="zero">
+Для обновления уровня подключитесь к услуге N-Gage.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Редактировать профиль</b>
+- 
+Изменение Вашего общедоступного профиля игрока.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_MESSAGES">
+<title>Сообщения</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Для чтения сообщений, полученных от друзей N-Gage, выберите <b>Новые сообщения</b>.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Посмотреть сообщение</b>
+- 
+Просмотр выбранного сообщения или приглашения.
+</p>
+<p style="bullet" level="one"> 
+<b>Проверить обновления</b>
+- 
+Проверка доступных обновлений.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_EXTRAS">
+<title>Дополнения к играм</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Дополнения к играм – это новые или дополнительные элементы, например новые герои, оружие и уровни, которые могут появиться после выпуска игры.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Каталог</b> > <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Просмотреть все дополн.</b>
+- 
+Просмотр категорий дополнений к играм.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SR_MAIN_OPERAT_PORTAL">
+<title>Портал оператора</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Чтобы открыть портал оператора в Интернет-браузере и найти дополнительные игры, выберите <b>Каталог</b> > <b>Ð¤ÑÐ½ÐºÑÐ¸Ð¸ [Ð¤ÑÐ½ÐºÑÐ¸Ð¸]</b> > <b>Больше игр на %U</b>.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Обновить</b>
+- 
+Обновление списка доступных игр.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_GAME">
+<title>Игра с друзьями</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Чтобы подключиться к другу N-Gage, который доступен для игры, выберите <b>Играть с друзьями</b>.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Посмотреть моих друзей</b>
+- 
+Просмотр списка друзей.
+</p>
+<p style="bullet" level="one"> 
+<b>Проверить обновления</b>
+- 
+Проверка доступных обновлений.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_SHOWROOM_GAME_REVIEWS">
+<title>Обзоры игроков</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Чтобы прочитать мнения других игроков N-Gage об игре, выберите <b>Каталог</b> > <b>Просмотреть сведения</b> > <b>Обзоры</b>.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Загрузить пробную игру</b>
+- 
+Загрузка бесплатной пробной версии игры.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_PROFILE_MAIN_OWN">
+<title>Ваш профиль игрока</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Для установки состояния доступности, изменения общедоступного профиля игрока и личной учетной записи выберите <b>Профиль</b>.</p>
+
+<p style="normal" level="zero">
+В профиле содержатся следующие поля:</p>
+
+<p style="normal" level="zero">
+<b>Очков N-Gage</b> – отображение очков, заработанных при выполнении уровней, дающих очки в играх, в матчах с несколькими игроками и при участии в мероприятиях сообщества N-Gage.</p>
+
+<p style="normal" level="zero">
+<b>Повтор</b> – отображение Вашей репутации игрока по оценкам друзей.</p>
+
+<p style="normal" level="zero">
+<b>Друзья</b> – отображение числа друзей.</p>
+
+<p style="normal" level="zero">
+<b>Уров. очков N-Gage</b> – отображение Вашего уровня, основанного на общем количестве очков N-Gage. Для обновления уровня очков N-Gage подключитесь к услуге N-Gage.</p>
+
+<p style="normal" level="zero">
+<b>История игрока</b> – список пяти последних игр, в которые Вы играли.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Сведения профиля</b>
+- 
+Просмотр очков N-Gage.
+</p>
+<p style="bullet" level="one"> 
+<b>Редактировать профиль</b>
+- 
+Изменение Вашего общедоступного профиля игрока.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+После обновления профиля подключитесь к услуге N-Gage для синхронизации внесенных изменений с сервером N-Gage.</p>
+
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_SHOWROOM">
+<title>Каталог</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Для просмотра доступных игр и загрузки бесплатных пробных версий выберите <b>Каталог</b>.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Популярная игра</b>
+- 
+Просмотр сведений о выбранной игре.
+</p>
+<p style="bullet" level="one"> 
+<b>Проверить обновления</b>
+- 
+Проверка доступных обновлений.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_START_GAME">
+<title>Начало игры</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Для начала игры, возобновления последней игры или подключения к другу N-Gage, доступному для игры, выберите <b>Начать игру</b>.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Начать игру</b>
+- 
+Начало игры, в которую Вы играли в прошлый раз.
+</p>
+<p style="bullet" level="one"> 
+<b>Восстановить игру</b>
+- 
+Возобновление приостановленной игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Проверить обновления</b>
+- 
+Проверка доступных обновлений.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="HOME_PROFILE">
+<title>Отслеживание очков</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Для просмотра текущих очков N-Gage выберите <b>Мои достижения</b>.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Посмотреть мои очки</b>
+- 
+Просмотр очков N-Gage.
+</p>
+<p style="bullet" level="one"> 
+<b>Посмотреть мой профиль</b>
+- 
+Просмотр Вашего профиля игрока.
+</p>
+<p style="bullet" level="one"> 
+<b>Проверить обновления</b>
+- 
+Проверка доступных обновлений.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+<helptopic id="PLAY_HLP_GAME_MAIN_UNAVAILABLE">
+<title>Недоступные игры</title><item>
+
+<p style="normal" level="zero">
+Откройте приложение N-Gage.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Мои игры</b>. Недоступные игры – это полные игры, которые были удалены или загружены без выполнения установки. Игры, установленные на карту памяти, также отображаются как недоступные при извлечении карты памяти. В недоступные игры играть нельзя.</p>
+
+<p style="normal" level="zero">
+Выберите <b>Опции</b> и одну из следующих функций:</p>
+
+</item><item>
+<p style="bullet" level="one"> 
+<b>Отмена загрузки</b>
+- 
+Отмена загрузки выбранной игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Установить игру</b>
+- 
+Установка выбранной игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Переустановить игру</b>
+- 
+Переустановка выбранной игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Удалить игру</b>
+- 
+Удаление игры и всех связанных с ней данных.
+</p>
+<p style="bullet" level="one"> 
+<b>Посмотреть свед. о памяти</b>
+- 
+Просмотр сведений об используемой и доступной памяти.
+</p>
+<p style="bullet" level="one"> 
+<b>В сети</b>
+- 
+Выбор состояния доступности для игры.
+</p>
+<p style="bullet" level="one"> 
+<b>Настройки N-Gage</b>
+- 
+Изменение личной учетной записи.
+</p>
+</item><item>
+<p style="normal" level="zero">
+Дополнительную информацию см. по адресу www.n-gage.com.</p>
+
+<p></p></item></helptopic>
+</helpcontent>

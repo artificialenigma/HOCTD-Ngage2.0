@@ -1,0 +1,587 @@
+[
+ {
+  "target": "c:\\private\\20007b38\\import\\achievements.xml",
+  "mime": "",
+  "sha1": "29fcec0a331163e31b1265438547b4b501000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "7c18000000000000d6c900000000000000000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\gameinfo.xml",
+  "mime": "",
+  "sha1": "29c8c5d932e9467595051552865827c901000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "ae00000000000000260100000000000001000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP01.png",
+  "mime": "",
+  "sha1": "aaa16f2505f0f41e32ef88b891cea6d901000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "4310000000000000431000000000000002000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP02.png",
+  "mime": "",
+  "sha1": "56585a9b4a6370c95eacae81ba252a9001000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "1210000000000000121000000000000003000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP03.png",
+  "mime": "",
+  "sha1": "4c2418028b77843a5b09116f482b85af01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "1310000000000000131000000000000004000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP04.png",
+  "mime": "",
+  "sha1": "3c91bc7ddde4e6c8fab3b65d90cde33a01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "d00f000000000000d00f00000000000005000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP05.png",
+  "mime": "",
+  "sha1": "10cda45b4b19955bc49ea8b331adfc7e01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "960f000000000000960f00000000000006000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP06.png",
+  "mime": "",
+  "sha1": "a5e92e1d71197d2aaaf57f572ec81b7901000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "5b0f0000000000005b0f00000000000007000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP07.png",
+  "mime": "",
+  "sha1": "551f77fbd6715c9e1f304e01c737823401000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "4f0f0000000000004f0f00000000000008000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP08.png",
+  "mime": "",
+  "sha1": "a75964c9a7fa35740dc38a09faa599b401000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "280f000000000000280f00000000000009000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP09.png",
+  "mime": "",
+  "sha1": "46b1c13ec214f1aa36999327ea66068401000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "011000000000000001100000000000000a000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP10.png",
+  "mime": "",
+  "sha1": "b470caca782013edd8b3395b08f1b5e001000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "de0f000000000000de0f0000000000000b000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP11.png",
+  "mime": "",
+  "sha1": "a1a6cc3c9eb8e1aca28199462636b9e201000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "d10f000000000000d10f0000000000000c000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP12.png",
+  "mime": "",
+  "sha1": "81731f06b5b0d9e702f8530d2dbb917201000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "830f000000000000830f0000000000000d000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP13.png",
+  "mime": "",
+  "sha1": "c62c93447567f3d793f5e10b35a14e1101000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "4e100000000000004e100000000000000e000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP14.png",
+  "mime": "",
+  "sha1": "f5f9a7c375f3c7aaf56e5d9aab3e475801000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "081000000000000008100000000000000f000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP15.png",
+  "mime": "",
+  "sha1": "1f36b8292800216806f8e5326b8e6ae901000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "1710000000000000171000000000000010000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP16.png",
+  "mime": "",
+  "sha1": "5be03b2128acbd6e0ec02b2246def8ca01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "e40f000000000000e40f00000000000011000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP17.png",
+  "mime": "",
+  "sha1": "0d37eae865934384f7fa9c3ebd507f2101000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "0010000000000000001000000000000012000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP18.png",
+  "mime": "",
+  "sha1": "d14e6da577f5d18456a3f8c751ffb91801000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "c20f000000000000c20f00000000000013000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP19.png",
+  "mime": "",
+  "sha1": "68162e5ebcaba287b72c6f31353a5e1201000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "c70f000000000000c70f00000000000014000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP20.png",
+  "mime": "",
+  "sha1": "6049d5da7f6baee8877f2a233c422b5a01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "850f000000000000850f00000000000015000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP21.png",
+  "mime": "",
+  "sha1": "a1d5e8cf17ee09378d5fa60ab3334fb201000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "bb11000000000000bb1100000000000016000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP22.png",
+  "mime": "",
+  "sha1": "c61e0b19c62611935bac5229345a484001000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "0b110000000000000b1100000000000017000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP23.png",
+  "mime": "",
+  "sha1": "ba480e4dbf6352e3b3344f476ad8736e01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "2e100000000000002e1000000000000018000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP24.png",
+  "mime": "",
+  "sha1": "45f4611927a6d23f3a766c1d856f316f01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "8b0f0000000000008b0f00000000000019000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP25.png",
+  "mime": "",
+  "sha1": "9923ea76a56daa4727479741b0b4c29001000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "9a110000000000009a110000000000001a000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP26.png",
+  "mime": "",
+  "sha1": "14174f9d89bdc73a2f7cc223c471befd01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "de10000000000000de100000000000001b000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP27.png",
+  "mime": "",
+  "sha1": "0976cddaff0db064ab226ac187ca34c401000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "a411000000000000a4110000000000001c000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP28.png",
+  "mime": "",
+  "sha1": "50c06276425736b0225e95cea058ebfc01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "771000000000000077100000000000001d000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP29.png",
+  "mime": "",
+  "sha1": "c4827065ab4d62424bcc0a7558b0c48d01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "ed0f000000000000ed0f0000000000001e000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP30.png",
+  "mime": "",
+  "sha1": "b8381f277b298bcbe59e3f5275f013fc01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "e30f000000000000e30f0000000000001f000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP31.png",
+  "mime": "",
+  "sha1": "29833e3767eeac781616e065c9d3d41b01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "980f000000000000980f00000000000020000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP32.png",
+  "mime": "",
+  "sha1": "e998566bc293c76d493d0167fc53402601000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "870f000000000000870f00000000000021000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP33.png",
+  "mime": "",
+  "sha1": "66fcf4e35e88ce6d745d080c807ac04801000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "430f000000000000430f00000000000022000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP34.png",
+  "mime": "",
+  "sha1": "23f1b234fb59e57fbab84a81fe5ed74601000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "6411000000000000641100000000000023000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP35.png",
+  "mime": "",
+  "sha1": "422e31eb6c63c0e9443873d49a694c2001000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "ce10000000000000ce1000000000000024000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP36.png",
+  "mime": "",
+  "sha1": "d9224f583ce1df0f4fe61f0640051af001000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "6711000000000000671100000000000025000000"
+ },
+ {
+  "target": "c:\\private\\20007b38\\import\\PP37.png",
+  "mime": "",
+  "sha1": "d1a920f5b695997a5f17514b7b62b8e501000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "590f000000000000590f00000000000026000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\2CFC395E9D614FFAB74562469F77DE36.ldat.ngdat",
+  "mime": "",
+  "sha1": "5996e3036917c9d6611a5728da5f9a5801000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "000b000000000000689101000000000027000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\4A0B431DC77E4F3FB1BA68BC5C65BA4B.ldat.ngdat",
+  "mime": "",
+  "sha1": "ecc2c957a772ba7861d7753d344bc9f601000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "cd24000000000000d8b101000000000028000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\5343B7E40C924F649939BC57D7D9860F.ldat.ngdat",
+  "mime": "",
+  "sha1": "8b5139d071f6a6ca8306ea2ebc9737ed01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "c021000000000000e8ad01000000000029000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\E5F51F22727F47FF92CF39952500144F.ldat.ngdat",
+  "mime": "",
+  "sha1": "dd0cf698cd660473674642260861703c01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "8d2200000000000008af0100000000002a000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\backup_registration.xml",
+  "mime": "",
+  "sha1": "38b3fedd7c9c3f7300676e9860f62a7601000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "9300000000000000ea000000000000002b000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\COTD.EXEv",
+  "mime": "",
+  "sha1": "4658b60f7592095a5184dfc2edabb94f01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "555600000000000038740000000000002c000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\data0000.pak",
+  "mime": "",
+  "sha1": "946cc304937dee87383b77c26bc288e501000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "c9b58c010000000084699201000000002d000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\free.dat.ngdat",
+  "mime": "",
+  "sha1": "3306118a4546ed15d35ee098a7c26fab01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "1cd300000000000017030200000000002e000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\lang.00",
+  "mime": "",
+  "sha1": "726956eae6deb8e2657075a2a18a39b801000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "3a0c010000000000682a0200000000002f000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\lang.01",
+  "mime": "",
+  "sha1": "5b57ce7a520025b5c0fa39b85e2fb99601000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "401a0100000000007c5b02000000000030000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\lang.02",
+  "mime": "",
+  "sha1": "4f564abe8aff9c1f567a51e3ce7c798d01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "1e150100000000008c4302000000000031000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\lang.03",
+  "mime": "",
+  "sha1": "f2b75723a704c9ab93a5974063b3707901000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "a119010000000000d05002000000000032000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\lang.04",
+  "mime": "",
+  "sha1": "fd1ae72d9b52d4c2bc1bd5b616e48b9e01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "ea17010000000000f04a02000000000033000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\lang.05",
+  "mime": "",
+  "sha1": "a11c392ad26dcf0adb013e3d5332909e01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "c024010000000000002f02000000000034000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\lang.06",
+  "mime": "",
+  "sha1": "4b45e521033ae1eb88e6c012561eeeb501000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "2c28010000000000103602000000000035000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\license.dat.ngdat",
+  "mime": "",
+  "sha1": "becaeed1002080792418952fcde9184c01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "571a000000000000000202000000000036000000"
+ },
+ {
+  "target": "c:\\private\\2000AFBC\\Arena\\config.xml",
+  "mime": "",
+  "sha1": "7f62408d210ce8adb2e71b975e1ca16201000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "b502000000000000330d00000000000037000000"
+ },
+ {
+  "target": "c:\\private\\2000AFBC\\Arena\\game.rsc",
+  "mime": "",
+  "sha1": "bf1c577c646d37011e1e270c1f207aaf01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "ef02000000000000780a00000000000038000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\bin\\2CFC395E9D614FFAB74562469F77DE36.ldat.ngdat",
+  "mime": "",
+  "sha1": "219669d729b4ab4049d3447947b9ac9701000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "b492010000000000b49201000000000039000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\bin\\4A0B431DC77E4F3FB1BA68BC5C65BA4B.ldat.ngdat",
+  "mime": "",
+  "sha1": "92379e4535113e8fa17345f540ac7e5801000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "24b301000000000024b30100000000003a000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\bin\\5343B7E40C924F649939BC57D7D9860F.ldat.ngdat",
+  "mime": "",
+  "sha1": "ed3b0d390109f790ee2c516ec03f3c5f01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "34af01000000000034af0100000000003b000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\bin\\E5F51F22727F47FF92CF39952500144F.ldat.ngdat",
+  "mime": "",
+  "sha1": "6d49972b6280c3480759b48b3b859c2d01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "54b001000000000054b00100000000003c000000"
+ },
+ {
+  "target": "!:\\private\\2000AFBC\\bin\\license.dat.ngdat",
+  "mime": "",
+  "sha1": "649526f5dd9fe4500b6596a3f5e0d34c01000000",
+  "extra": [
+   ""
+  ],
+  "raw_tail_hex": "3a030200000000003a030200000000003d000000"
+ },
+ {
+  "target": "!:\\sys\\bin\\BiNPDAlibcCOTD.dll",
+  "mime": "",
+  "operation": 41,
+  "op_options": 4,
+  "compressed_len": 107375228348,
+  "uncompressed_len": 4294967328,
+  "file_index": 37
+ },
+ {
+  "target": "!:\\sys\\bin\\COTD.exe",
+  "mime": "",
+  "operation": 41,
+  "op_options": 4,
+  "compressed_len": 107375228348,
+  "uncompressed_len": 4294967328,
+  "file_index": 37
+ },
+ {
+  "target": "!:\\sys\\bin\\ngifilemanagerfactory_2000afbc.dll",
+  "mime": "",
+  "operation": 41,
+  "op_options": 4,
+  "compressed_len": 107375228348,
+  "uncompressed_len": 4294967328,
+  "file_index": 37
+ }
+]

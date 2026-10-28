@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameAchievements gameid='2000B4B3'>
+
+  <Achievement id='1' hidden='false' >
+    <GamingPoints type='single'>10</GamingPoints>
+
+    <Title>First of the Class</Title>
+    <Title lang='fr-FR'>1er de la classe</Title>
+    <Title lang='de'>Klassenbester</Title>
+    <Title lang='it'>Primo della Classe</Title>
+    <Title lang='es-ES'>Primero de la Clase</Title>
+    <Title lang='zh-CN'>班级第一</Title>
+    <Title lang='zh-TW'>班級第一</Title>
+
+    <Description>The player reached 10% Brain Usage.</Description>
+    <Description lang='fr-FR'>Capacite cerebrale de 10% atteinte.</Description>
+    <Description lang='de'>Spieler erreicht Gehirnnutzung von 10%</Description>
+    <Description lang='it'>Hai raggiunto: 10% di uso del cervello.</Description>
+    <Description lang='es-ES'>El jugador usa el 10% de su cerebro.</Description>
+    <Description lang='zh-CN'>玩家达到 10% 大脑使用率。</Description>
+    <Description lang='zh-TW'>玩家達到 10% 大腦使用率。</Description>
+
+    <IconName>Brain_10.png</IconName>
+    <IconName lang='fr-FR'>Brain_10.png</IconName>
+    <IconName lang='de'>Brain_10.png</IconName>
+    <IconName lang='it'>Brain_10.png</IconName>
+    <IconName lang='es-ES'>Brain_10.png</IconName>
+    <IconName lang='zh-CN'>Brain_10.png</IconName>
+    <IconName lang='zh-TW'>Brain_10.png</IconName>
+  </Achievement>
+
+  <Achievement id='2' hidden='false' >
+    <GamingPoints type='single'>50</GamingPoints>
+
+    <Title>Mastermind</Title>
+    <Title lang='fr-FR'>Grand esprit</Title>
+    <Title lang='de'>Genie</Title>
+    <Title lang='it'>Mastermind</Title>
+    <Title lang='es-ES'>Maestro mental</Title>
+    <Title lang='zh-CN'>智者</Title>
+    <Title lang='zh-TW'>智者</Title>
+
+    <Description>The player reached 50% Brain Usage.</Description>
+    <Description lang='fr-FR'>Capacite cerebrale de 50% atteinte.</Description>
+    <Description lang='de'>Spieler erreicht Gehirnnutzung von 50%</Description>
+    <Description lang='it'>Hai raggiunto: 50% di uso del cervello.</Description>
+    <Description lang='es-ES'>El jugador usa el 50% de su cerebro.</Description>
+    <Description lang='zh-CN'>玩家达到 50% 大脑使用率。</Description>
+    <Description lang='zh-TW'>玩家達到 50% 大腦使用率。</Description>
+
+    <IconName>Brain_50.png</IconName>
+    <IconName lang='fr-FR'>Brain_50.png</IconName>
+    <IconName lang='de'>Brain_50.png</IconName>
+    <IconName lang='it'>Brain_50.png</IconName>
+    <IconName lang='es-ES'>Brain_50.png</IconName>
+    <IconName lang='zh-CN'>Brain_50.png</IconName>
+    <IconName lang='zh-TW'>Brain_50.png</IconName>
+  </Achievement>
+
+  <Achievement id='3' hidden='false' >
+    <GamingPoints type='single'>100</GamingPoints>
+
+    <Title>Pure Intelligence</Title>
+    <Title lang='fr-FR'>Pure intelligence</Title>
+    <Title lang='de'>Intelligenz pur</Title>
+    <Title lang='it'>Intelligenza Pura</Title>
+    <Title lang='es-ES'>Pura inteligencia</Title>
+    <Title lang='zh-CN'>智慧精灵</Title>
+    <Title lang='zh-TW'>智慧精靈</Title>
+
+    <Description>The player reached 100% Brain Usage.</Description>
+    <Description lang='fr-FR'>Capacite cerebrale de 100% atteinte.</Description>
+    <Description lang='de'>Spieler erreicht Gehirnnutzung von 100%</Description>
+    <Description lang='it'>Hai raggiunto: 100% di uso del cervello</Description>
+    <Description lang='es-ES'>El jugador usa el 100% de su cerebro.</Description>
+    <Description lang='zh-CN'>玩家达到 100% 大脑使用率。</Description>
+    <Description lang='zh-TW'>玩家達到 100% 大腦使用率。</Description>
+
+    <IconName>Brain_100.png</IconName>
+    <IconName lang='fr-FR'>Brain_100.png</IconName>
+    <IconName lang='de'>Brain_100.png</IconName>
+    <IconName lang='it'>Brain_100.png</IconName>
+    <IconName lang='es-ES'>Brain_100.png</IconName>
+    <IconName lang='zh-CN'>Brain_100.png</IconName>
+    <IconName lang='zh-TW'>Brain_100.png</IconName>
+  </Achievement>
+
+  <Achievement id='4' hidden='false' >
+    <GamingPoints type='single'>20</GamingPoints>
+
+    <Title>Precision Player</Title>
+    <Title lang='fr-FR'>Joueur de precision</Title>
+    <Title lang='de'>Präzisionsspieler</Title>
+    <Title lang='it'>Mister Precisione</Title>
+    <Title lang='es-ES'>Jugador preciso</Title>
+    <Title lang='zh-CN'>精确玩家</Title>
+    <Title lang='zh-TW'>精確玩家</Title>
+
+    <Description>The first time the player got 5 in row.</Description>
+    <Description lang='fr-FR'>5 bonnes reponses de suite</Description>
+    <Description lang='de'>1. Mal, dass Spieler 5 in Folge löst</Description>
+    <Description lang='it'>5 risposte giuste di fila.</Description>
+    <Description lang='es-ES'>5 seguidas por primera vez.</Description>
+    <Description lang='zh-CN'>玩家首次连续答对 5 道题。</Description>
+    <Description lang='zh-TW'>玩家首次連續答對 5 道題。</Description>
+
+    <IconName>5in_row.png</IconName>
+    <IconName lang='fr-FR'>5in_row.png</IconName>
+    <IconName lang='de'>5in_row.png</IconName>
+    <IconName lang='it'>5in_row.png</IconName>
+    <IconName lang='es-ES'>5in_row.png</IconName>
+    <IconName lang='zh-CN'>5in_row.png</IconName>
+    <IconName lang='zh-TW'>5in_row.png</IconName>
+  </Achievement>
+
+  <Achievement id='5' hidden='false' >
+    <GamingPoints type='single'>30</GamingPoints>
+
+    <Title>Serial Thinker</Title>
+    <Title lang='fr-FR'>Penseur en serie.</Title>
+    <Title lang='de'>Seriendenker</Title>
+    <Title lang='it'>Gran Pensatore</Title>
+    <Title lang='es-ES'>Pensador en serie</Title>
+    <Title lang='zh-CN'>缜密思考者</Title>
+    <Title lang='zh-TW'>縝密思考者</Title>
+
+    <Description>The first time the player got 20 in row.</Description>
+    <Description lang='fr-FR'>20 bonnes reponses de suite</Description>
+    <Description lang='de'>1. Mal, dass Spieler 20 in Folge löst</Description>
+    <Description lang='it'>20 risposte giuste di fila.</Description>
+    <Description lang='es-ES'>20 seguidas por primera vez.</Description>
+    <Description lang='zh-CN'>玩家首次连续答对 20 道题。</Description>
+    <Description lang='zh-TW'>玩家首次連續答對 20 道題。</Description>
+
+    <IconName>20in_row.png</IconName>
+    <IconName lang='fr-FR'>20in_row.png</IconName>
+    <IconName lang='de'>20in_row.png</IconName>
+    <IconName lang='it'>20in_row.png</IconName>
+    <IconName lang='es-ES'>20in_row.png</IconName>
+    <IconName lang='zh-CN'>20in_row.png</IconName>
+    <IconName lang='zh-TW'>20in_row.png</IconName>
+  </Achievement>
+
+  <Achievement id='6' hidden='false' >
+    <GamingPoints type='single'>30</GamingPoints>
+
+    <Title>Flawless series</Title>
+    <Title lang='fr-FR'>M. Perfection</Title>
+    <Title lang='de'>Makellose Serien</Title>
+    <Title lang='it'>Mister Perfezione</Title>
+    <Title lang='es-ES'>Series perfectas</Title>
+    <Title lang='zh-CN'>完美系列</Title>
+    <Title lang='zh-TW'>完美系列</Title>
+
+    <Description>The first time the player got 40 in row.</Description>
+    <Description lang='fr-FR'>40 bonnes reponses de suite</Description>
+    <Description lang='de'>1. Mal, dass Spieler 40 in Folge löst</Description>
+    <Description lang='it'>40 risposte giuste di fila.</Description>
+    <Description lang='es-ES'>40 seguidas por primera vez.</Description>
+    <Description lang='zh-CN'>玩家首次连续答对 40 道题。</Description>
+    <Description lang='zh-TW'>玩家首次連續答對 40 道題。</Description>
+
+    <IconName>40in_row.png</IconName>
+    <IconName lang='fr-FR'>40in_row.png</IconName>
+    <IconName lang='de'>40in_row.png</IconName>
+    <IconName lang='it'>40in_row.png</IconName>
+    <IconName lang='es-ES'>40in_row.png</IconName>
+    <IconName lang='zh-CN'>40in_row.png</IconName>
+    <IconName lang='zh-TW'>40in_row.png</IconName>
+  </Achievement>
+
+  <Achievement id='7' hidden='false' >
+    <GamingPoints type='single'>80</GamingPoints>
+
+    <Title>Logic Expert</Title>
+    <Title lang='fr-FR'>Expert en logique</Title>
+    <Title lang='de'>Logikexperte</Title>
+    <Title lang='it'>Esperto Logico</Title>
+    <Title lang='es-ES'>Experto en lógica</Title>
+    <Title lang='zh-CN'>逻辑专家</Title>
+    <Title lang='zh-TW'>邏輯專家</Title>
+
+    <Description>The player got all stars in Logic.</Description>
+    <Description lang='fr-FR'>Toutes les etoiles obtenues en Logique.</Description>
+    <Description lang='de'>Spieler hat alle Sterne in Logik.</Description>
+    <Description lang='it'>Tutte le stelle nella mod. Logica.</Description>
+    <Description lang='es-ES'>Todo estrellas en Lógica.</Description>
+    <Description lang='zh-CN'>玩家在逻辑游戏中获得满星。</Description>
+    <Description lang='zh-TW'>玩家在邏輯遊戲中獲得滿星。</Description>
+
+    <IconName>Logic.png</IconName>
+    <IconName lang='fr-FR'>Logic.png</IconName>
+    <IconName lang='de'>Logic.png</IconName>
+    <IconName lang='it'>Logic.png</IconName>
+    <IconName lang='es-ES'>Logic.png</IconName>
+    <IconName lang='zh-CN'>Logic.png</IconName>
+    <IconName lang='zh-TW'>Logic.png</IconName>
+  </Achievement>
+
+  <Achievement id='8' hidden='false' >
+    <GamingPoints type='single'>80</GamingPoints>
+
+    <Title>Mathematician</Title>
+    <Title lang='fr-FR'>Mathematicien</Title>
+    <Title lang='de'>Mathematiker</Title>
+    <Title lang='it'>Matematico</Title>
+    <Title lang='es-ES'>Matemático</Title>
+    <Title lang='zh-CN'>数学家</Title>
+    <Title lang='zh-TW'>數學家</Title>
+
+    <Description>The player got all stars in Math.</Description>
+    <Description lang='fr-FR'>Toutes les etoiles obtenues en Maths.</Description>
+    <Description lang='de'>Spieler hat alle Sterne in Mathe</Description>
+    <Description lang='it'>Tutte le stelle nella mod. Cifre.</Description>
+    <Description lang='es-ES'>Todo estrellas en Mates.</Description>
+    <Description lang='zh-CN'>玩家在数学游戏中获得满星。</Description>
+    <Description lang='zh-TW'>玩家在數學遊戲中獲得滿星。</Description>
+
+    <IconName>Arithmetic.png</IconName>
+    <IconName lang='fr-FR'>Arithmetic.png</IconName>
+    <IconName lang='de'>Arithmetic.png</IconName>
+    <IconName lang='it'>Arithmetic.png</IconName>
+    <IconName lang='es-ES'>Arithmetic.png</IconName>
+    <IconName lang='zh-CN'>Arithmetic.png</IconName>
+    <IconName lang='zh-TW'>Arithmetic.png</IconName>
+  </Achievement>
+
+  <Achievement id='9' hidden='false' >
+    <GamingPoints type='single'>80</GamingPoints>
+
+    <Title>Erudite</Title>
+    <Title lang='fr-FR'>Erudit</Title>
+    <Title lang='de'>Gelehrter</Title>
+    <Title lang='it'>Erudito</Title>
+    <Title lang='es-ES'>Erudito</Title>
+    <Title lang='zh-CN'>博学多识</Title>
+    <Title lang='zh-TW'>博學多識</Title>
+
+    <Description>The player got all stars in Memory.</Description>
+    <Description lang='fr-FR'>Toutes les etoiles obtenues en Memoire.</Description>
+    <Description lang='de'>Spieler hat alle Sterne in Merken</Description>
+    <Description lang='it'>Tutte le stelle nella mod. Memoria.</Description>
+    <Description lang='es-ES'>Todo estrellas en Memoria.</Description>
+    <Description lang='zh-CN'>玩家在记忆游戏中获得满星。</Description>
+    <Description lang='zh-TW'>玩家在記憶遊戲中獲得滿星。</Description>
+
+    <IconName>Memory.png</IconName>
+    <IconName lang='fr-FR'>Memory.png</IconName>
+    <IconName lang='de'>Memory.png</IconName>
+    <IconName lang='it'>Memory.png</IconName>
+    <IconName lang='es-ES'>Memory.png</IconName>
+    <IconName lang='zh-CN'>Memory.png</IconName>
+    <IconName lang='zh-TW'>Memory.png</IconName>
+  </Achievement>
+
+  <Achievement id='A' hidden='false' >
+    <GamingPoints type='single'>80</GamingPoints>
+
+    <Title>Eagle eye</Title>
+    <Title lang='fr-FR'>Oeil d'aigle</Title>
+    <Title lang='de'>Adlerauge</Title>
+    <Title lang='it'>Vista d'aquila</Title>
+    <Title lang='es-ES'>Ojo de lince</Title>
+    <Title lang='zh-CN'>鹰眼</Title>
+    <Title lang='zh-TW'>鷹眼</Title>
+
+    <Description>The player got all stars in Visual.</Description>
+    <Description lang='fr-FR'>Toutes les etoiles obtenues en Visuel.</Description>
+    <Description lang='de'>Spieler hat alle Sterne in Visuell</Description>
+    <Description lang='it'>Tutte le stelle nella mod. Vista.</Description>
+    <Description lang='es-ES'>Todo estrellas en Visual.</Description>
+    <Description lang='zh-CN'>玩家在眼力游戏中获得满星。</Description>
+    <Description lang='zh-TW'>玩家在眼力遊戲中獲得滿星。</Description>
+
+    <IconName>Visual.png</IconName>
+    <IconName lang='fr-FR'>Visual.png</IconName>
+    <IconName lang='de'>Visual.png</IconName>
+    <IconName lang='it'>Visual.png</IconName>
+    <IconName lang='es-ES'>Visual.png</IconName>
+    <IconName lang='zh-CN'>Visual.png</IconName>
+    <IconName lang='zh-TW'>Visual.png</IconName>
+  </Achievement>
+
+  <Achievement id='B' hidden='true' >
+    <GamingPoints type='single'>100</GamingPoints>
+
+    <Title>Flash Genius</Title>
+    <Title lang='fr-FR'>Genie lumineux</Title>
+    <Title lang='de'>Blitzdenker</Title>
+    <Title lang='it'>Genio</Title>
+    <Title lang='es-ES'>Genio</Title>
+    <Title lang='zh-CN'>闪光天才</Title>
+    <Title lang='zh-TW'>閃光天才</Title>
+
+    <Description>Answer 50 or more questions in a turn.</Description>
+    <Description lang='fr-FR'>50 questions ou + en une session.</Description>
+    <Description lang='de'>Min. 50 Aufgaben in einer Runde lösen</Description>
+    <Description lang='it'>Termina oltre 50 domande in un turno.</Description>
+    <Description lang='es-ES'>50 o más preguntas en un turno.</Description>
+    <Description lang='zh-CN'>一回合完成 50 道以上问题。</Description>
+    <Description lang='zh-TW'>一回合完成 50 道以上問題。</Description>
+
+    <IconName>LightMan.png</IconName>
+    <IconName lang='fr-FR'>LightMan.png</IconName>
+    <IconName lang='de'>LightMan.png</IconName>
+    <IconName lang='it'>LightMan.png</IconName>
+    <IconName lang='es-ES'>LightMan.png</IconName>
+    <IconName lang='zh-CN'>LightMan.png</IconName>
+    <IconName lang='zh-TW'>LightMan.png</IconName>
+  </Achievement>
+
+  <Achievement id='C' hidden='true' >
+    <GamingPoints type='single'>70</GamingPoints>
+
+    <Title>High Keeper</Title>
+    <Title lang='fr-FR'>Gardien du savoir</Title>
+    <Title lang='de'>Gedächtnisgenie</Title>
+    <Title lang='it'>Custode del Sapere</Title>
+    <Title lang='es-ES'>Guardián del saber</Title>
+    <Title lang='zh-CN'>卫冕王</Title>
+    <Title lang='zh-TW'>衛冕王</Title>
+
+    <Description>Increase Brain Usage 5 times.</Description>
+    <Description lang='fr-FR'>Augmentez votre capacite cerebrale 5 x.</Description>
+    <Description lang='de'>Erhöhe die Gehirnnutzung 5 Mal.</Description>
+    <Description lang='it'>Aumenta l'uso del cervello per 5 volte.</Description>
+    <Description lang='es-ES'>Aumentar el uso cerebral 5 veces.</Description>
+    <Description lang='zh-CN'>提高大脑使用率 5 倍。</Description>
+    <Description lang='zh-TW'>提高大腦使用率 5 倍。</Description>
+
+    <IconName>HighKeeper.png</IconName>
+    <IconName lang='fr-FR'>HighKeeper.png</IconName>
+    <IconName lang='de'>HighKeeper.png</IconName>
+    <IconName lang='it'>HighKeeper.png</IconName>
+    <IconName lang='es-ES'>HighKeeper.png</IconName>
+    <IconName lang='zh-CN'>HighKeeper.png</IconName>
+    <IconName lang='zh-TW'>HighKeeper.png</IconName>
+  </Achievement>
+
+  <Achievement id='D' hidden='false' >
+    <GamingPoints type='single'>20</GamingPoints>
+
+    <Title>Gimme 5!</Title>
+    <Title lang='fr-FR'>Tape-m'en 5 !</Title>
+    <Title lang='de'>Zukünftiges Genie</Title>
+    <Title lang='it'>Dammi il 5!</Title>
+    <Title lang='es-ES'>¡Choca esos 5!</Title>
+    <Title lang='zh-CN'>Gimme 5！</Title>
+    <Title lang='zh-TW'>Gimme 5！</Title>
+
+    <Description>Unlocked 5 games.</Description>
+    <Description lang='fr-FR'>5 jeux debloques</Description>
+    <Description lang='de'>5 Spiele aktiviert</Description>
+    <Description lang='it'>5 giochi sbloccati.</Description>
+    <Description lang='es-ES'>5 juegos desbloqueados.</Description>
+    <Description lang='zh-CN'>解锁 5 款游戏。</Description>
+    <Description lang='zh-TW'>解鎖 5 款遊戲。</Description>
+
+    <IconName>5Games.png</IconName>
+    <IconName lang='fr-FR'>5Games.png</IconName>
+    <IconName lang='de'>5Games.png</IconName>
+    <IconName lang='it'>5Games.png</IconName>
+    <IconName lang='es-ES'>5Games.png</IconName>
+    <IconName lang='zh-CN'>5Games.png</IconName>
+    <IconName lang='zh-TW'>5Games.png</IconName>
+  </Achievement>
+
+  <Achievement id='E' hidden='false' >
+    <GamingPoints type='single'>100</GamingPoints>
+
+    <Title>Hardcore Thinker</Title>
+    <Title lang='fr-FR'>Penseur hardcore</Title>
+    <Title lang='de'>Superhirn</Title>
+    <Title lang='it'>Super Genio</Title>
+    <Title lang='es-ES'>Pensador extremo</Title>
+    <Title lang='zh-CN'>无敌思考者</Title>
+    <Title lang='zh-TW'>無敵思考者</Title>
+
+    <Description>Unlocked all games.</Description>
+    <Description lang='fr-FR'>Tous les jeux debloques</Description>
+    <Description lang='de'>Alle Spiele aktiviert</Description>
+    <Description lang='it'>Tutti i giochi sbloccati.</Description>
+    <Description lang='es-ES'>Todos los juegos desbloqueados.</Description>
+    <Description lang='zh-CN'>解锁所有游戏</Description>
+    <Description lang='zh-TW'>解鎖所有遊戲</Description>
+
+    <IconName>AllGames.png</IconName>
+    <IconName lang='fr-FR'>AllGames.png</IconName>
+    <IconName lang='de'>AllGames.png</IconName>
+    <IconName lang='it'>AllGames.png</IconName>
+    <IconName lang='es-ES'>AllGames.png</IconName>
+    <IconName lang='zh-CN'>AllGames.png</IconName>
+    <IconName lang='zh-TW'>AllGames.png</IconName>
+  </Achievement>
+
+  <Achievement id='F' hidden='false' >
+    <GamingPoints type='single'>10</GamingPoints>
+
+    <Title>1st Upload!</Title>
+    <Title lang='fr-FR'>1er envoi !</Title>
+    <Title lang='de'>1. Upload!</Title>
+    <Title lang='it'>1° Invio!</Title>
+    <Title lang='es-ES'>¡Primer envío!</Title>
+    <Title lang='zh-CN'>第 1 次上传！</Title>
+    <Title lang='zh-TW'>第 1 次上載！</Title>
+
+    <Description>Uploaded a score for the 1st time.</Description>
+    <Description lang='fr-FR'>Score envoye pour la 1ere fois.</Description>
+    <Description lang='de'>Punktzahl zum 1. Mal hochgeladen</Description>
+    <Description lang='it'>Primo invio del punteggio.</Description>
+    <Description lang='es-ES'>Puntuación enviada por primera vez.</Description>
+    <Description lang='zh-CN'>首次上传成绩。</Description>
+    <Description lang='zh-TW'>首次上傳成績。</Description>
+
+    <IconName>Upload_1st.png</IconName>
+    <IconName lang='fr-FR'>Upload_1st.png</IconName>
+    <IconName lang='de'>Upload_1st.png</IconName>
+    <IconName lang='it'>Upload_1st.png</IconName>
+    <IconName lang='es-ES'>Upload_1st.png</IconName>
+    <IconName lang='zh-CN'>Upload_1st.png</IconName>
+    <IconName lang='zh-TW'>Upload_1st.png</IconName>
+  </Achievement>
+
+  <Achievement id='10' hidden='false' >
+    <GamingPoints type='single'>20</GamingPoints>
+
+    <Title>5th Upload!</Title>
+    <Title lang='fr-FR'>5e envoi !</Title>
+    <Title lang='de'>5. Upload!</Title>
+    <Title lang='it'>5° Invio!</Title>
+    <Title lang='es-ES'>¡Quinto envío!</Title>
+    <Title lang='zh-CN'>第 5 次上传！</Title>
+    <Title lang='zh-TW'>第 5 次上載！</Title>
+
+    <Description>Uploaded a score for the 5th time.</Description>
+    <Description lang='fr-FR'>Score envoye pour la 5e fois.</Description>
+    <Description lang='de'>Punktzahl zum 5. Mal hochgeladen</Description>
+    <Description lang='it'>Quinto invio del punteggio.</Description>
+    <Description lang='es-ES'>Puntuación enviada por quinta vez.</Description>
+    <Description lang='zh-CN'>第 5 次上传成绩。</Description>
+    <Description lang='zh-TW'>第 5 次上傳成績。</Description>
+
+    <IconName>Upload_5th.png</IconName>
+    <IconName lang='fr-FR'>Upload_5th.png</IconName>
+    <IconName lang='de'>Upload_5th.png</IconName>
+    <IconName lang='it'>Upload_5th.png</IconName>
+    <IconName lang='es-ES'>Upload_5th.png</IconName>
+    <IconName lang='zh-CN'>Upload_5th.png</IconName>
+    <IconName lang='zh-TW'>Upload_5th.png</IconName>
+  </Achievement>
+  
+  <Achievement id='11' hidden='false' >
+    <GamingPoints type='multi'>20</GamingPoints>
+
+    <Title>20th Upload!</Title>
+    <Title lang='fr-FR'>20e envoi !</Title>
+    <Title lang='de'>20. Upload!</Title>
+    <Title lang='it'>20° Invio!</Title>
+    <Title lang='es-ES'>¡20.º envío!</Title>
+    <Title lang='zh-CN'>第 20 次上传！</Title>
+    <Title lang='zh-TW'>第 20 次上載！</Title>
+
+    <Description>Uploaded a score for the 20th time.</Description>
+    <Description lang='fr-FR'>Score envoye pour la 20e fois.</Description>
+    <Description lang='de'>Punktzahl zum 20. Mal hochgeladen</Description>
+    <Description lang='it'>Ventesimo invio del punteggio.</Description>
+    <Description lang='es-ES'>Puntuación enviada por vigésima vez.</Description>
+    <Description lang='zh-CN'>第 20 次上传成绩。</Description>
+    <Description lang='zh-TW'>第 20 次上傳成績。</Description>
+
+    <IconName>Upload_20th.png</IconName>
+    <IconName lang='fr-FR'>Upload_20th.png</IconName>
+    <IconName lang='de'>Upload_20th.png</IconName>
+    <IconName lang='it'>Upload_20th.png</IconName>
+    <IconName lang='es-ES'>Upload_20th.png</IconName>
+    <IconName lang='zh-CN'>Upload_20th.png</IconName>
+    <IconName lang='zh-TW'>Upload_20th.png</IconName>
+  </Achievement>
+
+  <Achievement id='12' hidden='false' >
+    <GamingPoints type='multi'>100</GamingPoints>
+
+    <Title>50th Upload!</Title>
+    <Title lang='fr-FR'>50e envoi !</Title>
+    <Title lang='de'>50. Upload!</Title>
+    <Title lang='it'>50° Invio!</Title>
+    <Title lang='es-ES'>¡50.º envío!</Title>
+    <Title lang='zh-CN'>第 50 次上传！</Title>
+    <Title lang='zh-TW'>第 50 次上載！</Title>
+
+    <Description>Uploaded a score for the 50th time.</Description>
+    <Description lang='fr-FR'>Score envoye pour la 50e fois.</Description>
+    <Description lang='de'>Punktzahl zum 50. Mal hochgeladen</Description>
+    <Description lang='it'>Cinquantesimo invio del punteggio.</Description>
+    <Description lang='es-ES'>Puntuación enviada 50 veces.</Description>
+    <Description lang='zh-CN'>第 50 次上传成绩。</Description>
+    <Description lang='zh-TW'>第 50 次上傳成績。</Description>
+
+    <IconName>Upload_50th.png</IconName>
+    <IconName lang='fr-FR'>Upload_50th.png</IconName>
+    <IconName lang='de'>Upload_50th.png</IconName>
+    <IconName lang='it'>Upload_50th.png</IconName>
+    <IconName lang='es-ES'>Upload_50th.png</IconName>
+    <IconName lang='zh-CN'>Upload_50th.png</IconName>
+    <IconName lang='zh-TW'>Upload_50th.png</IconName>
+  </Achievement>
+
+</GameAchievements>

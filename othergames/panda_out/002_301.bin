@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NgiInstallerGameInfo>
+    <GameExeFileName>pandemonium.exe</GameExeFileName>
+    <InvitationPossibleFlag>0</InvitationPossibleFlag>
+    <RankingPossibleFlag>1</RankingPossibleFlag>
+    <GameType>SINGLE</GameType>
+</NgiInstallerGameInfo>

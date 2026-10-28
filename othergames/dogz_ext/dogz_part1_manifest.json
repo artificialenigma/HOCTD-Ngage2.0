@@ -1,0 +1,546 @@
+{
+ "sis": "dogz_part1.bin",
+ "package_uid": "0x2000b4b1",
+ "files": [
+  {
+   "i": 0,
+   "file_index": 0,
+   "target": "c:\\private\\20007b38\\import\\achievements.xml",
+   "mime": "",
+   "algo": 1,
+   "size": 25054,
+   "written": "dogz_part1/c/private/20007b38/import/achievements.xml"
+  },
+  {
+   "i": 1,
+   "file_index": 1,
+   "target": "c:\\private\\20007b38\\import\\ball_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3706,
+   "written": "dogz_part1/c/private/20007b38/import/ball_icon.png"
+  },
+  {
+   "i": 2,
+   "file_index": 2,
+   "target": "c:\\private\\20007b38\\import\\book_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4088,
+   "written": "dogz_part1/c/private/20007b38/import/book_icon.png"
+  },
+  {
+   "i": 3,
+   "file_index": 3,
+   "target": "c:\\private\\20007b38\\import\\bowl_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3882,
+   "written": "dogz_part1/c/private/20007b38/import/bowl_icon.png"
+  },
+  {
+   "i": 4,
+   "file_index": 4,
+   "target": "c:\\private\\20007b38\\import\\frisbee_30th.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3814,
+   "written": "dogz_part1/c/private/20007b38/import/frisbee_30th.png"
+  },
+  {
+   "i": 5,
+   "file_index": 5,
+   "target": "c:\\private\\20007b38\\import\\frisbee_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3814,
+   "written": "dogz_part1/c/private/20007b38/import/frisbee_icon.png"
+  },
+  {
+   "i": 6,
+   "file_index": 6,
+   "target": "c:\\private\\20007b38\\import\\gameinfo.xml",
+   "mime": "",
+   "algo": 1,
+   "size": 301,
+   "written": "dogz_part1/c/private/20007b38/import/gameinfo.xml"
+  },
+  {
+   "i": 7,
+   "file_index": 7,
+   "target": "c:\\private\\20007b38\\import\\hand_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3677,
+   "written": "dogz_part1/c/private/20007b38/import/hand_icon.png"
+  },
+  {
+   "i": 8,
+   "file_index": 8,
+   "target": "c:\\private\\20007b38\\import\\lv1_card_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3696,
+   "written": "dogz_part1/c/private/20007b38/import/lv1_card_icon.png"
+  },
+  {
+   "i": 9,
+   "file_index": 9,
+   "target": "c:\\private\\20007b38\\import\\lv2_card_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3725,
+   "written": "dogz_part1/c/private/20007b38/import/lv2_card_icon.png"
+  },
+  {
+   "i": 10,
+   "file_index": 10,
+   "target": "c:\\private\\20007b38\\import\\nose_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3602,
+   "written": "dogz_part1/c/private/20007b38/import/nose_icon.png"
+  },
+  {
+   "i": 11,
+   "file_index": 11,
+   "target": "c:\\private\\20007b38\\import\\rope_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3848,
+   "written": "dogz_part1/c/private/20007b38/import/rope_icon.png"
+  },
+  {
+   "i": 12,
+   "file_index": 12,
+   "target": "c:\\private\\20007b38\\import\\shampoo_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3959,
+   "written": "dogz_part1/c/private/20007b38/import/shampoo_icon.png"
+  },
+  {
+   "i": 13,
+   "file_index": 13,
+   "target": "c:\\private\\20007b38\\import\\small_cup_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3731,
+   "written": "dogz_part1/c/private/20007b38/import/small_cup_icon.png"
+  },
+  {
+   "i": 14,
+   "file_index": 14,
+   "target": "c:\\private\\20007b38\\import\\small_cup_mm.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3731,
+   "written": "dogz_part1/c/private/20007b38/import/small_cup_mm.png"
+  },
+  {
+   "i": 15,
+   "file_index": 15,
+   "target": "c:\\private\\20007b38\\import\\submit_1st.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4174,
+   "written": "dogz_part1/c/private/20007b38/import/submit_1st.png"
+  },
+  {
+   "i": 16,
+   "file_index": 16,
+   "target": "c:\\private\\20007b38\\import\\submit_20th.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4174,
+   "written": "dogz_part1/c/private/20007b38/import/submit_20th.png"
+  },
+  {
+   "i": 17,
+   "file_index": 17,
+   "target": "c:\\private\\20007b38\\import\\submit_50th.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4174,
+   "written": "dogz_part1/c/private/20007b38/import/submit_50th.png"
+  },
+  {
+   "i": 18,
+   "file_index": 18,
+   "target": "c:\\private\\20007b38\\import\\submit_5th.png",
+   "mime": "",
+   "algo": 0,
+   "size": 4174,
+   "written": "dogz_part1/c/private/20007b38/import/submit_5th.png"
+  },
+  {
+   "i": 19,
+   "file_index": 19,
+   "target": "c:\\private\\20007b38\\import\\Thumbs.db",
+   "mime": "",
+   "algo": 1,
+   "size": 32768,
+   "written": "dogz_part1/c/private/20007b38/import/Thumbs.db"
+  },
+  {
+   "i": 20,
+   "file_index": 20,
+   "target": "c:\\private\\20007b38\\import\\wash_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3717,
+   "written": "dogz_part1/c/private/20007b38/import/wash_icon.png"
+  },
+  {
+   "i": 21,
+   "file_index": 21,
+   "target": "c:\\private\\20007b38\\import\\water_icon.png",
+   "mime": "",
+   "algo": 0,
+   "size": 3740,
+   "written": "dogz_part1/c/private/20007b38/import/water_icon.png"
+  },
+  {
+   "i": 22,
+   "file_index": 22,
+   "target": "!:\\private\\2000B4B1\\0.bar",
+   "mime": "",
+   "algo": 1,
+   "size": 2542,
+   "written": "dogz_part1/!/private/2000B4B1/0.bar"
+  },
+  {
+   "i": 23,
+   "file_index": 23,
+   "target": "!:\\private\\2000B4B1\\1.bar",
+   "mime": "",
+   "algo": 1,
+   "size": 3014,
+   "written": "dogz_part1/!/private/2000B4B1/1.bar"
+  },
+  {
+   "i": 24,
+   "file_index": 24,
+   "target": "!:\\private\\2000B4B1\\10",
+   "mime": "",
+   "algo": 1,
+   "size": 132,
+   "written": "dogz_part1/!/private/2000B4B1/10.bin"
+  },
+  {
+   "i": 25,
+   "file_index": 25,
+   "target": "!:\\private\\2000B4B1\\11",
+   "mime": "",
+   "algo": 1,
+   "size": 206,
+   "written": "dogz_part1/!/private/2000B4B1/11.bin"
+  },
+  {
+   "i": 26,
+   "file_index": 26,
+   "target": "!:\\private\\2000B4B1\\12",
+   "mime": "",
+   "algo": 1,
+   "size": 579,
+   "written": "dogz_part1/!/private/2000B4B1/12.bin"
+  },
+  {
+   "i": 27,
+   "file_index": 27,
+   "target": "!:\\private\\2000B4B1\\13",
+   "mime": "",
+   "algo": 1,
+   "size": 168,
+   "written": "dogz_part1/!/private/2000B4B1/13.bin"
+  },
+  {
+   "i": 28,
+   "file_index": 28,
+   "target": "!:\\private\\2000B4B1\\14",
+   "mime": "",
+   "algo": 1,
+   "size": 322,
+   "written": "dogz_part1/!/private/2000B4B1/14.bin"
+  },
+  {
+   "i": 29,
+   "file_index": 29,
+   "target": "!:\\private\\2000B4B1\\15",
+   "mime": "",
+   "algo": 1,
+   "size": 5058,
+   "written": "dogz_part1/!/private/2000B4B1/15.bin"
+  },
+  {
+   "i": 30,
+   "file_index": 30,
+   "target": "!:\\private\\2000B4B1\\16",
+   "mime": "",
+   "algo": 1,
+   "size": 2957,
+   "written": "dogz_part1/!/private/2000B4B1/16.bin"
+  },
+  {
+   "i": 31,
+   "file_index": 31,
+   "target": "!:\\private\\2000B4B1\\17",
+   "mime": "",
+   "algo": 1,
+   "size": 1201,
+   "written": "dogz_part1/!/private/2000B4B1/17.bin"
+  },
+  {
+   "i": 32,
+   "file_index": 32,
+   "target": "!:\\private\\2000B4B1\\18",
+   "mime": "",
+   "algo": 1,
+   "size": 1029,
+   "written": "dogz_part1/!/private/2000B4B1/18.bin"
+  },
+  {
+   "i": 33,
+   "file_index": 33,
+   "target": "!:\\private\\2000B4B1\\2.bar",
+   "mime": "",
+   "algo": 1,
+   "size": 910,
+   "written": "dogz_part1/!/private/2000B4B1/2.bar"
+  },
+  {
+   "i": 34,
+   "file_index": 34,
+   "target": "!:\\private\\2000B4B1\\3.bar",
+   "mime": "",
+   "algo": 1,
+   "size": 1206,
+   "written": "dogz_part1/!/private/2000B4B1/3.bar"
+  },
+  {
+   "i": 35,
+   "file_index": 35,
+   "target": "!:\\private\\2000B4B1\\4",
+   "mime": "",
+   "algo": 1,
+   "size": 4391,
+   "written": "dogz_part1/!/private/2000B4B1/4.bin"
+  },
+  {
+   "i": 36,
+   "file_index": 36,
+   "target": "!:\\private\\2000B4B1\\5",
+   "mime": "",
+   "algo": 1,
+   "size": 2146,
+   "written": "dogz_part1/!/private/2000B4B1/5.bin"
+  },
+  {
+   "i": 37,
+   "file_index": 37,
+   "target": "!:\\private\\2000B4B1\\6",
+   "mime": "",
+   "algo": 1,
+   "size": 2300,
+   "written": "dogz_part1/!/private/2000B4B1/6.bin"
+  },
+  {
+   "i": 38,
+   "file_index": 38,
+   "target": "!:\\private\\2000B4B1\\7",
+   "mime": "",
+   "algo": 1,
+   "size": 2605,
+   "written": "dogz_part1/!/private/2000B4B1/7.bin"
+  },
+  {
+   "i": 39,
+   "file_index": 39,
+   "target": "!:\\private\\2000B4B1\\8",
+   "mime": "",
+   "algo": 1,
+   "size": 2281,
+   "written": "dogz_part1/!/private/2000B4B1/8.bin"
+  },
+  {
+   "i": 40,
+   "file_index": 40,
+   "target": "!:\\private\\2000B4B1\\9",
+   "mime": "",
+   "algo": 1,
+   "size": 2957,
+   "written": "dogz_part1/!/private/2000B4B1/9.bin"
+  },
+  {
+   "i": 41,
+   "file_index": 41,
+   "target": "!:\\private\\2000B4B1\\anim.bar",
+   "mime": "",
+   "algo": 0,
+   "size": 166484,
+   "written": "dogz_part1/!/private/2000B4B1/anim.bar"
+  },
+  {
+   "i": 42,
+   "file_index": 42,
+   "target": "c:\\private\\2000B4B1\\as.dat",
+   "mime": "",
+   "algo": 1,
+   "size": 24035,
+   "written": "dogz_part1/c/private/2000B4B1/as.dat"
+  },
+  {
+   "i": 43,
+   "file_index": 43,
+   "target": "!:\\private\\2000B4B1\\backup_registration.xml",
+   "mime": "",
+   "algo": 1,
+   "size": 234,
+   "written": "dogz_part1/!/private/2000B4B1/backup_registration.xml"
+  },
+  {
+   "i": 44,
+   "file_index": 44,
+   "target": "!:\\private\\2000B4B1\\bone.bar",
+   "mime": "",
+   "algo": 0,
+   "size": 2567,
+   "written": "dogz_part1/!/private/2000B4B1/bone.bar"
+  },
+  {
+   "i": 45,
+   "file_index": 45,
+   "target": "!:\\private\\2000B4B1\\DOGZ3DNGAGE.EXEv",
+   "mime": "",
+   "algo": 1,
+   "size": 12552,
+   "written": "dogz_part1/!/private/2000B4B1/DOGZ3DNGAGE.EXEv"
+  },
+  {
+   "i": 46,
+   "file_index": 46,
+   "target": "!:\\private\\2000B4B1\\level.bar.ngdat",
+   "mime": "",
+   "algo": 0,
+   "size": 115512,
+   "written": "dogz_part1/!/private/2000B4B1/level.bar.ngdat"
+  },
+  {
+   "i": 47,
+   "file_index": 47,
+   "target": "!:\\private\\2000B4B1\\mesh.bar",
+   "mime": "",
+   "algo": 1,
+   "size": 129651,
+   "written": "dogz_part1/!/private/2000B4B1/mesh.bar"
+  },
+  {
+   "i": 48,
+   "file_index": 48,
+   "target": "!:\\private\\2000B4B1\\palette.bar",
+   "mime": "",
+   "algo": 1,
+   "size": 12626,
+   "written": "dogz_part1/!/private/2000B4B1/palette.bar"
+  },
+  {
+   "i": 49,
+   "file_index": 49,
+   "target": "!:\\private\\2000B4B1\\scene.bar",
+   "mime": "",
+   "algo": 1,
+   "size": 952,
+   "written": "dogz_part1/!/private/2000B4B1/scene.bar"
+  },
+  {
+   "i": 50,
+   "file_index": 50,
+   "target": "!:\\private\\2000B4B1\\sprite.bar",
+   "mime": "",
+   "algo": 1,
+   "size": 286696,
+   "written": "dogz_part1/!/private/2000B4B1/sprite.bar"
+  },
+  {
+   "i": 51,
+   "file_index": 51,
+   "target": "!:\\private\\2000B4B1\\texture.bar",
+   "mime": "",
+   "algo": 0,
+   "size": 492067,
+   "written": "dogz_part1/!/private/2000B4B1/texture.bar"
+  },
+  {
+   "i": 52,
+   "file_index": 52,
+   "target": "c:\\private\\2000B4B1\\Arena\\config.xml",
+   "mime": "",
+   "algo": 1,
+   "size": 3369,
+   "written": "dogz_part1/c/private/2000B4B1/Arena/config.xml"
+  },
+  {
+   "i": 53,
+   "file_index": 53,
+   "target": "c:\\private\\2000B4B1\\Arena\\game.rsc",
+   "mime": "",
+   "algo": 1,
+   "size": 2680,
+   "written": "dogz_part1/c/private/2000B4B1/Arena/game.rsc"
+  },
+  {
+   "i": 54,
+   "file_index": 54,
+   "target": "c:\\private\\2000B4B1\\bin\\level.bar.ngdat",
+   "mime": "",
+   "algo": 1,
+   "size": 115200,
+   "written": "dogz_part1/c/private/2000B4B1/bin/level.bar.ngdat"
+  },
+  {
+   "i": 55,
+   "file_index": 37,
+   "target": "!:\\sys\\bin\\AS_2000B4B1.exe",
+   "mime": "",
+   "algo": 1,
+   "size": 2300,
+   "written": "dogz_part1/!/sys/bin/AS_2000B4B1.exe"
+  },
+  {
+   "i": 56,
+   "file_index": 37,
+   "target": "!:\\sys\\bin\\BiN_DogzCrack.dll",
+   "mime": "",
+   "algo": 1,
+   "size": 2300,
+   "written": "dogz_part1/!/sys/bin/BiN_DogzCrack.dll"
+  },
+  {
+   "i": 57,
+   "file_index": 37,
+   "target": "!:\\sys\\bin\\Dogdl.dll",
+   "mime": "",
+   "algo": 1,
+   "size": 2300,
+   "written": "dogz_part1/!/sys/bin/Dogdl.dll"
+  },
+  {
+   "i": 58,
+   "file_index": 37,
+   "target": "!:\\sys\\bin\\dogz3dngage.exe",
+   "mime": "",
+   "algo": 1,
+   "size": 2300,
+   "written": "dogz_part1/!/sys/bin/dogz3dngage.exe"
+  },
+  {
+   "i": 59,
+   "file_index": 37,
+   "target": "!:\\sys\\bin\\ngifilemanagerfactory_2000b4b1.dll",
+   "mime": "",
+   "algo": 1,
+   "size": 2300,
+   "written": "dogz_part1/!/sys/bin/ngifilemanagerfactory_2000b4b1.dll"
+  }
+ ]
+}
